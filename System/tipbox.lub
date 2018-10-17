@@ -2,316 +2,263 @@ tbl = {
 	[1] = {
 		Title = "Tip box",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00001",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/tip alternatively, you can open the tip box by clicking the tip box icon..\\nThe tip box provides useful information for playing games.\\nIf you want to get more information, please enter a search term in ^3b488cSearch window^000000.\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"/tip alternatively, you can open the tip box by clicking the tip box icon..\\nThe tip box provides useful information for playing games.\\nIf you want to get more information, please enter a search term in ^3b488cSearch window^000000.\n"
 		},
-		PageEX = {
-			{ EffectNum = 0, Twinkle = 1, StartX = 160, StartY = 105, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[2] = {
 		Title = "Help: Command list",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00002",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/h to see useful commands used in Ragnarok.\\n/You can use commands by typing it in ^3b488chat window^000000.\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"/h to see useful commands used in Ragnarok.\\n/You can use commands by typing it in ^3b488cchat window^000000.\n"
 		}
 	},
 	[3] = {
 		Title = "Character: HP",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00003",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Indicates the character's health.\\n^ff0000When HP reaches 0, your character won't be able to participate in battle. ^000000Please be careful because ^ff0000experience penalty^000000 may accure on certain locations.\\n\tPress Alt + END to toggle HP/SP meter ON/OFF.\n--<TIPBOX>¡íCharacter: SP<INFO>4</INFO></TIPBOX>\n--<TIPBOX>¡íAuto regen<INFO>12</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Indicates the character's health.\\n^ff0000When HP reaches 0, your character won't be able to participate in battle. ^000000Please be careful because ^ff0000experience penalty^000000 may accure on certain locations.\\n\tPress Alt + END to toggle HP/SP meter ON/OFF.\n"
 		},
-		PageEX = {
-			{ EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 60, DistX = 0, DistY = 0, MoveTime = 0 },
-			{ EffectNum = 3, Twinkle = 1, StartX = 120, StartY = 265, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[4] = {
 		Title = "Character: SP",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00003",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Indicates the character's spirit.\\nCertain skills will ^3b488cconsume SP^000000. ^000000Please be careful because^ff0000 when SP reaches 0, your character won't be able to cast a skill^000000.\\nPress Alt + END to toggle HP/SP meter ON/OFF.\n--<TIPBOX>¡íCharacter: HP<INFO>3</INFO></TIPBOX>\n--<TIPBOX>¡íAuto regen<INFO>12</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Indicates the character's spirit.\\nCertain skills will ^3b488cconsume SP^000000. ^000000Please be careful because^ff0000 when SP reaches 0, your character won't be able to cast a skill^000000.\\nPress Alt + END to toggle HP/SP meter ON/OFF.\n"
 		},
-		PageEX = {
-			{ EffectNum = 0, Twinkle = 1, StartX = 100, StartY = 105, DistX = 0, DistY = 0, MoveTime = 0 },
-			{ EffectNum = 0, Twinkle = 1, StartX = 120, StartY = 305, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[5] = {
 		Title = "Character: Level Up",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00005",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can level up by hunting monsters or completing quests to gain experience.\\nBy gaining EXP and base level you will obtain ^3b488cstatus points^000000 that can be used to raise character's stats.\\nBy gaining JOBEXP and job level you will obtain ^3b488cskill points^000000 that can be used to learn skill.\n--<TIPBOX>¡íBattle: Experience<INFO>16</INFO></TIPBOX>\n--<TIPBOX>¡íCharacter: Stats<INFO>6</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can level up by hunting monsters or completing quests to gain experience.\\nBy gaining EXP and base level you will obtain ^3b488cstatus points^000000 that can be used to raise character's stats.\\nBy gaining JOBEXP and job level you will obtain ^3b488cskill points^000000 that can be used to learn skill.\n"
 		},
-		PageEX = {
-			{ EffectNum = 3, Twinkle = 1, StartX = 10, StartY = 265, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[6] = {
 		Title = "Stats: STR(Strength)#Stats",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"CharacterÀÇ ^3b488c±ÙÁ¢ ¹°¸® °ø°İ·Â^000000¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ¹ÌÃÄ ±âº» °ø°İ µ¥¹ÌÁö°¡ ¿Ã¶ó°©´Ï´Ù.\\n¶Ç, ^3b488c¼ÒÁöÇÑ°è·®(Weight)^000000ÀÌ ´Ã¾î³ª º¸´Ù ¸¹Àº ¾ÆÀÌÅÛÀ» °¡Áö°í ´Ù´Ò ¼ö ÀÖ°Ô µË´Ï´Ù.\n--<TIPBOX>¡íStats: AGI(Agility)<INFO>7</INFO></TIPBOX>\n--<TIPBOX>¡íStats: VIT(Vitality)<INFO>8</INFO></TIPBOX>\n--<TIPBOX>¡íStats: INT(Intelligence)<INFO>9</INFO></TIPBOX>\n--<TIPBOX>¡íStats: DEX(Dexterity)<INFO>10</INFO></TIPBOX>\n--<TIPBOX>¡íStats: LUK(Luck)<INFO>11</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"STR ^3b488cMeele Physical Damage^000000Base attack damage will increase.\\nAdditionally, ^3b488cPossession threshold(Weight)^000000Enables you to carry more items.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 210, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[7] = {
 		Title = "Stats: AGI(Agility)#Stats",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"CharacterÀÇ ¼Óµµ¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ¹ÌÃÄ ^3b488c°ø°İ¼Óµµ^000000¿Í ^3b488cÈ¸ÇÇÀ²^000000ÀÌ ¿Ã¶ó°©´Ï´Ù.\\n¶Ç, ^3b488c¹°¸® ¹æ¾î·Â^000000¿¡µµ ¿µÇâÀ» Áİ´Ï´Ù.\n--<TIPBOX>¡íStats: STR(Strength)<INFO>6</INFO></TIPBOX>\n--<TIPBOX>¡íStats: VIT(Vitality)<INFO>8</INFO></TIPBOX>\n--<TIPBOX>¡íStats: INT(Intelligence)<INFO>9</INFO></TIPBOX>\n--<TIPBOX>¡íStats: DEX(Dexterity)<INFO>10</INFO></TIPBOX>\n--<TIPBOX>¡íStats: LUK(Luck)<INFO>11</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"AGI has a direct effect on the ^3b488cAttack Speed^000000and ^3b488cEvation Rate^000000goes up.\\nAdditionally, ^3b488cPhysical Defense^000000is also affected.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 223, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[8] = {
 		Title = "Stats: VIT(Vitality)#Stats",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"CharacterÀÇ Ã¼·Â¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ¹ÌÃÄ ^3b488cÃÖ´ë HP^000000°¡ ¿Ã¶ó°©´Ï´Ù.\\n¶Ç, ^3b488c¹°¸® ¹æ¾î·Â^000000°ú ^3b488c¸¶¹ı ¹æ¾î·Â^000000À» ¿Ã·ÁÁÖ°í ^3b488cHPÀÚµ¿ È¸º¹^000000¿¡µµ ¿µÇâÀ» Áİ´Ï´Ù.\n--<TIPBOX>¡íStats: STR(Strength)<INFO>6</INFO></TIPBOX>\n--<TIPBOX>¡íStats: AGI(Agility)<INFO>7</INFO></TIPBOX>\n--<TIPBOX>¡íStats: INT(Intelligence)<INFO>9</INFO></TIPBOX>\n--<TIPBOX>¡íStats: DEX(Dexterity)<INFO>10</INFO></TIPBOX>\n--<TIPBOX>¡íStats: LUK(Luck)<INFO>11</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"VIT has a direct effect on ^3b488cthe max HP^000000and it goes up.\\nAdditionally, ^3b488cPhysical Defense^000000and ^3b488cMagical Defense^000000goes up^3b488cAutomatic recovery of HP^000000is also affected.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 236, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[9] = {
 		Title = "Stats: INT(Intelligence)#Stats",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"CharacterÀÇ ^3b488c¸¶¹ı °ø°İ·Â^000000¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ¹ÌÃÄ ^3b488c¸¶¹ı µ¥¹ÌÁö^000000°¡ ¿Ã¶ó°©´Ï´Ù.\\n¶Ç, ^3b488cÄ³½ºÆÃ ½Ã°£^000000À» ´ÜÃà½ÃÅ°°í ^3b488c¸¶¹ı ¹æ¾î·Â^000000À» ¿Ã·ÁÁÖ¸ç ^3b488cÃÖ´ëSP·®^000000À» ´Ã·Á ¸¶¹ıÀ» ´õ ¸¹ÀÌ ¾µ ¼ö ÀÖ°Ô ÇØÁİ´Ï´Ù.\n--<TIPBOX>¡íStats: STR(Strength)<INFO>6</INFO></TIPBOX>\n--<TIPBOX>¡íStats: AGI(Agility)<INFO>7</INFO></TIPBOX>\n--<TIPBOX>¡íStats: VIT(Vitality)<INFO>8</INFO></TIPBOX>\n--<TIPBOX>¡íStats: DEX(Dexterity)<INFO>10</INFO></TIPBOX>\n--<TIPBOX>¡íStats: LUK(Luck)<INFO>11</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"INT affects ^3b488cMagic Attack Power^000000and directly affects^3b488cMagical Damage^000000by increasing it.\\nAdditionally, ^3b488c Shortens casting time ^000000, increases ^3b488c magical defense force ^000000, and increases ^3b488c maximum SP amount ^000000, allowing more magic to be used.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 250, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[10] = {
 		Title = "Stats: DEX(Dexterity)#Stats",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"CharacterÀÇ ^3b488c¿ø°Å¸®¹°¸® °ø°İ·Â^000000¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ¹ÌÃÄ ^3b488c¿ø°Å¸® °ø°İ µ¥¹ÌÁö^000000°¡ ¿Ã¶ó°©´Ï´Ù.\\n¶Ç, ^3b488c¸íÁß·ü^000000À» ¿Ã·ÁÁà °ø°İÀÌ ¼º°øÇÒ È®·üÀÌ ³ô¾ÆÁö°í ^3b488cÄ³½ºÆÃ ½Ã°£^000000À» ´ÜÃà½ÃÅ°¸ç ^3b488c¸¶¹ı °ø°İ·Â^000000À» ¿Ã·ÁÁİ´Ï´Ù.\n--<TIPBOX>¡íStats: STR(Strength)<INFO>6</INFO></TIPBOX>\n--<TIPBOX>¡íStats: AGI(Agility)<INFO>7</INFO></TIPBOX>\n--<TIPBOX>¡íStats: VIT(Vitality)<INFO>8</INFO></TIPBOX>\n--<TIPBOX>¡íStats: INT(Intelligence)<INFO>9</INFO></TIPBOX>\n--<TIPBOX>¡íStats: LUK(Luck)<INFO>11</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"DEX affects ^3b488cRanged physical damage^000000and directly affects ^3b488cLong-range attack^000000by increasing it.\\nAdditionally, ^3b488cA^000000increases the probability of successful attack ^3b488cand casting time^000000reduces.^3b488cMagic attack power^000000also goes up.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 263, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[11] = {
 		Title = "Stats: LUK(Luck)#Stats",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"CharacterÀÇ ^3b488cÄ¡¸íÅ¸À²^000000¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ¹ÌÃÄ ¸ó½ºÅÍ¿¡°Ô ^3b488cÅ©¸®Æ¼ÄÃ µ¥¹ÌÁö^000000¸¦ ÁÙ È®·üÀÌ ¿Ã¶ó°©´Ï´Ù.\\n¶Ç, ^3b488c¸íÁß·ü, È¸ÇÇÀ², ¹°¸® °ø°İ·Â, ¸¶¹ı °ø°İ·Â^000000µî¿¡ ¿µÇâÀ» ÁÖÁö¸¸ ^ff0000È¿À²ÀÌ ´Ù¸¥ Status¿¡ ºñÇØ ³·À¸¹Ç·Î Æ÷ÀÎÆ®¸¦ ÅõÀÚÇÒ ¶§ ÁÖÀÇ°¡ ÇÊ¿äÇÕ´Ï´Ù.^000000\n--<TIPBOX>¡íStats: STR(Strength)<INFO>6</INFO></TIPBOX>\n--<TIPBOX>¡íStats: AGI(Agility)<INFO>7</INFO></TIPBOX>\n--<TIPBOX>¡íStats: VIT(Vitality)<INFO>8</INFO></TIPBOX>\n--<TIPBOX>¡íStats: INT(Intelligence)<INFO>9</INFO></TIPBOX>\n--<TIPBOX>¡íStats: DEX(Dexterity)<INFO>10</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"LUK affects ^3b488cCritical Rate^000000There is a probability of giving^3b488cCritical Damage^000000directly to the monster.\\nAdditionally, ^3b488cAccuracy, Evasion Rate, Physical Damage, Magic Attack Power^000000are also affected ^ff0000in different ways by Status, So be careful when investing points.^000000\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 276, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[12] = {
 		Title = "Auto regen",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00012",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¾Æ¹«·± Çàµ¿µµ ÇÏÁö ¾Ê°í Á¦ÀÚ¸®¿¡ °¡¸¸È÷ ¼­ ÀÖÀ¸¸é ÇÃ·¹ÀÌ¾îÀÇ ^3b488cHP¿Í SP°¡ Á¶±İ¾¿ È¸º¹^000000 µË´Ï´Ù. ¾É¾Æ ÀÖÀ» °æ¿ì 2¹è·Î È¸º¹µË´Ï´Ù.\\n^ff0000¹«°Ô°¡ 70% ÀÌ»óÀÏ °æ¿ì´Â È¸º¹µÇÁö ¾Ê½À´Ï´Ù.^000000\n--<TIPBOX>¡íCharacter: Weight<INFO>13</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"If you stand still without movement ^3b488cHP and SP recovers little by little.^000000 If you sit down, recovery doubles.\\n^ff0000If Weight exceeds 70%, recovery stops.^000000\n"
 		}
 	},
 	[13] = {
 		Title = "Character: Weight",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00012",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Character°¡ Áö´Ò ¼ö ÀÖ´Â ¹«°Ô¿Í ÇöÀç Áö´Ñ ¾ÆÀÌÅÛÀÇ ¹«°Ô¸¦ ³ªÅ¸³À´Ï´Ù.\\nWeight¸¸Å­ ¾ÆÀÌÅÛÀ» Áö´Ò ¼ö ÀÖÀ¸¸ç ^ff0000¾ÆÀÌÅÛÀÇ ¹«°Ô°¡ ÇÑ°èÄ¡¸¦ ³ÑÀ¸¸é ´õ ÀÌ»ó ¾ÆÀÌÅÛÀ» °¡Áú ¼ö ¾ø½À´Ï´Ù.\\nWeight ÀÇ ¼öÄ¡°¡ 70%ÀÌ»óÀÌ¸é HP ¿Í SP°¡ ÀÚµ¿À¸·Î È¸º¹ µÇÁö¾Ê½À´Ï´Ù. ¶ÇÇÑ 90% ÀÌ»ó ³Ñ°Ô µÇ¸é ÇÃ·¹ÀÌ¾î´Â °ø°İÀ» ÇÏ°Å³ª ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.^000000\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"It represents the weight of the item and the weight of the equipment that you are wearing.\\nAfter a certain Weight limit ^ff0000you can no longer have any items.\\nIf Weight is above 70%, HP and SP recovery stops. Additionally if weight exceeds 90%, player cannot attack or use any skill.^000000\n"
 		},
-		PageEX = {
-			{ EffectNum = 0, Twinkle = 1, StartX = 100, StartY = 185, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[14] = {
 		Title = "Battle: Attack",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00014",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¸ó½ºÅÍ À§¿¡ ¸¶¿ì½º Ä¿¼­¸¦ °¡Á®°¡¸é Ä¿¼­°¡ Ä® ¸ğ¾çÀ¸·Î ¹Ù²î°Ô µË´Ï´Ù.\\nÀÌ¶§, ^3b488cÅ¬¸¯^000000À¸·Î °ø°İÇÒ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íLock-on mode: Automatic attack<INFO>15</INFO></TIPBOX>\n--<TIPBOX>¡íBattle: Experience<INFO>16</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Hover your mouse over the monster and your cursor will turn into a sword.\\nAt this time, ^3b488cclick^000000to attack the monster.\n"
 		}
 	},
 	[15] = {
 		Title = "Lock-on mode: Automatic attack",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00014",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Ctrl Å°¸¦ ´©¸¥ »óÅÂ¿¡¼­ ¸ó½ºÅÍ¸¦ °ø°İÇÏ¸é ¸ó½ºÅÍ¸¦ Ã³Ä¡ÇÒ ¶§±îÁö ^3b488cÀÚµ¿À¸·Î °ø°İ^000000ÇÏ°Ô µÇ¸ç ´Ù¸¥ °÷À» Å¬¸¯ÇÏ¸é ÇØÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù.\\n¶Ç, ^3b488c/noctrl¸¦ ÀÔ·ÂÇÏ¸é CtrlÀ» ´©¸£Áö¾Ê¾Æµµ ÀÚµ¿°ø°İÀÌ µÇ´Â »óÅÂ°¡ µË´Ï´Ù.\\nÀÚµ¿°ø°İÀÌ ±âº»ÀÎ »óÅÂ¿¡¼­ /noctrlÀ» ´Ù½Ã ÀÔ·ÂÇÏ¸é ÀÚµ¿°ø°İ ¸ğµå¸¦ ÇØÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù.^000000\n--<TIPBOX>¡íBattle: Attack<INFO>14</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"If you attack a monster while holding down the Ctrl key, ^3b488cyou start auto attacking.^000000You can turn it off by clicking elsewhere.\\nAdditionally, ^3b488cIf you enter /noctrl, you will auto-attack even if you do not press Ctrl.\\nIf you do not want auto-attack, You can turn off automatic attack mode using /noctrl again.^000000\n"
 		}
 	},
 	[16] = {
 		Title = "Battle: Experience",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00016",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¸ó½ºÅÍ¸¦ »ç³ÉÇÏ¸é ^3b488c°æÇèÄ¡^000000¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù.\\n¸ó½ºÅÍ¿¡°Ô ¾ò´Â °æÇèÄ¡´Â ¸ó½ºÅÍ¿¡°Ô ÁØ ÇÇÇØ¿Í ºñ·ÊÇÏÁö¸¸ °°Àº ÇÇÇØ¸¦ ÁÖ¾ú´Ù ÇÏ´õ¶óµµ ¸Ç Ã³À½¿¡ ¸ó½ºÅÍ¸¦ °ø°İÇÑ »ç¶÷ÀÌ °æÇèÄ¡¸¦ ´õ ¸¹ÀÌ ¹Ş°Ô µË´Ï´Ù.\n--<TIPBOX>¡íBattle: Attack<INFO>14</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"If you hunt monsters ^3b488cExperience^000000is gained.\\nThe experience gained for the monster is proportional to the damage done to the monster, but even if you do the same damage, the first person to attack the monster receives more experience.\n"
 		}
 	},
 	[17] = {
 		Title = "Item",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00017",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can pick up item that fall on the floor by using ^3b488cLeft-click^000000 of mouse.\\nPicked items are put in the item window ALT+E.\n--<TIPBOX>¡íItem: Magnifier<INFO>18</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can pick up item that fall on the floor by using ^3b488cLeft-click^000000 of mouse.\\nPicked items are put in the item window ALT+E.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 150, StartY = 250, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[18] = {
 		Title = "Item: Magnifier",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00018",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Equipment items obtained from monster are displayed as ^ff0000Unknown item^000000. You can identify this item by using <ITEM>Magnifier<INFO>611 Magnifier</INFO></ITEM> that can be bought from Tool Dealer.\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Equipment items obtained from monster are displayed as ^ff0000Unknown item^000000. You can identify this item by using <ITEM>Magnifier<INFO>611 Magnifier</INFO></ITEM> that can be bought from Tool Dealer.\n"
 		},
-		PageEX = {
-			{ EffectNum = 5, Twinkle = 1, StartX = 100, StartY = 88, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[19] = {
 		Title = "Chatting: Dialog",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00019",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¿£ÅÍÅ°·Î Chat windowÀ» È°¼ºÈ­ ½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù. ÇÏ°í ½ÍÀº ¸»À» ¾²°í ´Ù½Ã ¿£ÅÍÅ°¸¦ ´©¸£¸é Dialog°¡ Àü¼Û µË´Ï´Ù.\n--<TIPBOX>¡íChatting: Chat room<INFO>20</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Whisper<INFO>21</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Party<INFO>22</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Guild<INFO>23</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Chat window<INFO>25</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Show content<INFO>26</INFO></TIPBOX>\n--<TIPBOX>¡íÂ÷´Ü<INFO>28</INFO></TIPBOX>\n--<TIPBOX>¡íÀÌ¸ğ¼Ç<INFO>27</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Save dialog<INFO>24</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Enter Chat window to activate it. If you write something you want and press Enter key again, Dialog will be sent.\n"
 		},
-		PageEX = {
-			{ EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 280, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[20] = {
 		Title = "Chatting: Chat room",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00020",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/Chat room ¶Ç´Â /chatÀ¸·Î ^3b488cChat room^000000À» ¸¸µå´Â Ã¢À» ¶ç¿ï ¼ö ÀÖ½À´Ï´Ù. ¶Ç /q ¸í·ÉÀ¸·Î Chat roomÀ» ³ª°¥ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íChatting: Dialog<INFO>19</INFO></TIPBOX>\n--<TIPBOX>¡íChatting: Save dialog<INFO>24</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"/Chat room Additionally the /chat can be used for^3b488cChat room^000000 window creation. Additionally /q command can be used to leave the Chat room.\n"
 		}
 	},
 	[21] = {
 		Title = "Chatting: Whisper",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00021",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Chat window ¿ŞÂÊ ÀÔ·Â¶õ¿¡ CharacterÀÌ¸§À» ÀÔ·ÂÇÏ¸é ÇØ´ç Character¿¡°Ô WhisperÀ» ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n----^3b488cAlt + H^000000·Î ^3b488c±Ó¸» ¸®½ºÆ®^000000 Ã¢À» ¿­¾î Whisper »ó´ë¸¦ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íBlock<INFO>28</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Chat window in the left field can be used to enter a character name to whisper the character.\n^3b488cAlt + H^000000shows ^3b488cthe window^000000 which you can open to see who you are whispering.\n"
 		},
-		PageEX = {
-			{ EffectNum = 3, Twinkle = 1, StartX = 30, StartY = 260, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[22] = {
 		Title = "Chatting: Party",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00022",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Party¸â¹ö¿ÍÀÇ Dialog´Â % ÇÏ°í ½ÍÀº ¸»  ¶Ç´Â CTRL+ENTER·Î ÇÒ ¼ö ÀÖ½À´Ï´Ù.\\n¶Ç, Chat window ¿À¸¥ÂÊÀÇ ^3b488cÆÄ¶õµ¿±×¶ó¹Ì^000000¸¦ ´©¸£¸é ^3b488c¼ö½Å±×·ìÀ» ¼³Á¤^000000ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íChatting: Guild<INFO>23</INFO></TIPBOX>\n--<TIPBOX>¡íParty system<INFO>29</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Dialog with Party members can be done by pressing CTRL + ENTER.\\nAdditionally,Press the ^3b488c blue circle ^000000 on the right side of the chat window to set ^3b488c receiving group ^000000.\n"
 		}
 	},
 	[23] = {
 		Title = "Chatting: Guild",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00023",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Guild¸â¹ö¿ÍÀÇ Dialog´Â /gc ÇÏ°í ½ÍÀº ¸»  ¶Ç´Â $ ÇÏ°í ½ÍÀº ¸»  ¶Ç´Â ALT+ENTER·Î ÇÒ ¼ö ÀÖ½À´Ï´Ù.\\n¶Ç, Chat window ¿À¸¥ÂÊÀÇ ^3b488cÆÄ¶õµ¿±×¶ó¹Ì^000000¸¦ ´©¸£¸é ^3b488c¼ö½Å±×·ìÀ» ¼³Á¤^000000ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íChatting: Party<INFO>22</INFO></TIPBOX>\n--<TIPBOX>¡íGuild system<INFO>30</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Dialogs with Guild members can be toggled by pressing ALT + ENTER if you want to use /gc.\\nAdditionally, if you press ^3b488c blue circle ^000000 on the right side of the chat window, you can set ^3b488c receiving group ^000000.\n"
 		}
 	},
 	[24] = {
 		Title = "Chatting: Save dialog",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00024",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/°¥¹«¸® or /savechat À¸·Î Ã¤ÆÃ ³»¿ëÀ» ÆÄÀÏ·Î ÀúÀåÇÕ´Ï´Ù. \\nDialog ³»¿ëÀº ¶ó±×³ª·ÎÅ©°¡ ¼³Ä¡ µÈ Æú´õÀÇ ChatÆú´õ ¾È¿¡ ÀúÀå µË´Ï´Ù.\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Save the contents of the chat as a file with /capture /savechat.\nDialog content is stored in the Chat folder of the folder where Ragnarok is installed.\n"
 		},
-		PageEX = {
-			{ EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 210, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[25] = {
 		Title = "Chatting: Chat window",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00025",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"^3b488cF10^000000À¸·Î Chat windowÀÇ Å©±â¸¦ Á¶ÀıÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nAlt + F10À» ´©¸£¸é Chat windowÀ» On/Off ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íChatting: Show content<INFO>26</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"^3b488cYou can adjust the size of the chat window with F10 ^000000.\\nAlt + F10 to turn chat window on /off.\n"
 		},
-		PageEX = {
-			{ EffectNum = 3, Twinkle = 1, StartX = 120, StartY = 150, DistX = 0, DistY = 0, MoveTime = 0 }
-		}
 	},
 	[26] = {
 		Title = "Chatting: Show content",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00026",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Chat window¿¡ /notalkmsg¸¦ ÀÔ·ÂÇÏ¸é Ã¤ÆÃ³»¿ëÀ» Chat window¿¡ Ç¥½ÃÇÏÁö ¾Ê½À´Ï´Ù. On/Off\\n/notalkmsg2¸¦ ÀÔ·ÂÇÏ¸é Guild¸»À» Æ÷ÇÔÇÑ Ã¤ÆÃ³»¿ëÀ» Chat window¿¡ Ç¥½ÃÇÏÁö ¾Ê½À´Ï´Ù. On/Off\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Entering /notalkmsg in the chat window will not display the chat contents in the chat window. On/Off\\nIf you enter /notalkmsg2, chat contents including the guild are not displayed in the chat window. On/Off\n"
 		}
 	},
 	[27] = {
 		Title = "Emotion",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00027",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"ALT + LÀ» ´©¸£°Å³ª /ÀÌ¸ğ¼ÇÀ» ÀÔ·ÂÇÏ¸é »ç¿ë°¡´ÉÇÑ ^3b488cÀÌ¸ğ¼Ç^000000ÀÇ ¸ñ·ÏÀ» º¼ ¼ö ÀÖ½À´Ï´Ù.\\n\\nCtrlÀ» ´©¸¥Ã¤ -, =, \\¸¦ ´­·¯ °¡À§, ¹ÙÀ§, º¸ ÀÌ¸ğ¼ÇÀ» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Press ALT + L or enter /emotion to see a list of available ^3b488c emotions ^000000.\\n\\nPress Ctrl, -, and \\ to select scissors, rocks, and others.\n"
 		}
 	},
 	[28] = {
 		Title = "Block",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00028",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/Â÷´Ü Character¸í ¶Ç´Â /ex Character¸íÀ¸·Î ÇØ´ç Character°¡ ÇÏ´Â ¸»ÀÌ³ª Whisper µîÀ» Â÷´ÜÇÕ´Ï´Ù. ÇØÁ¦ÇÏ°í ½ÍÀ»¶§¿¡´Â /ÇØÁ¦ Character¸í ¶Ç´Â /in Character¸í À¸·Î ÇØÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù.\\n¶Ç, /Â÷´ÜÀüºÎ, /exall, /ÇØÁ¦ÀüºÎ, /inall ¸í·É¾î·Î ÀüÃ¼ Dialog¿Í WhisperÀ» Â÷´ÜÇÏ°Å³ª ÇØÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nÂ÷´ÜµÈ CharacterÀÇ ¸ñ·ÏÀ» È®ÀÎÇÏ°í ½ÍÀ»¶§¿¡´Â /Â÷´Ü ¶Ç´Â /ex·Î ¸ñ·ÏÀ» º¼ ¼ö ÀÖ½À´Ï´Ù.\\n^ff0000¡Ø (Y/N)¸¦ ¹¯Áö ¾ÊÀ¸¹Ç·Î, ½ÅÁßÇÏ°Ô ¼±ÅÃÇÏ¼Å¾ß ÇÕ´Ï´Ù.^000000\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"/Block character name and /ex Character name blocks the character or whisper, etc. To cancel, the character name can be unset with / in Character name.\\nAdditionally, You can block or disable all Dialogs and Whispers with /all, /exall, and /inall commands.\\nIf you want to see a list of blocked characters, you can / .\\n^ff0000 (Y / N) is not asked, so you have to choose carefully.^000000\n"
 		}
 	},
 	[29] = {
 		Title = "Party system",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00029",
+		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/°á¼º PartyÀÌ¸§ ¶Ç´Â /organize PartyÀÌ¸§À¸·Î Party¸¦ ¸¸µé ¼ö ÀÖ½À´Ï´Ù.\\n/Å»Åğ ¶Ç´Â /leave·Î Party¸¦ Å»ÅğÇÒ ¼ö ÀÖ½À´Ï´Ù.",
-			"Party¸¦ °á¼ºÇÏ¿© Party¸®´õ°¡ µÈ °æ¿ì, »ó´ë Character¸¦ ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© 'Party¿¡ ÃÊ´ëÇÑ´Ù' ¸Ş´º¸¦ ¼±ÅÃÇÏ°Å³ª /ÃÊ´ë Character¸íÀ¸·Î Party¿¡ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nParty¿øÀ» Á¦¸íÇÏ°í ½ÍÀº °æ¿ì /Á¦¸í CharacterÀÌ¸§ ¶Ç´Â /expel CharacterÀÌ¸§À¸·Î ^3b488cÀÚ½ÅÀÌ ¸®´õÀÎ Party^000000ÀÇ Party¿øÀ» Á¦¸íÇÒ ¼ö ÀÖ½À´Ï´Ù.\\n^ff0000¡Ø (Y/N)¸¦ ¹¯Áö ¾ÊÀ¸¹Ç·Î, ½ÅÁßÇÏ°Ô ¼±ÅÃÇÏ¼Å¾ß ÇÕ´Ï´Ù.^000000\n--<TIPBOX>¡íChatting: Party<INFO>22</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can create a party with the name /organize Party.\\nYou can leave the party with /leave.",
+			"If you become a party leader by forming a party, you can right-click on the opponent character and select the 'Invite to party' menu or invite it to the party by invitation character name.\\nIf you want to expire the party circle /Name of the character You can expel the party circle of the party ^000000 you are the leader of ^3b488c by the name of the character /expel Character.\\n^ff0000 (Y / N).^000000\n"
 		}
 	},
 	[30] = {
@@ -320,7 +267,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"/Guild GuildÀÌ¸§À¸·Î Guild¸¦ ¸¸µé ¼ö ÀÖ½À´Ï´Ù. Guild¸¦ ¸¸µå´Âµ¥¿¡´Â ¿¥Æç¸®¿ò 1°³°¡ ¼Ò¸ğµË´Ï´Ù.\\nÀÚ½ÅÀÌ ¼Ò¼ÓÇÑ GuildÀÇ Á¤º¸´Â ALT + G·Î º¼ ¼ö ÀÖ½À´Ï´Ù.\\n^ff0000Guild¸¶½ºÅÍ´Â Guild¸¦ ÇØÃ¼ÇÒ ¼ö ÀÖ½À´Ï´Ù. Guild¸¶½ºÅÍ¸¦ Á¦¿ÜÇÑ Guild¿øÀÌ ¾ø´Â »óÅÂ¿¡¼­ /ÇØÃ¼ Guild¸¦ ÀÔ·ÂÇÏ¸é Guild°¡ ÇØÃ¼ µË´Ï´Ù.\\n¡Ø (Y/N)¸¦ ¹¯Áö ¾ÊÀ¸¹Ç·Î, ½ÅÁßÇÏ°Ô ¼±ÅÃÇÏ¼Å¾ß ÇÕ´Ï´Ù.^000000\n--<TIPBOX>¡íChatting: Guild<INFO>23</INFO></TIPBOX>\n--<TIPBOX>¡íGuild: Position<INFO>31</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Using /Guild, You can create a guild by name. To create a guild, one emperium is consumed.\nThe information of the guild to which it belongs can be seen as ALT + G.\\n^ff0000Guild The master can dismantle the guild. If you do not have a guild circle except for a guild master, you will be dismissed if you enter /dismiss the guild.\\nYou will not be asked for Y / N, so you must choose carefully.^000000\n"
 		}
 	},
 	[31] = {
@@ -329,7 +276,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"GuildÁ¤º¸Ã¢ÀÇ Á÷À§¼³Á¤ Ç×¸ñ¿¡¼­ Guild¿øµéÀÇ Á÷À§¸¦ ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù. Guild Á÷À§´Â °¢Á¾ ±ÇÇÑÀ» ºÎ¿©ÇÏ°Å³ª Guild¼ºÀå¿¡ ÇÊ¿äÇÑ °æÇèÄ¡ »ó³³À» Á¶ÀıÇÒ ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íGuild system<INFO>30</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can set the position of guild members in the position setting field of the guild information window. The Guild position can control the granting of various rights or the experience required for guild growth.\n"
 		}
 	},
 	[32] = {
@@ -338,7 +285,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Press ESC to open Game Option window.\n--<TIPBOX>¡íGame option: Game setting<INFO>33</INFO></TIPBOX>\n--<TIPBOX>¡íGame option: Hotkey<INFO>41</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Press ESC to open Game Option window.\n"
 		}
 	},
 	[33] = {
@@ -347,7 +294,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can control various options to make your game play better.\n--<TIPBOX>¡íGame setting: Advanced Setting<INFO>40</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can control various options to make your game play better.\n"
 		}
 	},
 	[40] = {
@@ -356,7 +303,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can control the game graphics.\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can control the game graphics.\n"
 		}
 	},
 	[41] = {
@@ -365,7 +312,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can add or edit Hotkey.\n--<TIPBOX>¡íHotkey: Macro<INFO>42</INFO></TIPBOX>\n--<TIPBOX>¡íHotkey: Skill bar<INFO>43</INFO></TIPBOX>\n--<TIPBOX>¡íHotkey: Battle Mode<INFO>44</INFO></TIPBOX>\n--<TIPBOX>¡íHotkey: F1~F12<INFO>45</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"You can add or edit Hotkey.\n"
 		}
 	},
 	[42] = {
@@ -374,7 +321,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"ALT+M You can edit the Macro list. You can use Macro by pressing ALT + 1 ~ 0.\n--<TIPBOX>¡íGame option: Hotkey<INFO>41</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"ALT+M You can edit the Macro list. You can use Macro by pressing ALT + 1 ~ 0.\n"
 		}
 	},
 	[43] = {
@@ -383,7 +330,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Skill bar(F12)¿¡ ÀÚÁÖ »ç¿ëÇÏ´Â ½ºÅ³ ¶Ç´Â ¾ÆÀÌÅÛÀ» µî·ÏÇÏ¿© ÇØ´ç ½½·ÔÀ» ¸¶¿ì½º·Î ´õºíÅ¬¸¯ÇÏ°Å³ª ´ÜÃàÄ«¸¦ ´­·¯¼­ °£ÆíÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nÃ¹¹øÂ° Skill bar´Â ±âº»ÀûÀ¸·Î F1~F9Å°¿¡ ´ëÀÀÇÏ°í °ÔÀÓ ¿É¼Ç> Hotkey ¼³Á¤¿¡¼­ ´ëÀÀÇÏ´Â Hotkey¸¦ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù. 2~4¹ø Skill barÀÇ Hotkey´Â Battle Mode¿¡¼­¸¸ »ç¿ë ÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nSkill bar¿¡ ½ºÅ³ ¶Ç´Â ¾ÆÀÌÅÛÀ» ¸¶¿ì½º·Î ¼±ÅÃÇÑ ÈÄ µå·¡±×ÇÏ¿© Ä­¿¡ ³ÖÀ» ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íGame option: Hotkey<INFO>41</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Skill bar (F12) frequently used skill is registered by registering the item in the slot by double-clicking the mouse or by pressing the shortcut key is easy to use.\\nThe first Skill bar corresponds to the F1 ~ F9 key, > You can change the corresponding Hotkey in the Hotkey settings. Hotkeys 2 to 4 of the Skill bar can only be used in Battle Mode.\\nSkill bar allows you to select items and drag them into the squares.\n"
 		}
 	},
 	[44] = {
@@ -392,7 +339,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Battle Mode´Â Ã¤ÆÃ±â´ÉÀ» Àá±Å Skill bar¿¡ µî·ÏµÈ Hotkey¸¦ Å°º¸µå¿¡¼­ »ç¿ëÇÒ ¼ö ÀÖ°Ô ÇØÁİ´Ï´Ù. /bmÀ¸·Î On/Off ÇÒ ¼ö ÀÖ½À´Ï´Ù..\\n^ff0000Battle Mode¿¡¼­´Â ±âº»ÀûÀ¸·Î Ã¤ÆÃ±â´ÉÀÌ Àá°ÜÀÖÁö¸¸ ¿£ÅÍÅ°¸¦ ´­·¯ Chat windowÀ» È°¼ºÈ­ ½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù.^000000\n--<TIPBOX>¡íGame option: Hotkey<INFO>41</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Battle Mode locks the chat feature so you can use the Hotkey registered in the Skill bar on your keyboard. You can turn it on /off with /bm.\\n^ff0000 In chat mode, chat is locked by default, but you can press the enter key to activate chat window.^000000\n"
 		}
 	},
 	[45] = {
@@ -401,43 +348,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"F1~F9 : Skill bar¿¡ µî·Ï µÈ ½ºÅ³À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nF10 : Chat windowÀÇ Å©±â¸¦ Á¶ÀıÇÒ ¼ö ÀÖ½À´Ï´Ù.\\nF11 : ±âº»Á¤º¸Ã¢°ú DialogÃ¢¸¸À» ³²±â°í ¸ğµç Ã¢À» ´İ½À´Ï´Ù.\\nF12 : Skill bar¸¦ ¿­°í ´İÀ» ¼ö ÀÖ½À´Ï´Ù.\n--<TIPBOX>¡íGame option: Hotkey<INFO>41</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[1000] = {
-		Title = "Tip box: Item",
-		Search = 1,
-		Image = "",
-		Imgcoord = { Position = 5, Size = 100 },
-		Page = {
-			"You can see a list of tips.\\nTips that are not in the list can be found by searching and continue with the new tips. Preface will be updated.\n--<TIPBOX>¡íCharacter<INFO>1001</INFO></TIPBOX>\n--<TIPBOX>¡íGameplay<INFO>1002</INFO></TIPBOX>\n--<TIPBOX>¡íCommunication<INFO>1003</INFO></TIPBOX>\n--<TIPBOX>¡íRagnarok World<INFO>4000</INFO></TIPBOX>"
-		}
-	},
-	[1001] = {
-		Title = "Character",
-		Search = 1,
-		Image = "",
-		Imgcoord = { Position = 5, Size = 100 },
-		Page = {
-			"<TIPBOX>¡íCharacter: Level Up<INFO>5</INFO></TIPBOX>\n--<TIPBOX>¡íCharacter: HP and SP<INFO>3</INFO></TIPBOX>\n--<TIPBOX>¡íCharacter: Status<INFO>6</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[1002] = {
-		Title = "Gameplay",
-		Search = 1,
-		Image = "",
-		Imgcoord = { Position = 5, Size = 100 },
-		Page = {
-			"<TIPBOX>¡íBattle<INFO>14</INFO></TIPBOX>\n--<TIPBOX>¡íItem<INFO>17</INFO></TIPBOX>\n--<TIPBOX>¡íGame Option window<INFO>32</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[1003] = {
-		Title = "Communication",
-		Search = 1,
-		Image = "",
-		Imgcoord = { Position = 5, Size = 100 },
-		Page = {
-			"<TIPBOX>¡íChatting<INFO>19</INFO></TIPBOX>\n--<TIPBOX>¡íParty<INFO>29</INFO></TIPBOX>\n--<TIPBOX>¡íGuild<INFO>30</INFO></TIPBOX>\n-\\n<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"F1 ~ F9: You can use the skills registered in the Skill bar.\\nF10: You can adjust the size of the chat window.\\nF11: Close all windows leaving only the default info window and dialog window.\\nF12: Skill You can open and close the bar.\n"
 		}
 	},
 	[4000] = {
@@ -446,7 +357,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¶ó±×³ª·ÎÅ© ¼¼°è¿¡¼­ ¸ğÇèÀÇ ¹«´ë´Â Å©°Ô ÀÎ°£µéÀÌ Áß½ÉÀÎ ¶¥ ¹Ìµå°¡¸£µå ´ë·ú, \n----¿äÁ¤°ú °ÅÀÎÀÌ Á¸ÀçÇÏ´Â Â÷¿ø ³Ê¸ÓÀÇ ¶¥, ±×¸®°í Å½Çè½É °¡µæÇÑ ÀÌµéÀÌ Ã£¾Æ³½ ¹ÌÁöÀÇ Áö¿ª ·ÎÄÃ¶óÀÌÂ¡À¸·Î ºĞ·ùµË´Ï´Ù.\n---\n--<TIPBOX>¡íMidgard Continent<INFO>4001</INFO></TIPBOX>\n---\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"In the Ragnarok world, the stage of adventure is largely categorized as Land of Midgard, where humans are central, \nLand beyond fairies and giants, and Unknown localization found by explorers.\n"
 		}
 	},
 	[4001] = {
@@ -455,7 +366,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¹Ìµå°¡¸£µå´Â ½ÅÁ·°ú ¸¶Á· ±×¸®°í ÀÎ°£ÀÌ ¼­·ÎÀÇ ½Å³äÀ» À§ÇØ ½Î¿ü´ø ¼ºÀü ÀÌÈÄ, \n----»ì¾Æ³²Àº ÀÎ°£µéÀÇ »îÀÇ ÅÍÀüÀÌÀÚ Áß½É´ë·úÀÔ´Ï´Ù. \n----¹Ìµå°¡¸£µå ´ë·úÀÇ µ¿³²ºÎ ÇØ¾È¼±À» µû¶ó ÁÖÃàÀÌ µÇ´Â ¼¼ °³ÀÇ ³ª¶ó°¡ ÀÖ½À´Ï´Ù.\n---\n--<TIPBOX>¡íRune Midgard Kingdom<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íSchwartzwald Republic<INFO>4040</INFO></TIPBOX>\n--<TIPBOX>¡íArunafeltz country<INFO>4050</INFO></TIPBOX>\n---\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Midgard is the home of the surviving human beings and the central continent since the temple where the clan, the Asmodians, and the humans fought for each other's beliefs.\nThere are three countries that are the main axis along the southeast coast of the Midgard Continent.\n"
 		}
 	},
 	[4004] = {
@@ -464,8 +375,8 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¼ºÀü¿¡ Âü¿©Çß´ø ¿µ¿õµéÀÌ ¼¼¿î ±¹°¡.\n----¿µ¿õÀÇ °èº¸¸¦ ÀÕ´Â ÀÏ°ö °¡¹®À» Áß½ÉÀ¸·Î ÇÑ ¿ÕÁ¤Ã¼Á¦ÀÌ¸ç, ¹¦¸£´Ò »ê¸ÆÀ» ±âÁØÀ¸·Î ³²ºÎÁö¿ªÀ» ¾Æ¿ì¸£°í ÀÖ½À´Ï´Ù.\n----¿Õ±¹¹ÎÀ» À§ÇùÇÏ´Â ¸¶¹°À» ´ëºñÇØ ¸ğÇè°¡ ¾ç¼ºÀ» Àå·ÁÇÏ°í ¸¹Àº ÈÄ¿øÀ» ÇÏ°í ÀÖ½À´Ï´Ù.\n---\n--<TIPBOX>¡í¿Õµµ ÇÁ·ĞÅ×¶ó<INFO>4005</INFO></TIPBOX>\n--<TIPBOX>¡í¸¶¹ıµµ½Ã °ÔÆæ<INFO>4006</INFO></TIPBOX>\n--<TIPBOX>¡íDesert city Morocc<INFO>4007</INFO></TIPBOX>\n--<TIPBOX>¡í»ê¾Çµµ½Ã ÆäÀÌ¿æ<INFO>4008</INFO></TIPBOX>\n--<TIPBOX>¡íÇ×±¸µµ½Ã ¾Ëº£¸£Å¸<INFO>4009</INFO></TIPBOX>\n--<TIPBOX>¡í±¹°æµµ½Ã ¾Ëµ¥¹Ù¶õ<INFO>4010</INFO></TIPBOX>\n--<TIPBOX>¡íÈŞ¾çµµ½Ã ÄÚ¸ğµµ<INFO>4011</INFO></TIPBOX>\n--<TIPBOX>¡íºÎÁ·¸¶À» ¿ò¹ß¶ó<INFO>4012</INFO></TIPBOX>\n--<TIPBOX>¡íÀ§¼ºµµ½Ã ÀÌÁî·çµå<INFO>4013</INFO></TIPBOX>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4001</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>",
-			"¿µ¿õ¿Õ°¡ °Ô¿Àº¸¸£±×¸¦ ÁÖÃàÀ¸·Î ÇÏ¿©, ÇÏÀÌ³×, ³×¸®¿ì½º, ¹ßÅÍ, ¸®ÇÏ¸£Æ®, À§±×³Ê, ·Ú°ÕºÎ¸£±×ÀÇ ÀÏ°ö ¿Õ°¡¿¡¼­ ¿ÕÀ§¼±ÃâÀ» ÅëÇØ ¼±Á¤ µÈ ÀÚ°¡ ¿ÕÀ§¸¦ °è½ÂÇÕ´Ï´Ù. ¿Õ°¡¿¡¼­´Â º»°İÀûÀÎ °Ü¿ïÀÌ ¿À±â Àü, ¸¶¹° ÅğÄ¡¸¦ À§ÇÑ ¿Õ½Ç »ç³É ´ëÈ¸ µîÀ» ¿­±âµµ ÇÕ´Ï´Ù."
+			"\nThe heritage of the heroes of the temple.\nThe royal family system is centered on the seven clan families linking the hero's lineage. It covers the southern region based on the Myogneil Mountains.\nKing We encourage the development of adventurers in preparation for the endangered species and provide a lot of support.\n",
+			"With the heroic king Goeborg as the main axis, the people selected by the throne in Heine, Nerius, Walter, Richard, Wigner, and Rogenburg have succeeded the throne. In the royal family, before the full winter comes, there is also a royal hunting contest for the elimination of wastes."
 		}
 	},
 	[4005] = {
@@ -474,7 +385,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"·é-¹Ìµå°¡Ã÷ ¿Õ±ÃÀÇ Áß½ÉÀÌ¸ç, ¿Õ±ÃÀÌ ÀÖ´Â ¿ÕµµÀÔ´Ï´Ù.\n----¹¦¸£´Ò »ê¸ÆÀ» µîÁö°í ¾ÕÀ¸·Î ³ĞÀº ÇÊµå¸¦ °¡Áö°í ÀÖ±â ¶§¹®¿¡ ´Ù¸¥ Áö¿ª¿¡ ºñÇØ ¸¶¹°ÀÇ ÇÇÇØ°¡ ÀûÀ¸¸ç ÆòÈ­·Ó½À´Ï´Ù.\n----ÁÖ½Å ¿ÀµòÀ» ¸ğ½Ã´Â ´ë¼º´ç°ú, ±â»ç´ÜÀÌ ÀÖ¾î ¼ºÁ÷ÀÚ³ª ±â»ç°¡ ²ŞÀÎ ÀÚµéÀÌ ¸¹ÀÌ ¸ğÀÔ´Ï´Ù.\n---\n--<NAVI>[ÇÁ·ĞÅ×¶ó ´ë¼º´ç]<INFO>prontera,235,315,0,101,0</INFO></NAVI>\n--<NAVI>[Å©·ç¼¼ÀÌ´õ Áı¹«½Ç]<INFO>prt_cas,248,102,0,101,0</INFO></NAVI>\n--<NAVI>[ÇÁ·ĞÅ×¶ó ±â»ç´Ü]<INFO>prontera,49,342,0,101,0</INFO></NAVI>\n--<NAVI>[¼º Ä«ÇÇÅç¸®³ª ¼öµµ¿ø]<INFO>prt_monk,180,205,0,101,0</INFO></NAVI>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"It is the center of the rune-midgats royal palace and is the royal road with the palace.\nIt is peaceful because it has a wide field in the back of the Myol Neolithic Mountains, - There are many cathedrals who have Josin Goddess and a Knights Templar who are priests and knights.\n"
 		}
 	},
 	[4006] = {
@@ -483,7 +394,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"ÇÁ·ĞÅ×¶ó ¼­ÂÊ ½ÀÁö ³Ê¸Ó¿¡ À§Ä¡ÇÑ ¸¶¹ı»çµéÀÇ µµ½Ã. Áß¾Ó¿¡ ¸¶Å¾ °ÔÆæÅ¸¿ö°¡ ÀÖÀ¸¸ç °ú°Å Àü¼³ÀÇ µµ½Ã °ÔÆä´Ï¾Æ°¡ ÀÖ´ø °÷ÀÌ¶ó´Â ¼Ò¹®ÀÌ ÀÖ½À´Ï´Ù. Á¾Á¾ ¸¶¹ı»çµéÀÇ ÃàÁ¦ °ÔÆæ ¸¶¹ı´ëÈ¸¸¦ °³ÃÖÇÕ´Ï´Ù.\n---\n--<NAVI>[¸¶¼ú»ç Guild]<INFO>geffen_in,164,124,0,101,0</INFO></NAVI>\n--<NAVI>[°ÔÆæ Å¸¿ö ÃÖ»óÃş]<INFO>gef_tower,111,27,0,101,0</INFO></NAVI>\n--<NAVI>[°ÔÆæ ¸í¹° Àü¸Á´ë]<INFO>gef_fild07,179,242,0,101,0</INFO></NAVI>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"A city of mages located beyond Prontera West Wetlands. There is a rumor that there is the Mato Paget Tower in the center and the place where the legendary city of Geffenia was located. Often the magicians hold the Geffen Magical Competition.\n"
 		}
 	},
 	[4007] = {
@@ -492,8 +403,8 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"°ú°Å ¼ºÀüÀÌ ³¡³­ ÈÄ, ¸¶½Å ¸ğ·ÎÅ©°¡ ¹Ìµå°¡¸£µå ´ë·ú¿¡ °­¸²Çß¾ú½À´Ï´Ù. ¸¶°Ë»ç Å¸³ªÅä½ºÀÇ È°¾àÀ¸·Î ¸ğ·ÎÅ©´Â ºÀÀÎµÆÀ¸³ª, ±× ºÀÀÎÀÇ ¿©ÆÄ·Î ÀÏ´ë°¡ »ç¸·ÀÌ µÇ¾ú½À´Ï´Ù. ¿À¾Æ½Ã½º¸¦ Áß½ÉÀ¸·Î µµ½Ã°¡ Çü¼ºµÇ¾ú´Âµ¥, ¸ğ·ÎÅ©°¡ ºÀÀÎµÈ Áö¿ªÀÌ¶ó µµ½Ã¸íÀÌ ¸ğ·ÎÅ©°¡ µÇ¾ú½À´Ï´Ù. ÃÖ±Ù ¸ğ·ÎÅ©°¡ ºÀÀÎÀ» ±ú´Â ¹Ù¶÷¿¡ µµ½Ã¿Í ÀÎ±Ù »ç¸·ÀÌ ´Ù½Ã ÆÄ±«µÇ°í, µµ½Ã´Â »õ·ÎÀÌ Àç°Ç µÇ¾ú½À´Ï´Ù.\n---\n--<NAVI>[µµµÏ Guild]<INFO>moc_prydb1,39,126,0,101,0</INFO></NAVI>\n--<NAVI>[¾î½Ø½Å Guild]<INFO>moc_fild16,206,290,0,101,0</INFO></NAVI>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>",
-			"¿À¾Æ½Ã½º¸¦ Áß½ÉÀ¸·Î ¹ß´ŞÇÑ »ç¸·µµ½Ã Æ¯À¯ÀÇ ¹®È­¿Í ÇÔ²², °í´ë¿¡ ¼¼¿öÁø ¼ö¼ö²²³¢ÀÇ °ÇÃà¹°, ±¸½Ã´ëÀÇ ¹æ¾î¿ä»õ, »ç¸·ÀÇ À§Çù °³¹Ì±¼ µîÀÌ Á¸ÀçÇÕ´Ï´Ù.\n---\n--<NAVI>[ÇÇ¶ó¹Ìµå]<INFO>moc_ruins,64,162,0,101,0</INFO></NAVI>\n--<NAVI>[½ºÇÎÅ©½º]<INFO>moc_fild19,105,100,0,101,0</INFO></NAVI>\n--<NAVI>[»ê´Ù¸£¸¸ ¿ä»õ]<INFO>cmd_fild08,98,129,0,101,0</INFO></NAVI>\n--<NAVI>[°³¹Ì±¼]<INFO>cmd_fild08,326,351,0,101,0</INFO></NAVI>\n----"
+			"After the temple was over, Dr Morok went down to the Midgard Continent. Morocca was sealed by the activity of Majestic Tanatos, but in the aftermath of the seal it became a desert. The town was formed around an oasis, and the name of the city became Morocco because it was sealed with Morok. As Morok broke the seal recently, the city and its neighboring deserts were again destroyed, and the city was rebuilt.\n",
+			"Along with the unique culture of a desert city developed around an oasis, there are ancient mysterious buildings, old defense fortresses, desert threats and ants.\n"
 		}
 	},
 	[4008] = {
@@ -502,7 +413,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"·é-¹Ìµå°¡Ã÷ ³²µ¿ºÎ »ê¾Ç¿¡ ÀÚ¸®ÀâÀº µµ½Ã. º¹ÀâÇÑ »ê°ú ½£À¸·Î ÀÎÇØ ¿ÜºÎ¿Í ¿À·§µ¿¾È ´ÜÀıµÈ Å¿¿¡ »ó´çÈ÷ µ¶ÀÚÀûÀÎ ¹®È­¸¦ Çü¼ºÇÏ°í ÀÖ½À´Ï´Ù. »ç¼º¼öÀÇ °¡È£¸¦ ¹Ş´Â´Ù°Å³ª ½Å¼ö¿¡ ´ëÇÑ ÀÌ¾ß±â°¡ ¸¹½À´Ï´Ù. ¶Ù¾î³­ ¸í»ç¼ö¿Í »ç³É²ÛÀÌ ¸¹À¸¸ç ºÏÂÊ µ¿±¼¿¡´Â Æó°¡ÃÌÀÌ ÀÖ½À´Ï´Ù.\n---\n--<NAVI>[±Ã¼ö Guild]<INFO>payon_in02,64,71,0,101,0</INFO></NAVI>\n--<NAVI>[ÆäÀÌ¿æ ºÒ»ó]<INFO>pay_arche,137,31,0,101,0</INFO></NAVI>\n--<NAVI>[Æó°¡ÃÌ]<INFO>pay_dun03,155,147,0,101,0</INFO></NAVI>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"Rune - a city in the southeastern mountains of Midtown. Due to the complex mountains and forests that have long been disconnected from the outside, they have formed a very unique culture. There are many stories about receiving the favor of the private water or the new water. There are many good hunters and hunters, and there is a cave in the north cave.\n"
 		}
 	},
 	[4009] = {
@@ -511,7 +422,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¹Ìµå°¡¸£µåÀÇ ¸ğµç ¹°±æ°ú ¿¬°áµÇ´Â Ç×±¸¸¦ °¡Áø µµ½ÃÀÌ¸ç, »óÀÎGuild°¡ À§Ä¡ÇÏ°í ÀÖ±â ¶§¹®¿¡ »ó¾÷µµ½Ã¶ó°íµµ ºÒ¸³´Ï´Ù. ¹°±æÀ» ÅëÇÑ ¹ÌÁöÀÇ Å½ÇèÀ» Áñ±â´Â ÀÚµé°ú µ·ÀÇ Èå¸§À» ÀĞ´Â ÀÚµéÀÌ ¸ğÀÌ´Â °÷ÀÔ´Ï´Ù.\n---\n--<NAVI>[»óÀÎ Guild]<INFO>alberta_in,56,43</INFO></NAVI>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"It is a city with a harbor connecting all the waterways of Midgard and also known as the commercial city because the merchant Guild is located. It is a place where people who enjoy an unknown expedition through the water and those who read the flow of money gather.\n"
 		}
 	},
 	[4010] = {
@@ -520,7 +431,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¹¦¸£´Ò »ê¸Æ ºÏºÎ, Schwartzwald¿ÍÀÇ °æ°è¼± ¹Ù·Î ¾Æ·¡¿¡ À§Ä¡ÇØ ÀÖ½À´Ï´Ù. Áß¾Ó¿¡ °Å´ëÇÑ ½Ã°èÅ¾À» Áß½ÉÀ¸·Î »ç¹æÀ¸·Î »¸Àº ¿îÇÏ°¡ ¾Æ¸§´Ù¿î µµ½ÃÀÔ´Ï´Ù. ºÏÂÊ¿¡ ±¹°æ°Ë¹®¼Ò°¡ ÀÖ½À´Ï´Ù.\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"It is located in the northern part of the Myogneil Mountains, just below the border with Schwartzwald. It is a beautiful city with a canal stretching all the way around a huge clock tower in the center. There is a border checkpoint in the north.\n"
 		}
 	},
 	[4011] = {
@@ -529,7 +440,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"³²¼­ºÎ ÇØ¾È ¾Æ·¡ Çü¼º µÈ µ¿±¼À» ³¢°í ÀÖ´Â ½ÅºñÇÑ ¸¶À». ÈŞ¾çÀ» ¸ñÀûÀ¸·Î Ã£¾Æ¿À´Â °ü±¤°´µéÀÌ ¸¹Àº °÷ÀÌ¶ó Áö¿ª ¸í¹° »óÇ°µµ ¸¹ÀÌ °³¹ßµÇ¾ú½À´Ï´Ù. ÀÎ±Ù¿¡ ½ÀÁö¿Í ¹Ğ¸², ºñ¹ĞÀ» Ç°Àº µ¿±¼À» °¡Áö°í ÀÖ¾î Å½Çè°¡µé¿¡°Ôµµ ¸Å·ÂÀûÀÎ Àå¼Ò¶ó°í ÇÕ´Ï´Ù.\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"A mysterious village with caves formed beneath the southwestern coast. Since there are many tourists visiting for the purpose of recreation, many local specialty products have been developed. Nearby are marshes, jungles and secret caves, which are also a fascinating place for explorers.\n"
 		}
 	},
 	[4012] = {
@@ -538,7 +449,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"ÄÚ¸ğµµ ºÏÂÊ ¹Ğ¸²Áö´ë¿¡ ÀÖ´Â ÀÛÀº ºÎÁ·¸¶À». ¹®¸í°ú µ¿¶³¾îÁ® ÅÂÃÊÀÇ »ıÈ°¹æ½Ä ±×´ë·Î¸¦ °í¼öÇÏ¸ç »ì¾Æ°¡´Â ºÎÁ·µéÀÇ ¸¶À»ÀÔ´Ï´Ù. ¼¼°è¼ö ÀÌ±×µå¶ó½ÇÀÇ »Ñ¸®°¡ ´ê¾ÆÀÖ´Ù´Â ÀÌ¾ß±â°¡ ÀÖ½À´Ï´Ù. ´ë·ú °ø¿ë¾î¸¦ »ç¿ëÇÏÁö ¾ÊÀ¸´Ï ÁÖÀÇ°¡ ÇÊ¿äÇÕ´Ï´Ù.\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"A small tribal village in the northern jungle area of Komodo. It is a village of tribes living in the same way that they live in the original lifestyle apart from civilization. There is a story that the roots of the world number Egudrasil have reached. We do not use continental official language.\n"
 		}
 	},
 	[4013] = {
@@ -547,7 +458,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"ÇÁ·ĞÅ×¶ó µ¿ÂÊ ÇØ¾È¿¡ À§Ä¡ÇÑ ÀÛÀº µµ½Ã. ¼öµµ ÇÁ·ĞÅ×¶ó¸¦ º¸Á¶ÇÏ±â À§ÇØ Çü¼ºµÈ À§¼ºµµ½ÃÀÔ´Ï´Ù. ¸ğÇè°¡ ¾ç¼ºÀ» À§ÇÑ Áö¿ø±â°ü Å©¸®Åõ¶ó ÇĞ¿ø°ú °Ë»ç Guild°¡ ÀÖÀ¸¸ç, ÀÛÀº Ç×±¸µµ °âÇÏ°í ÀÖ½À´Ï´Ù.\n---\n--<NAVI>[°Ë»ç Guild]<INFO>izlude_in,74,172</INFO></NAVI>\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4004</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"A small city on the east coast of Prontera. It is a satellite city formed to assist the capital Frontera. There is a supportive institute for the cultivation of adventurers, the Critura School and the Inspection Guild, and also serves as a small port.\n"
 		}
 	},
 	[4040] = {
@@ -556,7 +467,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"ÇöÀÚÀÇ µµ½Ã À¯³ë¸¦ ¼öµµ·Î ÇÏ´Â ¹¦¸£´Ò ºÏºÎÀÇ ³ª¶ó. ´ëÅë·É°ú ÀÇÈ¸¸¦ ±¸¼ºÇÑ °øÈ­Á¤À» Ã¤ÅÃÇÏ°í ÀÖÀ¸¸ç, °Å´ëÇÑ ±â¾÷ ·¹ÄËº£¸£·Î ÀÎÇØ °ø¾÷ÀÌ ¹ß´ŞÇÑ ³ª¶óÀÔ´Ï´Ù.\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4001</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"The city of wisdom The capital city of Yuno is the northern part of the country. It adopts the Republic with the president and the parliament, and it is a country where the industry has developed due to the huge corporation rekenber.\n"
 		}
 	},
 	[4050] = {
@@ -565,7 +476,16 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"¿©½Å ÇÁ·¹ÀÌ¾ß¸¦ ¸ğ½Ã´Â Á¦Á¤ÀÏÄ¡ÀÇ Á¾country°¡ÀÔ´Ï´Ù. ÁÖ½ÅÀÌ ¿ÀµòÀÎ ·é-¹Ìµå°¡Ã÷¿Í´Â °ú°Å ¼ºÀü ÀÌÈÄ Á¾±³Àû ¹®Á¦·Î ¸¶ÂûÀÌ ÀÖ¾î »çÀÌ°¡ ÁÁÁö ¾Ê½À´Ï´Ù. ´ç½Ã Á¾±³ÀûÀ¸·Î ¹ÚÇØ¹Ş´ø ÀÌµéÀÌ ÀÌÁÖ¸¦ ÇØ °Ç¼³ÇÑ ³ª¶ó°¡ ArunafeltzÀÔ´Ï´Ù. ¼öµµ ¶óÇï¿¡´Â °Å´ëÇÑ ½ÅÀü ¼¼½º·ë´Ï¸£°¡ ÀÖ½À´Ï´Ù.\n---\n--<TIPBOX>¡íÀÌÀü ÆäÀÌÁö·Î<INFO>4001</INFO></TIPBOX>\n--<TIPBOX>¡íMore tips list<INFO>1000</INFO></TIPBOX>"
+			"It is a bell country of a genuine accord with the goddess Freyya. This Odin in Rune-Midguard is not in good shape because there is a friction in the past after the temple. Arunafeltz is a country that was built by religionally persecuted people. There is a huge temple Seth Raniel in the capital Rachel.\n"
+		}
+	},
+	[13001] = {
+		Title = "RoFenrir",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Ñàéò ñåğâåğà: rofenrir.ru \nÑâÿçü ñ àäìèíèñòğàöèåé ïî ïî÷òå fenrir@rofenrir.ru\n"
 		}
 	}
 }

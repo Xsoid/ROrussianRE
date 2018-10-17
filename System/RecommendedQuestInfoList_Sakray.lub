@@ -1,0 +1,89 @@
+RecommendedQuestInfoList = {}
+RecommendedQuestInfoList = {
+	[1] = {
+		Title = "Welcome. To the world of Ragnarok!",
+		IconName = "ico_gq.bmp",
+		Summary = "I support you as a beginner adventurer.",
+		NpcSpr = "4_F_01",
+		NpcNavi = "iz_ac01",
+		NpcPosX = 102,
+		NpcPosY = 44,
+		BgName = "reco_01.bmp",
+		QuestInfo1 = {
+			"Welcome!",
+			"At Criatura Academy, we provide various informations to help beginners adventure. If you are a beginner adventurer who has not yet visited the Criatura Academy, please visit us and get useful information and support materials."
+		},
+		QuestInfo2 = {
+			"$$Novice$$ Welcome!!",
+			"Beginner%%Support%%Bread@!!Bread@!!",
+			"&*Former*& Consulting OK!!"
+		},
+		QuestInfo3 = {
+			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
+		}
+	},
+	[2] = {
+		Title = "잭과 잭의 할로윈 이벤트",
+		IconName = "ico_ev.bmp",
+		Summary = "잭과 함께라면 잭한 잭도 잭하지 않아.",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"니플헤임에서는 할로윈 준비가 한창이야!",
+			"할로윈 축제에는 잭이 많이 필요하니까 꼭 놀러와줘~",
+			"^ff0000참가조건 :  레벨 30 이상^000000"
+		},
+		QuestInfo2 = {
+			"^ff9632☜☞TRICK☜☞^000000",
+			"   ★OR★",
+			"^ff9632☜☞TREAT☜☞^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
+	[3] = {
+		Title = "EDDA 글래스트 헤임의 몰락",
+		IconName = "ico_sc.bmp",
+		Summary = "역사의 진실을 목격하세요",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "glast_01",
+		NpcPosX = 243,
+		NpcPosY = 290,
+		BgName = "reco_03.bmp",
+		QuestInfo1 = {
+			"옛 글래스트 헤임 메모리얼의 뒷 이야기.",
+			"역사 속에서 도망자/폭군으로 알려진 슈미츠의 등장.",
+			"여러 차원의 시간을 주시하고 기록하는 시공용 오스카는 글래스트 헤임 몰락의 순간을 목격하고 누군가에게 그 진실을 알리고자 마음 먹는데..."
+		},
+		QuestInfo2 = {
+			"공략 조건",
+			"레벨 130 이상의 모험가"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
+	[4] = {
+		Title = "에피소드 17.1 일루시온",
+		IconName = "ico_ep.bmp",
+		Summary = "본격적인 연합 작전이 시작된다.",
+		NpcSpr = "4_M_PHILOFONTES",
+		NpcNavi = "pub_cat",
+		NpcPosX = 93,
+		NpcPosY = 105,
+		BgName = "reco_04.bmp",
+		QuestInfo1 = {
+			"에피소드의 무대가 슈발츠발드로 이동!",
+			"리벨리온과 비밀의 날개가 펼치는 본격적인 연합 작전이 시작된다.",
+			"아인브로크에도 작전 거점을 마련한 리벨리온은 비밀의 날개가 가져온 정보로 발견된 비밀 연구 시설을 함께 공략하기로 하는데 …"
+		},
+		QuestInfo2 = {
+			"성행 조건",
+			"에피소드 16.2 완료",
+			"레벨 110 이상의 모험가"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	}
+}

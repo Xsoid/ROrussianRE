@@ -1,13 +1,16 @@
 tb_cashshop_banner = {
 	[1] = {
-		"rAbanner.bmp",
-		"https://rathena.org/"
+		"fenrir_banner_1.bmp",
+		"http://rofenrir.ru/"
 	},
 	[2] = {
-		"rAbanner.bmp",
-		"https://rathena.org/"
+		"fenrir_banner_1.bmp",
+		"http://rofenrir.ru/"
 	},
-	[3] = { "rAbanner.bmp", "https://rathena.org/" }
+	[3] = {
+		"fenrir_banner_1.bmp",
+		"http://rofenrir.ru/"
+	}
 }
 
 function set_cashshop_banner()

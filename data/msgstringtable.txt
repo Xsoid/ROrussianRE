@@ -1,32 +1,32 @@
-Do you agree?#
-Failed to Connect to Server.#
-Disconnected from Server.#
-Disconnected from Server!#
-Server Closed.#
-Someone has Logged in with this ID.#
-Unregistered ID. Please make sure you have a registered account and you have correctly typed in the user ID.#
-Incorrect User ID or Password. Please try again.#
+Вы согласны?#
+Не удалось подключиться к серверу.#
+Отключен от сервера.#
+Отключен от сервера!#
+Сервер Закрыт.#
+Кто-то уже авторизован на этой учетной записи.#
+Незарегистрированный логин. Пожалуйста, убедитесь, что у вас есть зарегистрированный аккаунт и вы правильно ввели данные пользователя.#
+Неверный логин или пароль пользователя. Попробуйте еще раз.#
 This ID is expired.#
 Rejected from Server.#
-Character Name already exists.#
-Character Creation is denied.#
-Character Deletion is denied.#
+Имя персонажа уже занято.#
+Создание персонажа запрещено.#
+Удаление символов запрещено.#
 Please Enter Room Title.#
 Foul Language Detected.#
-Please enter Password.#
-Please enter Password. Passwords must be at least 4 characters long.#
-Are you sure that you want to quit?#
-Passwords are at least 4 characters long. Please try again.#
-Are you sure that you want to delete this character?#
-Foul Language Detected.#
-Character Name must be at least 4 characters long.#
-Command List: /h | /help#
+Пожалуйста, введите пароль.#
+Пожалуйста, введите пароль. Пароль должен содержать не менее 4 символов.#
+Ты уверена,что хочешь уйти?#
+Пароль должен содержать не менее 4 символов. Попробуйте еще раз.#
+Вы уверены, что хотите удалить этого персонажа?#
+Обнаружена Нецензурная Лексика.#
+Имя персонажа должно быть не менее 4 символов.#
+Список команд: /h | /help#
 Effects On#
 Effects Off#
-Sound Volume#
+Громкость звука#
 BGM Volume#
-Sound Effects On#
-Sound Effects Off#
+Звуковые эффекты включены#
+Звуковые эффекты отключены#
 Frame Skip On#
 Frame Skip Off#
 BGM On#
@@ -101,10 +101,10 @@ Send Message#
 Information#
 Party Setup#
 Friend#
-Party#
-Equipped items#
-Status#
-Inventory#
+Группа#
+Снаряжение#
+Характеристики#
+Инвентарь#
 /organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
 If you are the party master, you can invite someone into your party by right-clicking on a Character.#
 Recover#
@@ -119,10 +119,10 @@ Fire#
 Wind#
 Please avoid buying 2 of the same items at one time.#
 Please change your desktop Color Depth to 16-bit when running Ragnarok in windowed mode.#
-Please wait...#
-Please wait...#
-Please wait...#
-Please wait...#
+Ожидайте...#
+Ожидайте...#
+Ожидайте...#
+Ожидайте...#
 Create Chat Room#
 Room Setup#
 Kick Character Out#
@@ -151,7 +151,7 @@ There is no such character name or the user is offline.#
  is not in the mood to talk with anyone.#
 Killed/Disconnected User.#
 Kill has failed.#
-You got %s (%d).#
+У тебя %s (%d).#
 [Alt] + [=]: Fix the interval error between letters.#
 [F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
@@ -200,15 +200,15 @@ No Whisper List.#
 You cannot put a space at the beginning or end of a name.#
 Private#
 Public#
-Insufficient SP#
-Insufficient HP#
-Skill has failed.#
-Steal has failed.#
+Недостаточно SP#
+Недостаточно HP#
+Навык не сработал.#
+Украсть не удалось.#
 Trade#
 Envenom skill has failed.#
 You cannot use this ID on this server.#
-Speed has increased.#
-Speed has decreased.#
+Скорость увеличилась.#
+Скорость уменьшилась.#
 /memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
 Random Area#
 Select an Area to Warp#
@@ -231,7 +231,7 @@ Buying Items#
 Out of Stock#
 %s %d sold.#
 Available Items for Vending#
-Skill has failed because you do not have enough zeny.#
+Навык не сработал, потому что вам не хватает зени.#
 Select a Target.#
 /pk on: Turns PK On. /pk off: Turns PK Off.#
 Shop#
@@ -263,7 +263,7 @@ Magical Defense#
 Flee Rate#
 Attack Speed#
 Server is jammed due to over population. Please try again shortly.#
-Option#
+Опции игры#
 Account ID blocked by the Game Master Team.#
 Incorrect User ID or Password. Please try again.#
 Choose Hairstyle#
@@ -281,9 +281,9 @@ You cannot carry more than 30,000 of one kind of item.#
 You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
 You cannot use an NPC shop while in a trade.#
 Name#
-Skill Tree#
-Skill Point: %d#
-Skill has failed.#
+Дерево Навыков#
+Очки Навыков: %d#
+Навык не сработал.#
 Passive#
 Each Take #
 Even Share#
@@ -326,24 +326,24 @@ Sprite Resolution#
 Texture Resolution#
 Arrange Detail#
 %s Zeny obtained#
-Guild Name#
-Guild Level#
-Guild Master#
-Members#
-Avg.lvl of Members#
-Territory#
+Название#
+Уровень Гильдии#
+Гильдмастер#
+Участники#
+Средний уровень#
+Территория#
 Tendency#
 EXP#
-Emblem#
+Герб#
 Tax Point#
-Alliances#
-Antagonists#
-Guild Info#
-Member#
-Position#
-Guild Skill#
-Expel List#
-Announcement#
+Альянс#
+Противники#
+Информация#
+Участники#
+Роли#
+Возможности#
+Исключенные#
+Объявления#
 Entire Guild List#
 Whispering List#
 Open Whispering Window#
@@ -697,7 +697,7 @@ Your character has fainted. Push the ESC key to restart.#
  - %d obtained.#
 Spell List#
 /minimize#
-This item has been damaged.#
+Этот предмет поврежден.#
 /noshift: You may use your ''force heal'' ability without the Shift key. On | Off#
 [no shift] option activated. [ON]#
 [no shift] option deactivated. [OFF]#
@@ -1315,7 +1315,7 @@ Do you really want to purchase these items? You will spend %d Regular Cash Point
 %d hour(s) %d minute(s) has passed.#
 Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
 Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%.#
-Quest List#
+Квесты#
 RO Shop#
 Memorial Dungeon, '%s' is booked.#
 Failed to book Memorial Dungeon, '%s'.#
@@ -1323,8 +1323,8 @@ Memorial Dungeon, '%s' is already booked.#
 Memorial Dungeon, '%s' is created.\n Please enter in 5 minutes.#
 Failed to create Memorial Dungeon, '%s'.\n Please try again.#
 The character blocked the party invitation.#
-Block all party invitations.#
-Allow all party invitations.#
+Приглашения в группу ограничены.#
+Любой может пригласить в группу.#
 This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
 %s is now permanently bound to this character.#
 You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
@@ -1356,8 +1356,8 @@ Not Yet Implemented#
 You are not eligible to open the Character Slot.#
 This character cannot be deleted.#
 This character's equipment information is not open to the public.#
-Equipment information not open to the public.#
-Equipment information open to the public.#
+Информация об экиперовки скрыта.#
+Информация об экиперовки публична.#
 Check %s's Equipment Info#
 '%s's Equipment#
 Show Equip#
@@ -1458,7 +1458,7 @@ Please equip [Barrier Builder].#
 Please equip [Camouflage Generator].#
 Please equip [Repair Kit].#
 [Monkey Wrench] is required.#
-Cannot use [%s] due to cooldown delay.#
+Невозможно использовать [%s] из-за задержки восстановления.#
 Deletion is impossible for over level %d#
 Can't be used while on Mado Gear.#
 Dismount Dragon#
@@ -1481,7 +1481,7 @@ Can't read a Magic Book anymore.#
 Waiting time has passed. Please log in again#
 Watch out! Same account is already logged in. Stop mobile verification and log in again after changing your password#
 Watch out! Same account is waiting for mobile verification. Stop mobile verification and log in again after changing your password#
-Game option                                                                                                 #
+Опции игры                                                                                                 #
 Graphic#
 Sound#
 Press a key to assign. Pressing 'ESC' will remove the assigned key.#
@@ -2001,7 +2001,7 @@ attack#
 skill#
 item#
 NoCtrl#
-Battleground#
+Поле боя#
 (Character/Total Slot)#
 Premium Service#
 Premium #
@@ -2080,7 +2080,7 @@ Guild System#
 What is the guild system#
 You must enter the name of your guild.#
 Supported at the party was rejected.#
-Select Service:#
+Выбор сервера:#
 Possible escape area.#
 Replay File List#
 File info#
@@ -2372,7 +2372,7 @@ Enter the name of character#
 Sex Selection Window#
 Editing of the File Detected#
 Items obtained by opening the item is character bounded (cannot move to storage). Do you want to open the box?#
-Game Settings#
+Настройки игры#
 Game System#
 Game Commands#
 Game Command ON/OFF#
@@ -2586,7 +2586,7 @@ Update#
 %d%% ( Premium %d%% + %s Server )#
 Mailed#
 Your mail has been sent.#
-This item has been moved to the inventory.#
+Предмет перемещен в инвентарь.#
 Failed to get items.#
 Please empty your inventory.#
 Zeny obtained.#
@@ -2644,7 +2644,7 @@ Notify when item sell out#
 Please check the fees.#
 Verify user name#
 Schedule deletion#
-Achievement Challenges#
+Достижения#
 Achievement score#
 Achievement rank#
 [%5d] points to the next rank#
@@ -2769,14 +2769,14 @@ In this map You can't memorize and zoom the minimap.#
 Enter zeny below 2,147,483,647.#
 Please enter at least 1 zeny.#
 You don't have any zeny.#
-Zeny Storage#
-in bank#
-on hand#
-Deposit#
-Withdraw#
+Хранилище Зеней#
+в банке#
+на руках#
+Вложить#
+Снять#
 1 z UP#
 1 z Down#
-Max#
+Все#
 There is no Input value#
 Insufficient zeny#
 Input Required#
@@ -2857,7 +2857,7 @@ Show information#
 Zoom in#
 Zoom out#
 Maximize#
-Show world map#
+Карта мира#
 Total possession item type#
 /minimap#
 Show minimap buttons#
@@ -3116,14 +3116,14 @@ Vitality: ^66cc33Maximum HP^ffffff, Physical defense, Magical defense#
 Intelligence: ^66cc33Magical attack power^ffffff, Casting time, Magical defense#
 Dexterity: ^66cc33Long range physical attack^ffffff, Hit rate, Casting time, Magical attack power#
 Luck: ^66cc33Critical rate^ffffff, Hit rate, Physical attack power, Magical attack power, Perfect dodge#
-Physical attack#
-Physical defense#
+Физическая атака#
+Физическая защита#
 Hit rate#
 Critical rate#
 Affiliated guild#
 Status point#
-Magical attack#
-Magical defense#
+Магическая атака#
+Магическая защита#
 Flee rate#
 Attack speed#
 Shortcut Description#
@@ -3132,10 +3132,10 @@ Skill shortcut (F1 ~ F9)#
 Screenshot#
 Zoom Out#
 Zoom In#
-Guild#
-Bank#
-Mail#
-Mall#
+Гильдия#
+Банк#
+Почта#
+Почта#
 Sit#
 Move#
 Rotate#
@@ -3161,8 +3161,8 @@ Special equipment#
 Tittle#
 /quake : Screen shake effect On/Off#
 /aura2 : Completly turn aura effect On Off#
-Basic settings#
-Advanced settings#
+Основные#
+Дополнительные#
 Set basic settings#
 Set basic settings?#
 Set to these values?#
@@ -3193,7 +3193,7 @@ NOW LOADING..#
 Title#
 Sender#
 Can't open two game windows, game installation might corrupt#
-More commands#
+Больше команд#
 This account does not exist.#
 Password does not match.#
 Failed to pass IP authentication#
@@ -3236,8 +3236,8 @@ SNS will available after login.#
 Address doesn't exist.#
 Mini party windows can't be overlapped.#
 My Shop#
-BOX#
-Tip box#
+Подсказки#
+Подсказки#
 Tweet success.#
 Try again#
 Please return then select refine material again.#
@@ -3251,7 +3251,7 @@ OTP Password is 8 digits.#
 Integrated account#
 Ragnarok#
 Currently service under maintenance.#
-Please enter a search term#
+Введите поисковый запрос#
 MOTP#
 Certification Number#
 GNJOY MOTP downloaded to your phone, Please enter your verification number.#
@@ -3280,38 +3280,38 @@ Modified file found. Please restart the game.#
 Feed \nyourself#
 You can't feed Homunculus while the RODEX window is open.#
 Homunkulus ate the food. '%s' - %d left#
-Homunculus automatic feeding is ON#
-Homunculus automatic feeding is OFF#
+Автокормление гомункула включено#
+Автокормление гомункула выключено#
 Homunculus receives \n10% of master's experiences.#
 Rate : %d%%#
 The target isn't in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
 There is no target in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
-Sell List#
-Buy list#
-New#
-Popular#
-Limited#
-Rental equipment#
-Permanent equipment#
-Buff#
-Recovery#
-Etc#
-Special Offers#
-Charging#
-Purchase#
-https://rathena.org/board/clients/donations/#
-Item Search#
+Каталог товаров#
+Список покупок#
+Новинки#
+Популярные#
+Лимитированые#
+Аренда#
+Экиперовка#
+Улучшения#
+Восстановление#
+Прочие#
+Спецпредложения#
+Добавить#
+Купить#
+http://rofenrir.ru/#
+Поиск Предметов#
 Free points#
 Use Free points#
 Owned points#
-Update quantity#
+Обновить#
 Star Emperor(Girl)#
 Soul Reaper(Girl)#
 Star Emperor(Boy)#
 Soul Ripper(Boy)#
 Your weight limit is over %d, HP and SP will not recover naturally.#
 The number of items that can be purchased in 8.#
-https://rathena.org/board/crowdfunding/#
+http://rofenrir.ru/#
 UNKNOWN ERROR:%d#
 NOT USER#
 THIS ACCOUNT ID IS BLOCKED#
@@ -3337,15 +3337,15 @@ Names with bad words can not be registered.#
 Go to the official website for membership.#
 TokenAgency Server connection failed#
 Billing information#
-Delete reservation#
-Cancel reservation#
-Game start#
-Delete#
-Character List#
+Начать удаление#
+Остановить удаление#
+Старт игры#
+Удалить#
+Лист персонажей#
 Notice#
-Create#
-Hair Style#
-Hair Color#
+Создать#
+Причёска#
+Цвет волос#
 Check availability#
 %d hour %d min %d sec#
 MOTP Input time exceeded. Please log in again from the beginning.#
@@ -3353,7 +3353,7 @@ Return#
 You can not use items.#
 Can not move to the same map.#
 It is impossible to move when your character KO'ed#
-Character Creation#
+Создание Персонажа#
 Adventurer agent registration#
 Stop recruiting#
 Adventurer Agent Settings#
@@ -3443,7 +3443,7 @@ Name with bad words can not be searched.#
 The party leader is in the map that can't receive request.#
 No party can be found.#
 Party request.#
-http://rathena.org#
+http://rofenrir.ru#
 Ўг#
 Ўе#
 You're already friends#

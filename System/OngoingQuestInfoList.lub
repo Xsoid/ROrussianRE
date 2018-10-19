@@ -3335,28 +3335,28 @@ QuestInfoList = {
 	[2042] = {
 		Title = "Job Change to Sage",
 		Description = {
-			"Metheus Sylphe: Don't you have enough zeny for the registration fee? I will accept 30,000 zeny as registration fee if you bring me 50 Feathers of Bird, 50 Fluff and 25 Iron Ore. You can bring 70,000 zeny or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead."
+			"Metheus Sylphe: \"Don't you have enough zeny for the registration fee? I will accept 30,000 zeny as registration fee if you bring me 50 Feathers of Bird, 50 Fluff and 25 Iron Ore. You can bring 70,000 zeny or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[2043] = {
 		Title = "Job Change to Sage",
 		Description = {
-			"Metheus Sylphe: I will accept 30,000 zeny as registration fee if you bring me 50 Feathers of Bird, 50 Fluff and 25 Iron Ore. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead."
+			"Metheus Sylphe: \"I will accept 30,000 zeny as registration fee if you bring me 50 Feathers of Bird, 50 Fluff and 25 Iron Ore. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[2044] = {
 		Title = "Job Change to Sage",
 		Description = {
-			"Metheus Sylphe: I will accept 30,000 zeny as registration fee if you bring me 50 Clovers, 50 Feathers and 25 Squid Ink. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead."
+			"Metheus Sylphe: \"I will accept 30,000 zeny as registration fee if you bring me 50 Clovers, 50 Feathers and 25 Squid Ink. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[2045] = {
 		Title = "Job Change to Sage",
 		Description = {
-			"Metheus Sylphe: I will accept 30,000 zeny as registration fee if you bring me 50 Feathers of Bird, 50 Fluff, 50 Clover and 50 Feather. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead."
+			"Metheus Sylphe: \"I will accept 30,000 zeny as registration fee if you bring me 50 Feathers of Bird, 50 Fluff, 50 Clover and 50 Feather. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.\""
 		},
 		Summary = "Bring the required materials"
 	},
@@ -3587,7 +3587,7 @@ QuestInfoList = {
 	[2078] = {
 		Title = "Cursed Property",
 		Description = {
-			"The ore is identified but Shinokas was already assaulted by suspicious guys. He leaves a messages. 'They... wer.... and dies."
+			"The ore is identified but Shinokas was already assaulted by suspicious guys. He leaves a messages. \"They... wer....\" and dies."
 		},
 		Summary = "Return to Buender Hikeman."
 	},
@@ -3713,35 +3713,35 @@ QuestInfoList = {
 	[2109] = {
 		Title = "A Mage in the Ice Dungeon",
 		Description = {
-			"Thank you so much! Please, take care of this necklace and ask Maheo to restore its luster. Then, it'll be a fitting tribute to our loving goddess Freya."
+			"\"Thank you so much! Please, take care of this necklace and ask Maheo to restore its luster. Then, it'll be a fitting tribute to our loving goddess Freya.\""
 		},
 		Summary = "Find the arcane mage Maheo"
 	},
 	[2110] = {
 		Title = "A Mage in the Ice Dungeon",
 		Description = {
-			"I'm sure that my master will know of a way to free me from this prison of ice. He can be found near Freya's Spring: beseech him on my behalf!"
+			"\"I'm sure that my master will know of a way to free me from this prison of ice. He can be found near Freya's Spring: beseech him on my behalf!\""
 		},
 		Summary = "Find Maheo's master"
 	},
 	[2111] = {
 		Title = "A Mage in the Ice Dungeon",
 		Description = {
-			"I need to construct an artifact in order to break that magical ice. Mmm... Would you help me? I need to get 5 Rough Wind, 1 Hammer, and 1 Blank Scroll. -Hamion"
+			"\"I need to construct an artifact in order to break that magical ice. Mmm... Would you help me? I need to get 5 Rough Wind, 1 Hammer, and 1 Blank Scroll.\" -Hamion"
 		},
 		Summary = "Bring the required materials"
 	},
 	[2112] = {
 		Title = "A Mage in the Ice Dungeon",
 		Description = {
-			"Here, take this Wind Hammer and use it to free Maheo. This hammer will only work once, so make sure that you smash that ice properly!"
+			"\"Here, take this Wind Hammer and use it to free Maheo. This hammer will only work once, so make sure that you smash that ice properly!\""
 		},
 		Summary = "Free Maheo with the Wind Hammer"
 	},
 	[2113] = {
 		Title = "A Mage in the Ice Dungeon",
 		Description = {
-			"Well, I suppose this is where we part ways. Here, take this as a gift... And please don't mention the fact that I trapped myself in ice to anyone else, okay?"
+			"\"Well, I suppose this is where we part ways. Here, take this as a gift... And please don't mention the fact that I trapped myself in ice to anyone else, okay?\""
 		},
 		Summary = "Bring the Sparkling Necklace to Urstialla"
 	},
@@ -5267,182 +5267,182 @@ QuestInfoList = {
 	[3006] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Decayed Nail, 10 Stinky Scale, 10 Worn-out Prison Uniform, and 10 Daenggie^000000"
+			"Qualification - \"I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Decayed Nail, 10 Stinky Scale, 10 Worn-out Prison Uniform, and 10 Daenggie^000000\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3007] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Skel-Bone, 10 Orc Claw, 10 Manacles, and 10 Short Daenggie^000000"
+			"Qualification - \"I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Skel-Bone, 10 Orc Claw, 10 Manacles, and 10 Short Daenggie^000000\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3008] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Horrendous Mouth, 10 Rotten Bandage, 10 Lantern, and 10 Jack o'Pumpkin^000000"
+			"Qualification - \"I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Horrendous Mouth, 10 Rotten Bandage, 10 Lantern, and 10 Jack o'Pumpkin^000000\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3009] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"I can see your potential as a crusader. Meet with ^0000FFMoorenak Miyol^000000. He is in the underground prison of Prontera Castle. Talk to him first."
+			"\"I can see your potential as a crusader. Meet with ^0000FFMoorenak Miyol^000000. He is in the underground prison of Prontera Castle. Talk to him first.\""
 		},
 		Summary = "Talk with Moorenak Miyol"
 	},
 	[3010] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Endurance - To a crusader, endurance and patience are most important. You just need to walk down the hallway until you reach the end. But do not defeat a single monster, even if they attack you."
+			"Endurance - \"To a crusader, endurance and patience are most important. You just need to walk down the hallway until you reach the end. But do not defeat a single monster, even if they attack you.\""
 		},
 		Summary = "Endurance and patience"
 	},
 	[3011] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Meet Gabriel Valentine in Prontera Sanctuary. She will give you the next test... Get going now."
+			"\"Meet Gabriel Valentine in Prontera Sanctuary. She will give you the next test... Get going now.\""
 		},
 		Summary = "Talk with Gabriel Valentine"
 	},
 	[3012] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"You need to have enough knowledge to qualify for the job. Sorry, but I feel you have to study more. Come back when you're ready."
+			"\"You need to have enough knowledge to qualify for the job. Sorry, but I feel you have to study more. Come back when you're ready.\""
 		},
 		Summary = ""
 	},
 	[3013] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Very good. Go take the next test at once. Go to Prontera Castle and meet Bliant Piyord. I will tell him to prepare the next test."
+			"\"Very good. Go take the next test at once. Go to Prontera Castle and meet Bliant Piyord. I will tell him to prepare the next test.\""
 		},
 		Summary = "Talk with Bliant Piyord"
 	},
 	[3014] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"This is the last test you need to take. The last test is a combat test. Only people with good battle skills are fit to become Crusaders. Bring 1 Holy Water before you take the combat test."
+			"\"This is the last test you need to take. The last test is a combat test. Only people with good battle skills are fit to become Crusaders. Bring 1 Holy Water before you take the combat test.\""
 		},
 		Summary = "Bring 1 Holy Water"
 	},
 	[3015] = {
 		Title = "Job Change to Crusader",
 		Description = {
-			"Congratulations. You have finished all the tests. Talk to our leader inside. You are now chosen to prepare for the Holy War."
+			"\"Congratulations. You have finished all the tests. Talk to our leader inside. You are now chosen to prepare for the Holy War.\""
 		},
 		Summary = "Talk with Senior Crusader"
 	},
 	[3016] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"Do you want to be a Monk? Well, then get yourself inside and talk to ^0000FFSensei Moohae^000000. He'll guide you."
+			"\"Do you want to be a Monk? Well, then get yourself inside and talk to ^0000FFSensei Moohae^000000. He'll guide you.\""
 		},
 		Summary = "Talk with Sensei Moohae"
 	},
 	[3017] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Sticky Mucus, 10 Earthworm Peeling and 20 Green Herb."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Sticky Mucus, 10 Earthworm Peeling and 20 Green Herb.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3018] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 20 Yoyo Tail, 5 Iron Ore and 3 Blue Herb."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 20 Yoyo Tail, 5 Iron Ore and 3 Blue Herb.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3019] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 30 Stem, 5 Jellopy and 10 Worm Peeling."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 30 Stem, 5 Jellopy and 10 Worm Peeling.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3020] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Solid Shell, 20 Shell and 5 Zargon."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Solid Shell, 20 Shell and 5 Zargon.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3021] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Cyfar, 10 White Herb and 10 Yellow Herb."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Cyfar, 10 White Herb and 10 Yellow Herb.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3022] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 10 Tooth of Bat, 5 Bear's Footskin and 20 Poison Spore."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 10 Tooth of Bat, 5 Bear's Footskin and 20 Poison Spore.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3023] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Porcupine Quill, 20 Cobweb and 10 Bug Leg."
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 Porcupine Quill, 20 Cobweb and 10 Bug Leg.\""
 		},
 		Summary = "Bring the required materials"
 	},
 	[3024] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"Well, the next monk you have to meet is...OH! Go to 'Touha'. Go North from here and you'll meet him at the graveyard."
+			"\"Well, the next monk you have to meet is...OH! Go to 'Touha'. Go North from here and you'll meet him at the graveyard.\""
 		},
 		Summary = "Talk with Touha"
 	},
 	[3025] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"I'll teach you the way of the monk -- the mental attitude required and our dogma. You just need to remember what I'll tell you and memorize it. Are you ready?"
+			"\"I'll teach you the way of the monk -- the mental attitude required and our dogma. You just need to remember what I'll tell you and memorize it. Are you ready?\""
 		},
 		Summary = ""
 	},
 	[3026] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"Great!! Perfect! You have passed my test. But still you need to take another test. Please go to Sir 'Boohae' next. Good luck!"
+			"\"Great!! Perfect! You have passed my test. But still you need to take another test. Please go to Sir 'Boohae' next. Good luck!\""
 		},
 		Summary = "Talk with Boohae"
 	},
 	[3027] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"Hmm....gathering mushrooms. So you want to test your tolerance huh? Go prepare and come back later when you're ready."
+			"\"Hmm....gathering mushrooms. So you want to test your tolerance huh? Go prepare and come back later when you're ready.\""
 		},
 		Summary = "Gather Mushrooms in the abbey."
 	},
 	[3028] = {
 		Title = "Job Change to Monk - Marathon",
 		Description = {
-			"The marathon test is about overcoming your limitation. At the center of the abbey is a building. Go there. You need to run a couple of laps."
+			"\"The marathon test is about overcoming your limitation. At the center of the abbey is a building. Go there. You need to run a couple of laps.\""
 		},
 		Summary = "Run laps for the marathon test."
 	},
 	[3029] = {
 		Title = "Job Change to Monk - Final test",
 		Description = {
-			"Congratulation!! Now, go to the monk 'Tomoon'. He is in the deepest place of the building at the center of the abbey."
+			"\"Congratulation!! Now, go to the monk 'Tomoon'. He is in the deepest place of the building at the center of the abbey.\""
 		},
 		Summary = "Talk with Tomoon"
 	},
 	[3031] = {
 		Title = "Job Change to Monk - Spiritual Training",
 		Description = {
-			"The last test is a spiritual training! Attack and slash all enemies that stand in your way! Now! Make a fist! Stand up! It's time!"
+			"\"The last test is a spiritual training! Attack and slash all enemies that stand in your way! Now! Make a fist! Stand up! It's time!\""
 		},
 		Summary = ""
 	},
 	[3032] = {
 		Title = "Job Change to Monk - Become a Monk",
 		Description = {
-			"Well done!! Now... I will give you a secret potion. If you drink it, you will have enough physical strength to be able to change into a monk! Go back to Sensei Moohae!"
+			"\"Well done!! Now... I will give you a secret potion. If you drink it, you will have enough physical strength to be able to change into a monk! Go back to Sensei Moohae!\""
 		},
 		Summary = "Talk with Sensei Moohae"
 	},
@@ -5498,28 +5498,28 @@ QuestInfoList = {
 	[3050] = {
 		Title = "Resurrection of Satan Morocc - 1",
 		Description = {
-			"Satan Morocc has resurrected and broke out of Morocc Village, and now he has moved to the Sograt Desert. If you consider yourself as a brave advanturer, find Chief Balrog of the Continental Guard at Morocc Village."
+			"\"Satan Morocc has resurrected and broke out of Morocc Village, and now he has moved to the Sograt Desert. If you consider yourself as a brave advanturer, find Chief Balrog of the Continental Guard at Morocc Village.\""
 		},
 		Summary = "Chief Balrog"
 	},
 	[3051] = {
 		Title = "Resurrection of Satan Morocc - 2",
 		Description = {
-			"I happened to hear that the monsters in the Lava Dungeon have everlasting flames which would solve our bonfire problems. I want you to gather those flames for us. -Chief Balrog"
+			"\"I happened to hear that the monsters in the Lava Dungeon have everlasting flames which would solve our bonfire problems. I want you to gather those flames for us.\" -Chief Balrog"
 		},
 		Summary = "30 Live Coals"
 	},
 	[3052] = {
 		Title = "Resurrection of Satan Morocc - 3",
 		Description = {
-			"Now, I remember hearing that the monsters in the Ice Cave to the north have Glacial Hearts. Those hearts might be able to relieve those soldiers from the heat. -Chief Balrog"
+			"\"Now, I remember hearing that the monsters in the Ice Cave to the north have Glacial Hearts. Those hearts might be able to relieve those soldiers from the heat.\" -Chief Balrog"
 		},
 		Summary = "50 Glacial Hearts"
 	},
 	[3053] = {
 		Title = "Resurrection of Satan Morocc - 4",
 		Description = {
-			"I admit that I'm impressed by your skills and gumption. Welcome to the Continental Guard, my friend. Are you ready to risk your life for the sake of peace in the world? -Chief Balrog"
+			"\"I admit that I'm impressed by your skills and gumption. Welcome to the Continental Guard, my friend. Are you ready to risk your life for the sake of peace in the world?\" -Chief Balrog"
 		},
 		Summary = "Keep Satan Morocc from fully reviving his true power"
 	},
@@ -5540,7 +5540,7 @@ QuestInfoList = {
 	[3056] = {
 		Title = "Resurrection of Satan Morocc - 7",
 		Description = {
-			"Congratulations, soldier. You just saved this world and people from being consumed by destruction and evil. I have three items. Which one do you like to receive?"
+			"\"Congratulations, soldier. You just saved this world and people from being consumed by destruction and evil. I have three items. Which one do you like to receive?\""
 		},
 		Summary = "Choose your reward"
 	},
@@ -5939,7 +5939,7 @@ QuestInfoList = {
 	[3122] = {
 		Title = "Z Gang Wanted - Information from Valdes",
 		Description = {
-			"It is recommended that you be in touch with an agent from the Rogue Guild in order to find Z Gang. You must find Marybell, the Rogue agent, and get the info. The password you must give her is ^3355FFThe dawn is yet to come^000000"
+			"It is recommended that you be in touch with an agent from the Rogue Guild in order to find Z Gang. You must find Marybell, the Rogue agent, and get the info. The password you must give her is \"^3355FFThe dawn is yet to come^000000\""
 		},
 		Summary = ""
 	},
@@ -6205,7 +6205,7 @@ QuestInfoList = {
 	[3250] = {
 		Title = "What is this Bandage?",
 		Description = {
-			"Hunt ^0000FF30 Mummy^000000 and collect 0000FF20 Rotten Bandage^000000. Report back to Sparkle at the Eden Group after the request is done."
+			"Hunt ^0000FF30 Mummy^000000 and collect ^0000FF20 Rotten Bandage^000000. Report back to Sparkle at the Eden Group after the request is done."
 		},
 		Summary = ""
 	},
@@ -8347,7 +8347,7 @@ QuestInfoList = {
 	[5067] = {
 		Title = "Scary image-(2)",
 		Description = {
-			"Director cat said Scary image that is really hard.. Why does not giving up.. that will be easy collecting complaint... !! I heard that sometimes army do that~"
+			"Director cat: \"Scary image that is really hard.. Why does not giving up.. that will be easy collecting complaint... !! I heard that sometimes army do that~\""
 		},
 		Summary = "Tell Cat gamers Director, bring a box for collecting complaint."
 	},
@@ -9418,21 +9418,21 @@ QuestInfoList = {
 	[5225] = {
 		Title = "Saving energy crystal(Stand by)",
 		Description = {
-			"In order to save^0000FFRough Energy Crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
+			"In order to save ^0000FFRough Energy Crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
 		},
 		Summary = "Waiting time- 20 hours"
 	},
 	[5226] = {
 		Title = "Saving energy crystal(Stand by)",
 		Description = {
-			"In order to save^0000FF Purified Energy crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
+			"In order to save ^0000FFPurified Energy crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
 		},
 		Summary = "Waiting time- 20 hours"
 	},
 	[5227] = {
 		Title = "Saving energy crystal(Stand by)",
 		Description = {
-			"In order to save^0000FFHigh purity energy crystal^000000again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
+			"In order to save ^0000FFHigh purity energy crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
 		},
 		Summary = "Waiting time- 20 hours"
 	},
@@ -12750,9 +12750,201 @@ QuestInfoList = {
 	[5846] = {
 		Title = "환영의 회랑",
 		Description = {
-			"<NAVI>[환영의 망령]<INFO>comodo,214,186,000,0</INFO></NAVI>에게 하루에 한번 1시간 동안 사용 가능한 <ITEM>[환영의 인장]<INFO>25504</INFO></ITEM>을 받을 수 있습니다."
+			"<NAVI>[환영의 망령]<INFO>comodo,214,186,0,101,0</INFO></NAVI>에게 하루에 한번 1시간 동안 사용 가능한 <ITEM>[환영의 인장]<INFO>25504</INFO></ITEM>을 받을 수 있습니다."
 		},
 		Summary = "초기화 04시"
+	},
+	[5847] = {
+		Title = "루안다에게 전할 이야기",
+		Description = {
+			"조금 전 보고 겪은 일을 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>에게 이야기해주자."
+		},
+		Summary = ""
+	},
+	[5848] = {
+		Title = "거석족 퇴치의 증거",
+		Description = {
+			"마을에서는 거석족 몬스터 때문에 골치를 썩고 있다. 그들을 퇴치한 <ITEM>[증거]<INFO>25638</INFO></ITEM> 3개를 가져가면, 하루에 한번 정도는 보상을 해줄 것이다."
+		},
+		Summary = "거석의 증표 3개"
+	},
+	[5849] = {
+		Title = "[대기]거석족 퇴치의 증거",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 내일도 거석족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
+		},
+		Summary = "초기화 04시"
+	},
+	[5850] = {
+		Title = "우탄족 퇴치의 증거",
+		Description = {
+			"마을에서는 우탄족 몬스터 때문에 골치를 썩고 있다. 그들을 퇴치한 <ITEM>[증거]<INFO>25633</INFO></ITEM> 3개를 가져가면, 하루에 한번 정도는 보상을 해줄 것이다."
+		},
+		Summary = "우탄의 증표 3개"
+	},
+	[5851] = {
+		Title = "[대기]우탄족 퇴치의 증거",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 내일도 우탄족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
+		},
+		Summary = "초기화 04시"
+	},
+	[5852] = {
+		Title = "거석족 퇴치작전",
+		Description = {
+			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 트라이조인트]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 스터랙틱 고렘]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 메갈리스]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>에게 보고하자."
+		},
+		Summary = ""
+	},
+	[5853] = {
+		Title = "[대기]거석족 퇴치작전",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 당신이 내일도 거석족 토벌에 나서주길 기대하고 있다."
+		},
+		Summary = "초기화 04시"
+	},
+	[5854] = {
+		Title = "우탄족 퇴치작전",
+		Description = {
+			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 스톤슈터]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄슈터]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄파이터]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>에게 보고하자."
+		},
+		Summary = ""
+	},
+	[5855] = {
+		Title = "[대기]우탄족 퇴치작전",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 당신이 내일도 우탄족 토벌에 나서주길 기대하고 있다."
+		},
+		Summary = "초기화 04시"
+	},
+	[5856] = {
+		Title = "내 이름은 아침이",
+		Description = {
+			"안녕! 이 쪽지를 읽는 친구",
+			"급하게 이동을 해야해서 아이를 두고 가게 됐어. 저 아이는 루두스에 버려진 실험체야.",
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>라고 불러주면 돼.",
+			"떠넘기는 건 아니고 나도 시간이 날 때마다 보러 올 테니 아침이 식사 정도만 챙겨줘. 달라는 걸 주면 될 거야. 당장은 데려갈 형편이 안돼서. 부탁해.",
+			"-올그"
+		},
+		Summary = ""
+	},
+	[5857] = {
+		Title = "아침이의 친구 만들기",
+		Description = {
+			"안녕! 이 쪽지를 읽는 친구",
+			"아침이 식사를 챙겨줘서 고마워. 얼마 전에 포링 이야기를 해줘서 그런가 포링을 너무 좋아하더라. 포링 펫 하나라도 있으면, 덜 외로워 할 텐데.",
+			"그래서 그런데 <ITEM>[포링의 알]<INFO>9001</INFO></ITEM> 하나 구해서 아침에게 전해 줄 수 있을까? 부탁해. 친구.",
+			"-올그"
+		},
+		Summary = "포링의 알"
+	},
+	[5858] = {
+		Title = "아침이의 친구 만들기",
+		Description = {
+			"안녕! 친구",
+			"아침이가 널 밥 주는 존재로 인식한 모양이더라?",
+			"아 이건 헛소리고 얼마전에 노래 부르는 베짱이 로커 이야기를 해줬거든. 그랬더니 이번에는 로커가 보고싶은 가봐.",
+			"이번에는 <ITEM>[로커의 알]<INFO>9011</INFO></ITEM>을 하나 구해줄 수 있을까? 부탁해. 친구.",
+			"-올그"
+		},
+		Summary = "로커의 알"
+	},
+	[5859] = {
+		Title = "아침이의 친구 만들기",
+		Description = {
+			"안녕! 친구",
+			"아침이에게 삐약이의 모험이란 이야기를 해줘서 그런가 픽키를 궁금해하네?",
+			"이번에는 <ITEM>[픽키의 알]<INFO>9005</INFO></ITEM>을 구해줄 수 있을까? 자주 챙겨 주지도 못하는데 친구라도 많이 만들어 줘야지. 부탁해. 친구.",
+			"-올그"
+		},
+		Summary = "픽키의 알"
+	},
+	[5860] = {
+		Title = "아침이의 친구 만들기",
+		Description = {
+			"안녕! 친구",
+			"매번 부탁만 하고 염치가 없네. 달에 사는 토끼 이야기를 해줘서 그런가? 루나틱을 궁금해하네.",
+			"<ITEM>[루나틱의 알]<INFO>9004</INFO></ITEM>을 구해줄 수 있어? 부탁할 게 친구.",
+			"-올그"
+		},
+		Summary = "루나틱의 알"
+	},
+	[5861] = {
+		Title = "[대기] 아침이 챙겨주기",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>의 식사를 챙겨줬다. 여유가 된다면 내일도 챙겨주는 게 좋지 않을까?"
+		},
+		Summary = "초기화 04시"
+	},
+	[5862] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 젤로피를 먹고 싶어 하는 것 같다. <ITEM>[젤로피]<INFO>909</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "젤로피 10"
+	},
+	[5863] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 늙은나무의 뿌리를 먹고 싶어 하는 것 같다. <ITEM>[늙은나무의 뿌리]<INFO>902</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "늙은나무의 뿌리 10"
+	},
+	[5864] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 메뚜기의 뒷다리를 먹고 싶어 하는 것 같다. <ITEM>[메뚜기의 뒷다리]<INFO>940</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "메뚜기의 뒷다리 10"
+	},
+	[5865] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 클로버를 먹고 싶어 하는 것 같다. <ITEM>[클로버]<INFO>705</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "클로버 10"
+	},
+	[5866] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 새의 깃털를 먹고 싶어 하는 것 같다. <ITEM>[새의 깃털]<INFO>916</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "새의 깃털 10"
+	},
+	[5867] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 쥐의 꼬리를 먹고 싶어 하는 것 같다. <ITEM>[쥐의 꼬리]<INFO>1016</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "쥐의 꼬리 10"
+	},
+	[5868] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 독 송곳니를 먹고 싶어 하는 것 같다. <ITEM>[독 송곳니]<INFO>937</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "독 송곳니 10"
+	},
+	[5869] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 원숭이의 꼬리를 먹고 싶어 하는 것 같다. <ITEM>[원숭이의 꼬리]<INFO>942</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "원숭이의 꼬리 10"
+	},
+	[5870] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 박쥐의 이빨를 먹고 싶어 하는 것 같다. <ITEM>[박쥐의 이빨]<INFO>913</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "박쥐의 이빨 10"
+	},
+	[5871] = {
+		Title = "아침이의 메뉴 선택",
+		Description = {
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 곰의 발바닥를 먹고 싶어 하는 것 같다. <ITEM>[곰의 발바닥]<INFO>948</INFO></ITEM> 10개를 가져다 주자."
+		},
+		Summary = "곰의 발바닥 10"
 	},
 	[6000] = {
 		Title = "Job Change to Taekwon",
@@ -12848,7 +13040,7 @@ QuestInfoList = {
 	[6021] = {
 		Title = "Wise Bull Horn's voucher",
 		Description = {
-			"I can make a voucher that will demonstrate your desire to become a warrior of the earth for you to present to Gunslinger drillmasters."
+			"\"I can make a voucher that will demonstrate your desire to become a warrior of the earth for you to present to Gunslinger drillmasters.\""
 		},
 		Summary = "3 Zargons, 10 Shells, 3 Fluffs, 1 Trunk, 3 Rainbow Shells, 3 Green Herbs"
 	},
@@ -12862,14 +13054,14 @@ QuestInfoList = {
 	[6023] = {
 		Title = "Wise Bull Horn's Favor",
 		Description = {
-			"I'm thirsty, and would like a cold glass of Milk. Would you please bring me some?"
+			"\"I'm thirsty, and would like a cold glass of Milk. Would you please bring me some?\""
 		},
 		Summary = ""
 	},
 	[6024] = {
 		Title = "Job Change to Gunslinger!",
 		Description = {
-			"Eeh~Yeah~Eeh~Hooom, Maaaaarrraaa Neeey~ Yippee Yippee Yai Yocaiyay~ Take this to Miller, the Black Fox."
+			"\"Eeh~Yeah~Eeh~Hooom, Maaaaarrraaa Neeey~ Yippee Yippee Yai Yocaiyay~ Take this to Miller, the Black Fox.\""
 		},
 		Summary = ""
 	},
@@ -12960,14 +13152,14 @@ QuestInfoList = {
 	[7009] = {
 		Title = "Warrior of the Sun, the Moon, and the Stars - the Altar",
 		Description = {
-			"I shall guide you to the altar. At the altar, speak to Daru, who will serve as your guide for that test. After you complete the test, come talk to me."
+			"\"I shall guide you to the altar. At the altar, speak to Daru, who will serve as your guide for that test. After you complete the test, come talk to me.\""
 		},
 		Summary = "Altar of the Sun, Moon and Stars"
 	},
 	[7010] = {
 		Title = "Warrior of the Sun, the Moon, and the Stars - Stars?",
 		Description = {
-			"Bring me a piece of a star and the sand of a star..."
+			"\"Bring me a piece of a star and the sand of a star...\""
 		},
 		Summary = "A piece of a star, the sand of a star"
 	},
@@ -13275,7 +13467,7 @@ QuestInfoList = {
 	[7054] = {
 		Title = "Myu's Favor - Teach them a lesson!",
 		Description = {
-			"You've got a mission to warn the Kobold Archer to protect the Wild Rose's home."
+			"You've got a mission to \"warn\" the Kobold Archer to protect the Wild Rose's home."
 		},
 		Summary = "Beat up 1000 Kobold Archers."
 	},
@@ -13397,20 +13589,6 @@ QuestInfoList = {
 			"Arc invited you to Terra's residence to talk about the details. Terra's home is one of hundreds of Yai hanging on the leaves, located at the South-East area of the post."
 		},
 		Summary = "Go to Terra's Yai."
-	},
-	[7072] = {
-		Title = "",
-		Description = {
-			""
-		},
-		Summary = ""
-	},
-	[7073] = {
-		Title = "",
-		Description = {
-			""
-		},
-		Summary = ""
 	},
 	[7074] = {
 		Title = "Rata Hunt",
@@ -14197,7 +14375,7 @@ QuestInfoList = {
 		Summary = "Meet Inspector Doha"
 	},
 	[7186] = {
-		Title = "Secret Order from Doha - Investigation ",
+		Title = "Secret Order from Doha - Investigation",
 		Description = {
 			"Doha says that he's seeking the suspect of the stolen report case. He secretly orders you to collect information while in El Dicastes, explaining the suspect's outfit. The suspect is a guy with animal ears."
 		},
@@ -14620,13 +14798,6 @@ QuestInfoList = {
 		Title = "Nyadventure-Stop the Bang!",
 		Description = {
 			"Homnya, a doubtful cat who called himself a 'real detective' and his friend Nyangson say that if the machine in front explodes, all of Malangdo will be destroyed. So they ask you to stop the machine."
-		},
-		Summary = ""
-	},
-	[7248] = {
-		Title = "",
-		Description = {
-			""
 		},
 		Summary = ""
 	},
@@ -16150,7 +16321,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7471] = {
-		Title = "First time talking after being born",
+		Title = "First time conversation after being born",
 		Description = {
 			"Talk with Captain Carocc."
 		},
@@ -16283,7 +16454,7 @@ QuestInfoList = {
 		Summary = "Liquidation of Familiar"
 	},
 	[7490] = {
-		Title = "Mushroom soup calling memories ",
+		Title = "Mushroom soup calling memories",
 		Description = {
 			"The miscellaneous assignment signboard asks you to find mushrooms. Meet Mash near the oasis and move to the mushroom farm, get back with 3 sticky scarlet hair mushroom."
 		},
@@ -16789,7 +16960,7 @@ QuestInfoList = {
 	[7568] = {
 		Title = "Explore the tower",
 		Description = {
-			"You've been asked to explore the tower of Thanatos through the dimensional gap."
+			"You've been asked to explore the Thanatos Tower through the dimensional gap."
 		},
 		Summary = ""
 	},
@@ -16817,14 +16988,14 @@ QuestInfoList = {
 	[7572] = {
 		Title = "Lucile...?",
 		Description = {
-			"Lucile, a mysterious girl in the Devil's tower asked to help recover her body."
+			"Lucile, a mysterious girl in the Demon's Tower asked to help recover her body."
 		},
 		Summary = "Help Lucile"
 	},
 	[7573] = {
 		Title = "Magic Swordman Thanatos",
 		Description = {
-			"Magic swordman thanatos has to prevent the Magic Seals of the demon from approaching to successfully seal the demon Morocc."
+			"Magic swordman thanatos has to prevent the Magic Seals of the demon from approaching to successfully seal the Satan Morocc."
 		},
 		Summary = "Get rid of the Magic Seals"
 	},
@@ -16859,7 +17030,7 @@ QuestInfoList = {
 	[7578] = {
 		Title = "Rampaging Box",
 		Description = {
-			"The Flaming Basin is overrun with animated boxes with hostile intent. Subjugate the boxes and identify them."
+			"The Flame Basin is overrun with animated boxes with hostile intent. Subjugate the boxes and identify them."
 		},
 		Summary = "1 Bradium Box"
 	},
@@ -17991,95 +18162,95 @@ QuestInfoList = {
 		Summary = "우리 안의 포이즌 스포아 100마리"
 	},
 	[7776] = {
-		Title = "수상한 징조",
+		Title = "Suspicious Sign",
 		Description = {
-			"페이욘의 원로들은 어떤 의식을 치르던 중 사라진 견습 소울링커 '무연'을 걱정하고 있다. 페이욘 동굴 입구에서 '청년 학사'를 만나 무연에 대해 물어보자."
+			"The Elders of Payon are worried about the apprentice Soul Linker, Muyeon, who disappeared during a ritual. I should talk to the young scholar at the entrance to the Payon Cave."
 		},
-		Summary = "청년 학사와 대화"
+		Summary = "Talk to Young Scholar."
 	},
 	[7777] = {
-		Title = "무슨일이 있었나?",
+		Title = "What Happened?",
 		Description = {
-			"무연은 '별궁'으로 돌아가 버렸다. 청년 학사는 별궁으로 돌아간 무연에게서 자세한 이야기를 듣고 싶어 한다."
+			"Muyeon left for the detached palace. The young scholar wants to ask her what happened."
 		},
-		Summary = "무연과 대화"
+		Summary = "Talk to Muyeon."
 	},
 	[7778] = {
-		Title = "무연이 본 것",
+		Title = "What Muyeon Saw",
 		Description = {
-			"무연은 정화 의식 도중 겪은 일로 괴로워 한다. 설명보다 일단 직접 보라는데…"
+			"Muyeon is agitated by something she saw during the purging ritual. She said I should see it for myself."
 		},
-		Summary = "무연과 대화"
+		Summary = "Talk to Muyeon."
 	},
 	[7779] = {
-		Title = "내키지 않는 의식",
+		Title = "Distressing Ritual",
 		Description = {
-			"무연은 문제가 되는 '정화 의식'에 대해 알고 싶다면 직접 체험시켜 줄 수 있다고 한다. 준비가 되면 무연에게 말을 걸자."
+			"Muyeon says she could let me have a first-hand experience of the purging ritual. I'd better brace myself and talk to her."
 		},
-		Summary = "무연과 대화"
+		Summary = "Talk to Muyeon."
 	},
 	[7780] = {
-		Title = "폐가촌에 서린 악몽",
+		Title = "Nightmare in the Ruined Village",
 		Description = {
-			"정화의식 중에 정신을 잃고 떨어진 '페이욘 동굴 폐가촌'에는 '일렁이는 공간'이 존재했다. 이것이 무연이 말한 구체화 된 악몽일까?"
+			"I blacked out during the ritual and arrived at the ruined village inside Payon Cave. Is this shimmering portal in front of me connected to the nightmare that Muyeon told me about?"
 		},
-		Summary = "일렁이는 공간 조사"
+		Summary = "Investigate the shimmering portal."
 	},
 	[7781] = {
-		Title = "폐가촌에 서린 악몽",
+		Title = "Nightmare in the Ruined Village",
 		Description = {
-			"페이요 동굴 폐가촌'에 발생한 '일렁이는 공간' 너머로 청년 학사가 사라져 버렸다…!"
+			"The young scholar was sucked into the shimmering portal in the ruined village inside the Payon Cave."
 		},
-		Summary = "공간 너머의 충해와 대화"
+		Summary = "Talk to Chunghae on the other side of the portal."
 	},
 	[7782] = {
-		Title = "대마법사를 저지하라!",
+		Title = "Stop the Wizard!",
 		Description = {
-			"월야화의 악몽' 던전에서 학사 대충해는 사건의 원흉으로 ^4d4dff진리의 위자드^000000를 지목하며, 처치해 달라고 의뢰했다."
+			"Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon thinks the ^4d4dffWizard of the Truth^000000 is responsible for this incident. He asked me to take care of him."
 		},
-		Summary = "진리의 위자드 1 처치"
+		Summary = "Eliminate 1 Wizard of the Truth."
 	},
 	[7783] = {
-		Title = "대마법사를 저지하라!-대기",
+		Title = "Stop the Wizard! - Pending",
 		Description = {
-			"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 '월야화의 악몽' 던전에서 '학사 대충해'를 통해 다시 받으실 수 있습니다."
+			"You can re-receive this Daily quest from Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon after it cools down."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4:00 a.m."
 	},
 	[7784] = {
-		Title = "환영에겐 자비가 없다.",
+		Title = "No Mercy for Illusions",
 		Description = {
-			"월야화의 악몽' 던전에서 병사 신중희는 주변정리를 위해 ^4d4dff분노한 구미호^000000를 처치해 달라고 의뢰했다."
+			"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to clear the area around him of ^4d4dffAngry Nine Tails^000000."
 		},
-		Summary = "분노한 구미호 처치"
+		Summary = "Eliminate Angry Nine Tails."
 	},
 	[7785] = {
-		Title = "환영에겐 자비가 없다.-대기",
+		Title = "No Mercy for Illusions - Pending",
 		Description = {
-			"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 '월야화의 악몽' 던전에서 '병사 신중희'를 통해 다시 받으실 수 있습니다."
+			"You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4:00 a.m."
 	},
 	[7786] = {
-		Title = "선조의 넋을 기리며",
+		Title = "Remembering My Ancestors",
 		Description = {
-			"월야화의 악몽' 던전에서 병사 신중희는 ^4d4dff억울한 병사^000000를 완전한 죽음으로 보내달라고 의뢰했다."
+			"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to send ^4d4dffResentful Soldiers^000000 to Heaven."
 		},
-		Summary = "억울한 병사 처치"
+		Summary = "Eliminate Resentful Soldiers."
 	},
 	[7787] = {
-		Title = "선조의 넋을 기리며-대기",
+		Title = "Remebering My Ancestors - Pending",
 		Description = {
-			"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 '월야화의 악몽' 던전에서 '병사 신중희'를 통해 다시 받으실 수 있습니다."
+			"You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4:00 a.m."
 	},
 	[7788] = {
-		Title = "무연에게",
+		Title = "Back to Muyeon",
 		Description = {
-			"충해의 조사로 알아낸 사실을 ^4d4dff페이욘 별궁^000000에 있는 ^4d4dff무연^000000에게 알려주자."
+			"Relay Chunghae's investigation results to ^4d4dffMuyeon^000000 in the ^4d4dffDetached Payon Palace^000000."
 		},
-		Summary = "별궁의 무연과 대화"
+		Summary = "Talk to Muyeon in the Detached Palace."
 	},
 	[7790] = {
 		Title = "Rock Ridge, Land of Opportunities",
@@ -18400,6 +18571,147 @@ QuestInfoList = {
 		Title = "오늘도 스윗츠 드롭프스 응징-대기",
 		Description = {
 			"해당 이벤트 퀘스트는 대기시간 종료 후, 프론테라의 <NAVI>[쇼콜라]<INFO>prontera,163,98,0,101,0</INFO></NAVI>를 통해 반복 수행이 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[7850] = {
+		Title = "총알 탄 야옹이",
+		Description = {
+			"아인베흐에서 만난 리벨리온 대원은 최근 넓어진 작전지를 커버하기 위해 아인브로크의 가게를 아지트로 이용중이라고 알려줬다. 아인브로크에서 <NAVI>[총알 탄 야옹이]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>를 찾자."
+		},
+		Summary = "야옹이에서 테스와 대화"
+	},
+	[7851] = {
+		Title = "새로운 작전지",
+		Description = {
+			"테스로부터 새로운 작전지 <NAVI>[루두스]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>에 대한 정보를 입수했다. 작전지로 가서 리벨리온과 합류하자."
+		},
+		Summary = " 엘레나 볼코바와 대화"
+	},
+	[7852] = {
+		Title = "격벽 너머",
+		Description = {
+			"새로운 작전지 <NAVI>[루두스]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>에서 대기중인 엘레나 볼코바는 격벽을 조사중인 루키와 대화한 뒤 격벽 너머를 조사해 달라고 한다."
+		},
+		Summary = "루키와 대화"
+	},
+	[7853] = {
+		Title = "격벽 주변 조사",
+		Description = {
+			"<NAVI>[루두스]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> 내부의 루키는 격벽 주변을 조사 해 달라고 한다. 뭔가 특이사항을 발견하면 수집해서 알려주자."
+		},
+		Summary = "격벽 주변 조사"
+	},
+	[7854] = {
+		Title = "철로 위의 벽",
+		Description = {
+			"격벽이 철로 위에 세워져있다. 격벽은 아무래도 폐광이 된 후 세워진 것 같다."
+		},
+		Summary = ""
+	},
+	[7855] = {
+		Title = "감시탑",
+		Description = {
+			"격벽 너머를 한 눈에 내려다 볼 수 있을 정도로 높은 감시탑. 광물 제련에 이런 감시탑은 필요없을텐데…"
+		},
+		Summary = ""
+	},
+	[7856] = {
+		Title = "개구멍",
+		Description = {
+			"격벽의 끝이 암석과 맞닿는 부분에 아주 작은 어린아이가 겨우 통과할 수 있을 정도의 개구멍이 있다."
+		},
+		Summary = ""
+	},
+	[7857] = {
+		Title = "루키에게 보고",
+		Description = {
+			"격벽 주변은 대충 다 돌아본 것 같다. 수집한 정보를 루키에게 전하자."
+		},
+		Summary = "루키와 대화"
+	},
+	[7858] = {
+		Title = "불온한 소리의 정체 조사",
+		Description = {
+			"리벨리온 대원 일부는 격벽 너머에서 들려오는 소리의 정체를 밝히기 위해 이미 움직였다. 루키는 소리의 근원이 괴물이라면 멋지게 해치워 달라고 했다."
+		},
+		Summary = "괴물 사냥"
+	},
+	[7859] = {
+		Title = "테스에게 보고",
+		Description = {
+			"엘레나 볼코바는 격벽 너머의 상황이 정상이 아님을 총알 탄 야옹이로 돌아가<NAVI>[테스]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>에게 보고하라고 했다. 엘레나는 쓰레기장이라고 했는데.."
+		},
+		Summary = "테스에게 보고"
+	},
+	[7860] = {
+		Title = "예상 외의 손님",
+		Description = {
+			"총알 탄 야옹이에서 만난 <NAVI>[테스]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>는 급한 일이 있다며 안쪽의 비밀 방으로 안내 했다."
+		},
+		Summary = "비밀방에서 테스와 대화"
+	},
+	[7861] = {
+		Title = "기업의 위기",
+		Description = {
+			"내부의 배신자에게 점령당한 레겐쉬름 연구소를 되찾기 위해 에스트 일행과 합류하기로 했다. 리히타르젠에서 작전 대기 중인 <NAVI>[공화국 경비병]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>과 만나자."
+		},
+		Summary = "공화국 경비병과 대화"
+	},
+	[7862] = {
+		Title = "레겐쉬름 탈환작전",
+		Description = {
+			"연구소에 잠입 해 내부를 정리하기로 했다. 대기 중인 <NAVI>[오스카]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>를 통해 연구소로 진입이 가능하다."
+		},
+		Summary = "연구소 탈환"
+	},
+	[7863] = {
+		Title = "연구소에서 획득한 자료",
+		Description = {
+			"연구소의 경호 1팀과 관련된 자료입니다."
+		},
+		Summary = "테스에게 보고"
+	},
+	[7864] = {
+		Title = "환기",
+		Description = {
+			"테스가 자료를 분석 할 동안 레이지를 돕기로 했다. 주점 어딘가에 있을 레이지를 찾아보자. "
+		},
+		Summary = "레이지와 대화"
+	},
+	[7865] = {
+		Title = "두번째 작전",
+		Description = {
+			"아인브로크 북-서 필드의 폐광산에서 새로운 작전이 수행 될 예정이다. 대기 중인 <NAVI>[리벨리온 대원]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>과 만나 작전에 합류하자."
+		},
+		Summary = "리벨리온 대원과 대화"
+	},
+	[7866] = {
+		Title = "총알 탄 야옹이로",
+		Description = {
+			"총알 탄 야옹이'로 돌아가 <NAVI>[테스]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>에게 연구소의 전말을 보고해야 한다."
+		},
+		Summary = "테스와 대화"
+	},
+	[7867] = {
+		Title = "용병vs용병",
+		Description = {
+			"특수경계지역 코르의 <NAVI>[유슬란]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>은 오스 내부에서 등장하는 하트헌터 벨라레와 사나레의 처치를 부탁했다."
+		},
+		Summary = "하트헌터 처치"
+	},
+	[7868] = {
+		Title = "용병vs용병-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행 할 수 있습니다.",
+			"특수경계지역 코르의 <NAVI>[유슬란]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[7997] = {
+		Title = "고양이캔의 참맛",
+		Description = {
+			"고양이 캔의 효과를 보았다. 초기화 후 고양이 캔을 다시 맛볼 수 있을지도.."
 		},
 		Summary = "04시 초기화"
 	},
@@ -18812,7 +19124,7 @@ QuestInfoList = {
 	[8056] = {
 		Title = "Little something in return",
 		Description = {
-			"''Please take a look inside the medicine drawer, and help yourself to whatever you like'' ~Allen"
+			"\"Please take a look inside the medicine drawer, and help yourself to whatever you like\" ~Allen"
 		},
 		Summary = "Look inside the medicine drawer."
 	},
@@ -18826,7 +19138,7 @@ QuestInfoList = {
 	[8058] = {
 		Title = "Conversation with El Schatt",
 		Description = {
-			"''This tree means so much to everyone in this town, and we all have special memories of this place. But that El Schatt fellow plans to chop it down for his shop...'' -Manainne"
+			"\"This tree means so much to everyone in this town, and we all have special memories of this place. But that El Schatt fellow plans to chop it down for his shop...\" -Manainne"
 		},
 		Summary = ""
 	},
@@ -18840,7 +19152,7 @@ QuestInfoList = {
 	[8060] = {
 		Title = "Stubborn El Schatt",
 		Description = {
-			"''Although I'm pleased, I get this gut feeling that something's not right, like he's too excited about cutting that tree down. Maybe this old man is just too suspicious~'' -Perfitz"
+			"\"Although I'm pleased, I get this gut feeling that something's not right, like he's too excited about cutting that tree down. Maybe this old man is just too suspicious~\" -Perfitz"
 		},
 		Summary = ""
 	},
@@ -18854,14 +19166,14 @@ QuestInfoList = {
 	[8062] = {
 		Title = "Kanainne",
 		Description = {
-			"''Now El Schatt is just a heartless, money grubbing...! He's completely changed. My sister would be rolling in her grave, seeing him now...'' -Manainne"
+			"\"Now El Schatt is just a heartless, money grubbing...! He's completely changed. My sister would be rolling in her grave, seeing him now...\" -Manainne"
 		},
 		Summary = ""
 	},
 	[8063] = {
 		Title = "Kanainne's spirit",
 		Description = {
-			"''I... I can borrow my sister's body? Yes, if she cooperates, maybe... Maybe it will work. I must... must do something before he... he... he hurts himself even more..."
+			"\"I... I can borrow my sister's body? Yes, if she cooperates, maybe... Maybe it will work. I must... must do something before he... he... he hurts himself even more...\""
 		},
 		Summary = ""
 	},
@@ -18903,49 +19215,49 @@ QuestInfoList = {
 	[8069] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"Argh, but you're late! This is your fault, you know that, right? I can forgive you if you help me with my collection. Just bring me 1 Bookclip in Memory, alright?"
+			"\"Argh, but you're late! This is your fault, you know that, right? I can forgive you if you help me with my collection. Just bring me 1 Bookclip in Memory, alright?\""
 		},
 		Summary = "Bring 1 Bookclip in Memory to Maewan"
 	},
 	[8070] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"I can't let you continue delivering for Cellette unless you prove that you're dependable to me. Erm, bring me ^ff00001 Mushroom Spore^000000, and I'll forget this whole thing."
+			"\"I can't let you continue delivering for Cellette unless you prove that you're dependable to me. Erm, bring me ^ff00001 Mushroom Spore^000000, and I'll forget this whole thing.\""
 		},
 		Summary = "Bring 1 Mushroom Spore to Layoma."
 	},
 	[8071] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"Hm, but as the first son of the Franchesfeschu family, I cannot eat this soup unless it is suitably prepared. Go! I command you to bring me the commoner's ^ff0000China^000000!"
+			"\"Hm, but as the first son of the Franchesfeschu family, I cannot eat this soup unless it is suitably prepared. Go! I command you to bring me the commoner's ^ff0000China^000000!\""
 		},
 		Summary = "Bring Erjan 1 China."
 	},
 	[8072] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"Ooh, did I accidentally whip you twice? Heh heh... Well, I'm satisfied. I'll go ahead and tell Cellette that you did a good job... I hope you come deliver my soup again~"
+			"\"Ooh, did I accidentally whip you twice? Heh heh... Well, I'm satisfied. I'll go ahead and tell Cellette that you did a good job... I hope you come deliver my soup again~\""
 		},
 		Summary = "Return to Cellette."
 	},
 	[8073] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"Great, you really brought me a Bookclip in Memory! Yes, this'll make a fine addition to my collection~ Oh, and give me my soup. Thanks again for delivering~"
+			"\"Great, you really brought me a Bookclip in Memory! Yes, this'll make a fine addition to my collection~ Oh, and give me my soup. Thanks again for delivering~\""
 		},
 		Summary = "Return to Cellette."
 	},
 	[8074] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"Alright, maybe I can count on you to work for my roommate Cellette a little while longer. Oh, and please tell her not to come home so late all the time, okay?"
+			"\"Alright, maybe I can count on you to work for my roommate Cellette a little while longer. Oh, and please tell her not to come home so late all the time, okay?\""
 		},
 		Summary = "Return to Cellette."
 	},
 	[8075] = {
 		Title = "Cellette's Fish Cake Soup",
 		Description = {
-			"You are dismissed. Please take your leave, and return to Cellette with my noble thanks."
+			"\"You are dismissed. Please take your leave, and return to Cellette with my noble thanks.\""
 		},
 		Summary = "Return to Cellette."
 	},
@@ -19076,7 +19388,7 @@ QuestInfoList = {
 		Summary = "Go to the Ice Cave."
 	},
 	[8094] = {
-		Title = "Double Crossed?e",
+		Title = "Double Crossed?",
 		Description = {
 			"Vincent's instructions were to defeat anyone that asked about Rogan, some name he made up. It looks like he set us up, dude. Sorry, if I had known, I wouldn't have done it."
 		},
@@ -19925,7 +20237,7 @@ QuestInfoList = {
 	[8215] = {
 		Title = "Shurank's Lecture",
 		Description = {
-			"Traces of a nocturnal creature unknown to Manuk. Not a strong creature from the size of its teeth."
+			"By now, I believe that you know enough about the Increase HP Recovery skill. Next time, I shall teach you what I know about the Provoke skill."
 		},
 		Summary = "Listen to Shurank's Lecture"
 	},
@@ -20897,6 +21209,9 @@ QuestInfoList = {
 	},
 	[8401] = {
 		Title = "왕의 구두굽으로",
+		Description = {
+			""
+		},
 		Summary = "던전 진입"
 	},
 	[8402] = {
@@ -20908,7 +21223,6 @@ QuestInfoList = {
 	},
 	[8500] = {
 		Title = "꽃가지가 필요해요",
-		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 부탁으로 꽃가지 15개를 모아 와야 한다."
 		},
@@ -20916,7 +21230,6 @@ QuestInfoList = {
 	},
 	[8501] = {
 		Title = "분실한 사인본 배달 (1)",
-		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
 		},
@@ -20924,31 +21237,34 @@ QuestInfoList = {
 	},
 	[8502] = {
 		Title = "책 주인: 엘라이스",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 엘라이스에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 엘라이스에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8503] = {
 		Title = "책 주인: 흑제™",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 흑제™에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 흑제™에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8504] = {
 		Title = "책 주인: 무위자연",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 무위자연에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 무위자연에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8505] = {
 		Title = "책 주인: 너만의수호천사",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 너만의수호천사에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 너만의수호천사에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8506] = {
 		Title = "분실한 사인본 배달 (2)",
-		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
 		},
@@ -20956,31 +21272,34 @@ QuestInfoList = {
 	},
 	[8507] = {
 		Title = "책 주인: 꼬마블스",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 꼬마블스에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 꼬마블스에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8508] = {
 		Title = "책 주인: 악마의미소",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 악마의미소에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 악마의미소에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8509] = {
 		Title = "책 주인: 루사펠",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 루사펠에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 루사펠에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8510] = {
 		Title = "책 주인: 마리엔",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 마리엔에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 마리엔에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8511] = {
 		Title = "분실한 사인본 배달 (3)",
-		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
 		},
@@ -20988,31 +21307,34 @@ QuestInfoList = {
 	},
 	[8512] = {
 		Title = "책 주인: 헤븐즈도어",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 헤븐즈도어에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 헤븐즈도어에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8513] = {
 		Title = "책 주인: ∥샤를롯테∥",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 ∥샤를롯테∥에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 ∥샤를롯테∥에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8514] = {
 		Title = "책 주인: ★날개잃은천사★",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 ★날개잃은천사★에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 ★날개잃은천사★에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8515] = {
 		Title = "책 주인: 대마녀†루시아나",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 대마녀†루시아나에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 대마녀†루시아나에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8516] = {
 		Title = "분실한 사인본 배달 (4)",
-		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
 		},
@@ -21020,31 +21342,34 @@ QuestInfoList = {
 	},
 	[8517] = {
 		Title = "책 주인: 란디",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 란디에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 란디에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8518] = {
 		Title = "책 주인: ♡힐천사♡",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 ♡힐천사♡에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 ♡힐천사♡에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8519] = {
 		Title = "책 주인: ♬ORION♬",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 ♬ORION♬에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 ♬ORION♬에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8520] = {
 		Title = "책 주인: 대박상회™",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 대박상회™에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 대박상회™에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8521] = {
 		Title = "분실한 사인본 배달 (5)",
-		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
 		},
@@ -21052,32 +21377,37 @@ QuestInfoList = {
 	},
 	[8522] = {
 		Title = "책 주인: 켈리 폰 에르엔",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 켈리 폰 에르엔에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 켈리 폰 에르엔에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8523] = {
 		Title = "책 주인: 미사몬",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 미사몬에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 미사몬에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8524] = {
 		Title = "책 주인: 무적검사",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 무적검사에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 무적검사에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8525] = {
 		Title = "책 주인: 고독한노비스",
-		IconName = "ico_ev.bmp",
-		Description = { "프론테라 어딘가에 있는 고독한노비스에게 잃어버린 책을 가져다 주자." },
+		Description = {
+			"프론테라 어딘가에 있는 고독한노비스에게 잃어버린 책을 가져다 주자."
+		},
 		Summary = ""
 	},
 	[8526] = {
 		Title = "사은품 왕 딸기",
-		IconName = "ico_ev.bmp",
-		Description = { "사인본을 받지는 않았지만 남은 의상 왕 딸기를 받았다." },
+		Description = {
+			"사인본을 받지는 않았지만 남은 의상 왕 딸기를 받았다."
+		},
 		Summary = ""
 	},
 	[8527] = {
@@ -21094,7 +21424,202 @@ QuestInfoList = {
 		},
 		Summary = "04시 초기화"
 	},
-	[8529] = { Title = "왕의 구두굽에 다녀온 대가", Summary = "" },
+	[8529] = {
+		Title = "왕의 구두굽에 다녀온 대가",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[8530] = {
+		Title = "갈아드릴게요…멜론을.",
+		Description = {
+			"허리를 다친 아버지 대신 멜론 축제 일을 하게 된 <NAVI>[라벤더]<INFO>geffen,88,35,0,101,0</INFO></NAVI>는 달콤한 멜론 10개를 가져다 주면 달콤한 멜론 주스를 만들어 준다고 한다. 달콤한 멜론은 달콤이에게서 얻을 수 있다."
+		},
+		Summary = "달콤한 멜론 10개 조달"
+	},
+	[8531] = {
+		Title = "밀가루를 찾으러 알데바란에",
+		Description = {
+			"라벤더는 좋은 생각이 났다며 밀가루를 대신 가져다 달라고 한다. 알데바란에서 품질 좋은 밀을 금방 빻아서 준비중인 <NAVI>[상인]<INFO>aldebaran,101,52,0,101,0</INFO></NAVI>이 있다는 듯하다."
+		},
+		Summary = "수상한 상인과 대화"
+	},
+	[8532] = {
+		Title = "라벤더에게 밀가루 배달",
+		Description = {
+			"밀가루를 회수했다. 이대로 게펜의 <NAVI>[라벤더]<INFO>geffen,88,35,0,101,0</INFO></NAVI>에게 가져다 주자."
+		},
+		Summary = "라벤더에게 밀가루 배달"
+	},
+	[8533] = {
+		Title = "멜론 축제 기념 모자 (1)",
+		Description = {
+			"라벤더의 사촌인 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 멜론…아니, 달콤이 껍질을 모으고 있다. 라벤더가 이야기한 대로라면 특별한 모자를 만들 수 있다는 것 같다."
+		},
+		Summary = "난나비와 대화"
+	},
+	[8534] = {
+		Title = "멜론 축제 기념 모자 (2)",
+		Description = {
+			"게펜의 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 품질이 좋은 달콤이 껍질이 모자라 기념 모자를 만들지 못하고 있다고 한다. 달콤이 껍질 30개를 모아다 가져다 주자."
+		},
+		Summary = "달콤이 껍질 30개 조달"
+	},
+	[8538] = {
+		Title = "고급 산소마스크 대여중",
+		Description = {
+			"오늘은 이미 미세먼지 요원에게 고급 산소마스크를 대여했다. 내일 다시 빌릴 수 있다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8541] = {
+		Title = "내용물이 없는 것",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 오염된 레이드릭 20마리와 오염된 레이드릭 아쳐 20마리를 사냥하고 그 내용물을 확인해 달라고 한다."
+		},
+		Summary = "오염된 레이드릭, 오염된 레이드릭 아쳐 처치"
+	},
+	[8542] = {
+		Title = "내용물이 없는 것-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8543] = {
+		Title = "내용물이 아마도 없는 것",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 오염된 레이드릭 20마리와 오염된 레이드릭 아쳐 20마리를 사냥하고 그 내용물을 확인해 달라고 한다."
+		},
+		Summary = "오염된 레이드릭, 오염된 레이드릭 아쳐 처치"
+	},
+	[8544] = {
+		Title = "어는점이 높은 것",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 냉동 가고일 5마리와 프리즌 브레이커 5마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "냉동 가고일, 프리즌 브레이커 처치"
+	},
+	[8545] = {
+		Title = "어는점이 높은 것-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8546] = {
+		Title = "어는점이 매우 높은 것",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 냉동 가고일 5마리와 프리즌 브레이커 5마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "냉동 가고일, 프리즌 브레이커 처치"
+	},
+	[8547] = {
+		Title = "거울과도 같은 것",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 아이스 고스트 10마리와 플레임 고스트 10마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "아이스 고스트, 플레임 고스트 처치"
+	},
+	[8548] = {
+		Title = "거울과도 같은 것-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8549] = {
+		Title = "마치 거울과도 같은 것",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 아이스 고스트 10마리와 플레임 고스트 10마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "아이스 고스트, 플레임 고스트 처치"
+	},
+	[8550] = {
+		Title = "이상진화를 일으킨 딜리터",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 공중 딜리터 15마리, 굳은 지상 딜리터 15마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 공중 딜리터, 굳은 지상 딜리터 처치"
+	},
+	[8551] = {
+		Title = "이상진화를 일으킨 딜리터-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8552] = {
+		Title = "이상진화를 일으킨 딜리터의 재조사",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 공중 딜리터 15마리, 굳은 지상 딜리터 15마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 공중 딜리터, 굳은 지상 딜리터 처치"
+	},
+	[8553] = {
+		Title = "실체가 된 악몽 퇴치",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 나이트메어 테러 10마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 나이트메어 테러 처치"
+	},
+	[8554] = {
+		Title = "실체가 된 악몽 퇴치-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8555] = {
+		Title = "실체가 된 무서운 악몽 퇴치",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 나이트메어 테러 10마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 나이트메어 테러 처치"
+	},
+	[8556] = {
+		Title = "밀도 확인",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 라바골렘을 10마리 처치하고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 라바골렘 처치"
+	},
+	[8557] = {
+		Title = "밀도 확인-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8558] = {
+		Title = "다시 한 번 밀도 확인",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 라바골렘을 10마리 처치하고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 라바골렘 처치"
+	},
+	[8559] = {
+		Title = "바스라지는 작은 것들",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 익스플로젼 10마리, 굳은 블레이저 10마리를 처치하고 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 익스플로젼, 굳은 블레이저 처치"
+	},
+	[8560] = {
+		Title = "바스라지는 작은 것들-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8561] = {
+		Title = "바스라지는 무척 작은 것들",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 익스플로젼 10마리, 굳은 블레이저 10마리를 처치하고 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 익스플로젼, 굳은 블레이저 처치"
+	},
 	[9000] = {
 		Title = "Job Change to Knight",
 		Description = {
@@ -22272,7 +22797,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[9302] = {
-		Title = "8th match of the Competition has started ",
+		Title = "8th match of the Competition has started",
 		Description = {
 			"Defeat your opponent in battle."
 		},
@@ -24262,7 +24787,7 @@ QuestInfoList = {
 	[11019] = {
 		Title = "Exploring Juperos",
 		Description = {
-			"Ah, usually, descriptions of the ''vain and extravagant one'' refer to the mad scientist rumored to have lived in that ancient era. But if this is true, I may have to rework my thesis..."
+			"Ah, usually, descriptions of the \"vain and extravagant one\" refer to the mad scientist rumored to have lived in that ancient era. But if this is true, I may have to rework my thesis..."
 		},
 		Summary = "Bring something might be helpful for her research from Juperos."
 	},
@@ -24330,7 +24855,7 @@ QuestInfoList = {
 		Summary = "Go back to Zabaroo."
 	},
 	[11029] = {
-		Title = "Going Going to the Turtle Island..",
+		Title = "Going to the Turtle Island..",
 		Description = {
 			"My, that place is difficult to find and even more difficult to travel to. You're sure you want to go?"
 		},
@@ -25933,126 +26458,126 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[11266] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"수박은 잘 찾아보면 미드가르드 어디에서도 발견되니 어렵지 않게 만나실 수 있을 겁니다."
 		},
 		Summary = "수박을 찾아서 돌아오자."
 	},
 	[11267] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"마쵸니가 거짓말을 하고있다."
 		},
 		Summary = "로페리드와 대화하자."
 	},
 	[11268] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"제가 아무리 말해도 어차피 안들으시니 한마디 해주세요."
 		},
 		Summary = "마쵸니와 대화하자."
 	},
 	[11269] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"올해는 수박을 저에게 직접 가져오지 마시고 제 주치의인 로페리드에게 가져다 주세요."
 		},
 		Summary = "로페리드와 대화하자."
 	},
 	[11270] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"다른 세계에서도 수박을 본 여행자가 있다고 한다."
 		},
 		Summary = "알베르타 여관 근처에서 프라이라는 여행자와 대화하자."
 	},
 	[11271] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			""
 		},
 		Summary = "프라이와 대화하자."
 	},
 	[11272] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"프라이는 보관방법에 대해 잘 모르겠다고 한다."
 		},
 		Summary = "로페리드에게 돌아가자."
 	},
 	[11273] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"정말 그 곳의 수박은 얌전하기 그지 없군요."
 		},
 		Summary = "프라이에게 돌아가 좀 더 자세히 물어보자."
 	},
 	[11274] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"한여름이면 루티에에 콕 박혀서 살얼음 띄운 수박주스를 먹는 게 낙이었는데."
 		},
 		Summary = "루티에로 가서 수박 주스 아줌마를 만나보자."
 	},
 	[11275] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			""
 		},
 		Summary = "수박 주스 아줌마와 대화하자."
 	},
 	[11276] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"대회로 인해 피해를 입은 사람이 있다는 걸 먼저 알리는 게 좋을 것 같다."
 		},
 		Summary = "로페리드에게 돌아가자."
 	},
 	[11277] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"전혀 생각지도 못했다고 말할 수는 없지만 그 정도로 큰 피해를 입게 되었다니. 이 일에 대해서는 주인님과 이야기를 해보는 편이 좋을 것 같습니다."
 		},
 		Summary = "마쵸니와 대화하자."
 	},
 	[11278] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"저에게 잠깐 생각할 시간을 주세요."
 		},
 		Summary = "마쵸니와 대화하자."
 	},
 	[11279] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"저 혼자 결정할 문제는 아닌 것 같으니 그분에게 의견을 물어봐 주지 않겠어요?"
 		},
 		Summary = "루티에로 가서 수박 주스 아줌마를 만나보자."
 	},
 	[11280] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"게팬에 있는 꽁꽁이라는 마법사에게 수박을 가져가면 마법을 걸어 준다고 한다."
 		},
 		Summary = "게팬에서 마법사 꽁꽁을 만나자."
 	},
 	[11281] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"영업비밀이 누출되면 곤란하니 수박을 보관하는 방법자체를 가르쳐 드릴 수는 없고, 수박을 가져오시면 마법을 걸어서 드리겠습니다."
 		},
 		Summary = "미드가르드 대륙의 여름 명물인 수박을 30개 구해오자."
 	},
 	[11282] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"마법이라는 건 시전자의 레벨이 높으면 높을수록 쉽고 단순해 보이기 마련이니까요."
 		},
 		Summary = "마법이 걸린 수박을 받았다. 로페리드에게 돌아가자."
 	},
 	[11283] = {
-		Title = "맛있는 수박 경연 대회 ",
+		Title = "맛있는 수박 경연 대회",
 		Description = {
 			"겉보기에는 그냥 수박과 별 차이가 없어 보입니다만 이 것으로 드디어 화장실에서 벗어날 수 있겠군요. 어서 이 기쁜 소식을 주인님께!!!"
 		},
@@ -27943,7 +28468,9 @@ QuestInfoList = {
 	},
 	[11566] = {
 		Title = "도망쳐!!!! - 대기",
-		Description = { "일일 퀘스트를 완료했다. 퀘스트를 다시 받을 수 있는 시간까지 기다려야 한다." },
+		Description = {
+			"일일 퀘스트를 완료했다. 퀘스트를 다시 받을 수 있는 시간까지 기다려야 한다."
+		},
 		Summary = ""
 	},
 	[11567] = {
@@ -27962,7 +28489,9 @@ QuestInfoList = {
 	},
 	[11569] = {
 		Title = "존재해선 안될 존재 - 대기",
-		Description = { "일일 퀘스트를 완료했다. 퀘스트를 다시 받을 수 있는 시간까지 기다려야 한다." },
+		Description = {
+			"일일 퀘스트를 완료했다. 퀘스트를 다시 받을 수 있는 시간까지 기다려야 한다."
+		},
 		Summary = ""
 	},
 	[11570] = {
@@ -27974,7 +28503,9 @@ QuestInfoList = {
 	},
 	[11571] = {
 		Title = "빛이 어둠을 집어삼킬지어다. - 대기",
-		Description = { "일일 퀘스트를 완료했다. 퀘스트를 다시 받을 수 있는 시간까지 기다려야 한다." },
+		Description = {
+			"일일 퀘스트를 완료했다. 퀘스트를 다시 받을 수 있는 시간까지 기다려야 한다."
+		},
 		Summary = ""
 	},
 	[11572] = {
@@ -27983,6 +28514,161 @@ QuestInfoList = {
 			"일루전 생존의 스태프를 제작 중이다. 1단계를 완료했으니 나머지 재료를 가지고 환상석을 원하는 곰에게 가자."
 		},
 		Summary = "제작 1단계"
+	},
+	[11573] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"날손에게서 유성림으로 가는 방법에 대해 들었다.",
+			"묘르닐 산맥 북부의 좁은 산길을 찾아 유성림으로 이동하자."
+		},
+		Summary = "유성림으로"
+	},
+	[11574] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"찻집에서 입문서를 작성할 수 있다.",
+			"찻집으로 이동하자."
+		},
+		Summary = "찻집으로"
+	},
+	[11575] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"초승을 따라 랜시스도 밖으로 나가버렸다.",
+			"밖으로 나가 초승과 대화해 보자."
+		},
+		Summary = "찻집 밖으로"
+	},
+	[11576] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"초승은 랜시스에게 유성림 안내를 부탁하고 급히 떠났다.",
+			"랜시스에게 말을 걸어 유성림에 대해 듣자."
+		},
+		Summary = "랜시스와 대화"
+	},
+	[11577] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"랜시스의 안내에 따라 유성림을 구경해보자."
+		},
+		Summary = "랜시스와 대화"
+	},
+	[11578] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"유성림을 안내하던 랜시스는 무엇인가 발견한 듯하다.",
+			"랜시스를 따라가보자."
+		},
+		Summary = "은하와 대화"
+	},
+	[11579] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"은하는 수련을 도와주겠다며 미네랄 10마리를 잡아오라고 한다.",
+			"아인베흐 광산 2층의 미네랄을 10마리 처치하고 돌아오자."
+		},
+		Summary = "미네랄 10마리 처치"
+	},
+	[11580] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"미네랄을 잡아온 것을 본 은하는 자신보다 일광이 더 좋을 것 같다며 일광에게 가보라고 한다."
+		},
+		Summary = "일광과 대화"
+	},
+	[11581] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"일광은 수련방법에 대해 잘 모르겠다며 초승이 구미호를 잡아오면 좋아한다는 말을 한다.",
+			"페이욘 던전 3층 이상의 깊은 곳에서 구미호를 50마리 이상 처치하고 초승에게 가보자."
+		},
+		Summary = "구미호 50마리 처치"
+	},
+	[11582] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"초승은 은하의 행동에 화를 내며 은하에게 일광의 방으로 오라고 전해달라고 말한다."
+		},
+		Summary = "은하와 대화"
+	},
+	[11583] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"은하는 투덜대며 함께 일광의 방으로 가자고 한다."
+		},
+		Summary = "일광의 방으로"
+	},
+	[11584] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"일광은 산아래에 초시 스승님이 있다고 말한다.",
+			"산아래로 내려가 초시 스승님을 만나보자."
+		},
+		Summary = "초시와 대화"
+	},
+	[11585] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"초시는 스승의 자리를 일광, 초승, 은하에게 물려주고 싶다고 말하며 유성림으로 돌아가 함께 성장하고 싶은 사람을 고르라고 말한다."
+		},
+		Summary = "일광 또는 초승 또는 은하와 대화."
+	},
+	[11596] = {
+		Title = "오래된 추억",
+		Description = {
+			"아인브로크 근처에서 폐광으로 위장한 적들의 본거지를 찾은 것 같다. 주변에 다른 적이 없는지 살펴보자."
+		},
+		Summary = "주변 탐색"
+	},
+	[11597] = {
+		Title = "오래된 추억",
+		Description = {
+			"특별한 것은 보이지 않는다. 다른 곳을 살펴보자."
+		},
+		Summary = "주변 탐색"
+	},
+	[11598] = {
+		Title = "오래된 추억",
+		Description = {
+			"특별한 것은 보이지 않는다. 다른 곳을 살펴보자."
+		},
+		Summary = "주변 탐색"
+	},
+	[11599] = {
+		Title = "오래된 추억",
+		Description = {
+			"특별한 것은 보이지 않는다. 리벨리온 대원에게 돌아가자."
+		},
+		Summary = "리벨리온 대원과 대화"
+	},
+	[11600] = {
+		Title = "오래된 추억",
+		Description = {
+			"길이 막혀 있다는 폐광 안쪽을 살펴보자."
+		},
+		Summary = "안으로"
+	},
+	[11601] = {
+		Title = "오래된 추억",
+		Description = {
+			"다음 지역으로 이동할 수 있는 길이 열렸다. 클라나네미에리로 돌아가 소식을 전하고 디엔의 방에서 디엔이 찾는 물건을 가지고 돌아오자."
+		},
+		Summary = "클라나네미에리로"
+	},
+	[11602] = {
+		Title = "오래된 추억",
+		Description = {
+			"디엔의 방에서 디엔이 찾는 물건을 가지고 돌아오자."
+		},
+		Summary = "디엔의 부적"
+	},
+	[11603] = {
+		Title = "오래된 추억",
+		Description = {
+			"디엔의 부적을 찾았다. 다시 디엔에게 돌아가자."
+		},
+		Summary = "다시 디엔에게"
 	},
 	[12000] = {
 		Title = "An old friend",
@@ -28008,7 +28694,7 @@ QuestInfoList = {
 	[12003] = {
 		Title = "Digotz's message",
 		Description = {
-			"Deliver Digotz's message to Maku ''-Hopeless Bastard! -You're still a stubborn jerk! -You owe me at least 3 lunches! -Not to mention an apology! -But who cares what you think?! -I'm so goddamn happy without you!''"
+			"Deliver Digotz's message to Maku \"-Hopeless Bastard! -You're still a stubborn jerk! -You owe me at least 3 lunches! -Not to mention an apology! -But who cares what you think?! -I'm so goddamn happy without you!\""
 		},
 		Summary = "Maku"
 	},
@@ -29000,42 +29686,42 @@ QuestInfoList = {
 		Summary = "Collect 2 Melons - Report to Transport Dept. 2 Manager within 23 hours."
 	},
 	[12159] = {
-		Title = "Quest record from Laponte ",
+		Title = "Quest record from Laponte",
 		Description = {
 			"You recently got a request from Laponte. Wait for 23 hours before accepting another request from him. He is waiting near the center of El Dicastes."
 		},
 		Summary = "Wait for the timer to expire to accept another request."
 	},
 	[12160] = {
-		Title = "Quest record from Kalipo ",
+		Title = "Quest record from Kalipo",
 		Description = {
 			"You recently got a request from Kalipo. Wait for 23 hours before accepting another request from him. He is waiting near the center of El Dicastes."
 		},
 		Summary = "Wait for the timer to expire to accept another request."
 	},
 	[12161] = {
-		Title = "Quest record from Pura ",
+		Title = "Quest record from Pura",
 		Description = {
 			"You recently got a request from Pura. Wait for 23 hours before accepting another request from him. He is waiting near the center of El Dicastes."
 		},
 		Summary = "Wait for the timer to expire to accept another request."
 	},
 	[12162] = {
-		Title = "Quest record from Tragis ",
+		Title = "Quest record from Tragis",
 		Description = {
 			"You recently got a request from Tragis. Wait for 23 hours before accepting another request from him. He is waiting near the center of El Dicastes."
 		},
 		Summary = "Wait for the timer to expire to accept another request."
 	},
 	[12163] = {
-		Title = "Quest record from Calyon ",
+		Title = "Quest record from Calyon",
 		Description = {
 			"You recently got a request from Calyon. Wait for 23 hours before accepting another request from him. He is waiting near the center of El Dicastes."
 		},
 		Summary = "Wait for the timer to expire to accept another request."
 	},
 	[12164] = {
-		Title = "Quest record from Moltuka ",
+		Title = "Quest record from Moltuka",
 		Description = {
 			"You recently got a request from Moltuka. Wait for 23 hours before accepting another request from him. He is waiting near the center of El Dicastes."
 		},
@@ -30008,7 +30694,7 @@ QuestInfoList = {
 		Summary = "Obtain 100 zeny"
 	},
 	[12304] = {
-		Title = "Introduction to merchantology ",
+		Title = "Introduction to merchantology",
 		Description = {
 			"Merchants have various skills to make money legally. Listen to the explanations from the steward next to Salim Hamid."
 		},
@@ -30549,44 +31235,44 @@ QuestInfoList = {
 	[12383] = {
 		Title = "Sweet Potato Delivery",
 		Description = {
-			"Get 160 Sweet Potatoes516 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
+			"Get 160 Sweet Potatoes from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
 		},
-		Summary = "160 Sweet Potatoes516"
+		Summary = "160 Sweet Potatoes"
 	},
 	[12384] = {
 		Title = "Meat Delivery",
 		Description = {
-			"Get 50 Meats517 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
+			"Get 50 Meats from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
 		},
-		Summary = "50 Meats517"
+		Summary = "50 Meats"
 	},
 	[12385] = {
 		Title = "Carrot Delivery",
 		Description = {
-			"Get 160 Carrots515 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
+			"Get 160 Carrots from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
 		},
-		Summary = "160 Carrots515"
+		Summary = "160 Carrots"
 	},
 	[12386] = {
 		Title = "Banana Delivery",
 		Description = {
-			"Get 160 Bananas513 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
+			"Get 160 Bananas from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
 		},
-		Summary = "160 Bananas513"
+		Summary = "160 Bananas"
 	},
 	[12387] = {
 		Title = "Pumpkin Delivery",
 		Description = {
-			"Get 160 Pumpkins535 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
+			"Get 160 Pumpkins from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
 		},
-		Summary = "160 Pumpkins535"
+		Summary = "160 Pumpkins"
 	},
 	[12388] = {
 		Title = "Mushroom Delivery",
 		Description = {
-			"Get 60 Mushrooms581 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
+			"Get 60 Mushrooms from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
 		},
-		Summary = "60 Mushrooms581"
+		Summary = "60 Mushrooms"
 	},
 	[12389] = {
 		Title = "Guardian of Rock Ridge",
@@ -30825,6 +31511,153 @@ QuestInfoList = {
 			"차원 너머의 세계에서 고군분투중인 바르문트를 도와 수호석의 복구를 담당하게 되었다."
 		},
 		Summary = "수호석복구"
+	},
+	[12442] = {
+		Title = "소울리퍼의 길 1",
+		Description = {
+			"여관 일꾼들에게 둘러싸인 반약의 사정을 들어보자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12443] = {
+		Title = "소울리퍼의 길 2",
+		Description = {
+			"반약과 인연이 된다면 다시 만나보자. 그는 아마 페이욘 어딘가의 <NAVI>[주막]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>으로 끌려간 것 같다."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12444] = {
+		Title = "소울리퍼의 길 3",
+		Description = {
+			"반약의 봇짐 도둑에 대한 행보를 확인할 수 있다면 해보자. 주막 근처에 조력자가 있을지도 모른다."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12445] = {
+		Title = "소울리퍼의 길 4",
+		Description = {
+			"봇짐 도둑의 정체에 대해 <NAVI>[반약]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>과 이야기를 나눠보자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12446] = {
+		Title = "소울리퍼의 길 5",
+		Description = {
+			"봇짐도둑의 정체를 밝히기위해 꼬맹이, 반약과 함께 주막이와 설전을 벌이자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12447] = {
+		Title = "소울리퍼의 길 6",
+		Description = {
+			"페이욘 북쪽에서 <NAVI>[반약]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>과 재회"
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12448] = {
+		Title = "소울리퍼의 길 7",
+		Description = {
+			"<NAVI>[야엉이]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>에게 대법에 필요한 <ITEM>[여우의꼬리]<INFO>1022</INFO></ITEM> 44개를 모아 주자. "
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12449] = {
+		Title = "소울리퍼의 길 8",
+		Description = {
+			"<NAVI>[반약]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>을 만나 초혼대법에 얽힌 사연을 확인하자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12450] = {
+		Title = "소울리퍼의 길 9",
+		Description = {
+			"초혼대법으로 반약의 정신세계로 들어가 그녀(?)의 동생을 구해내자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12451] = {
+		Title = "소울리퍼의 길 최종장",
+		Description = {
+			"<NAVI>[반약]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>과의 대화로 소울리퍼의 길에 대한 결정을 하자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12452] = {
+		Title = "오스 점령작전",
+		Description = {
+			"철도 수송로가 확보되었다. 남은 잔존 세력의 섬멸로 오스 전체를 완벽하게 장악하도록 하자."
+		},
+		Summary = "오스 점령작전"
+	},
+	[12453] = {
+		Title = "작전대기",
+		Description = {
+			"오스로 통하는 관문은 일시 봉쇄중이다. 봉쇄가 풀릴때까지 대기하자."
+		},
+		Summary = "작전대기"
+	},
+	[12454] = {
+		Title = "추가 수색임무",
+		Description = {
+			"오스 동북부를 추가로 수색하고 이상징후, 위험요소가 발생시 섬멸하도록 하자."
+		},
+		Summary = "추가 수색임무"
+	},
+	[12455] = {
+		Title = "작전대기",
+		Description = {
+			"오스로 통하는 관문은 일시 봉쇄중이다. 봉쇄가 풀릴때까지 대기하자."
+		},
+		Summary = "작전대기"
+	},
+	[12456] = {
+		Title = "세계를 구한 후유증을 없앤 후유증",
+		Description = {
+			"세계를 구하고 발생한 후유증을 초월적인 힘으로 없앤 후유증이 남아있습니다."
+		},
+		Summary = "세계를 구한 후유증을 없앤 후유증"
+	},
+	[12457] = {
+		Title = "몰락의 순간",
+		Description = {
+			"시공룡 오스카를 따라 과거의 시간으로 돌아가 최강의 요새였던 글래스트 헤임이 어떻게 몰락하게 되었는지 지켜보아야 합니다."
+		},
+		Summary = "몰락의 순간"
+	},
+	[12458] = {
+		Title = "오브의 후일담",
+		Description = {
+			"국왕 슈미츠의 희생에도 불구하고 그의 활약상은 변질되어 전해지고 말았습니다."
+		},
+		Summary = "드래곤의 취향"
+	},
+	[12459] = {
+		Title = "왕의 사념에 안식을",
+		Description = {
+			"수많은 생명을 구하기 위해 슈미츠는 스스로의 목숨을 오브에 던졌습니다. 하지만 그 과정에서 오브의 힘이 그의 사념을 구체화하여 후세의 사람들에게 오욕의 기록을 남기려 합니다. 그의 사념에 안식을 내리는것이 당신의 임무입니다."
+		},
+		Summary = "슈미츠의 사념 처치"
+	},
+	[12460] = {
+		Title = "몰락의 후유증",
+		Description = {
+			"어떤 식으로든 몰락의 현장을 지켜보는 것은 힘든 일입니다. 후유증이 남은 동안에는 ^ff0000글래스트 헤임 정화^000000의 입장과 생성이 불가능합니다."
+		},
+		Summary = "새벽4시 초기화"
+	},
+	[12461] = {
+		Title = "강력한 죽음의 후유증",
+		Description = {
+			"이 후유증은 몰락의 후유증을 동반합니다. 남은 동안 ^ff0000글래스트 헤임 정화(상급)^000000에 관련된 메뉴가 나타나지 않으며 이용도 불가능합니다."
+		},
+		Summary = "3일후 새벽4시 초기화"
+	},
+	[12462] = {
+		Title = "왕의 사념에 안식을(상급)",
+		Description = {
+			"수많은 생명을 구하기 위해 슈미츠는 스스로의 목숨을 오브에 던졌습니다. 하지만 그 과정에서 오브의 힘이 그의 사념을 구체화하여 후세의 사람들에게 오욕의 기록을 남기려 합니다. 그의 사념에 안식을 내리는것이 당신의 임무입니다."
+		},
+		Summary = "슈미츠의 사념(상급) 처치"
 	},
 	[13000] = {
 		Title = "RWC 2011Card Gathering",
@@ -35050,21 +35883,14 @@ QuestInfoList = {
 	[14518] = {
 		Title = "풍선껌 재사용 가능 시간",
 		Description = {
-			"매일 초기화 시간 전까지 풍선껌 효과 서비스를 2회 받으실 수 있습니다."
-		},
-		Summary = "04시 초기화"
-	},
-	[14518] = {
-		Title = "풍선껌 재사용 가능 시간",
-		Description = {
 			"24시간 동안 풍선껌 효과 서비스를 2회 받으실 수 있습니다."
 		},
 		Summary = ""
 	},
-	[14519] = {
-		Title = "교범 재사용 가능 시간",
+	[14518] = {
+		Title = "풍선껌 재사용 가능 시간",
 		Description = {
-			"매일 초기화 시간 전까지 JOB 전투교범 효과 서비스를 2회 받으실 수 있습니다."
+			"매일 초기화 시간 전까지 풍선껌 효과 서비스를 2회 받으실 수 있습니다."
 		},
 		Summary = "04시 초기화"
 	},
@@ -35074,6 +35900,13 @@ QuestInfoList = {
 			"24시간 동안 JOB 전투교범 효과 서비스를 2회 받으실 수 있습니다."
 		},
 		Summary = ""
+	},
+	[14519] = {
+		Title = "교범 재사용 가능 시간",
+		Description = {
+			"매일 초기화 시간 전까지 JOB 전투교범 효과 서비스를 2회 받으실 수 있습니다."
+		},
+		Summary = "04시 초기화"
 	},
 	[14520] = {
 		Title = "한두살 어린애도 아니고",
@@ -36268,35 +37101,35 @@ QuestInfoList = {
 	[14690] = {
 		Title = "크리투라 아카데미로",
 		Description = {
-			"우리 <NAVI>[레나]<INFO>iz_ac01,85,44,000,0,</INFO></NAVI>를 만나러 가자. 이즈루드에 있는 크리투라 아카데미에서 교관으로 있대."
+			"우리 <NAVI>[레나]<INFO>iz_ac01,85,44,0,101,0,</INFO></NAVI>를 만나러 가자. 이즈루드에 있는 크리투라 아카데미에서 교관으로 있대."
 		},
 		Summary = "아카데미 교관 레나"
 	},
 	[14691] = {
 		Title = "프론테라 대성당으로",
 		Description = {
-			"선샘미!!! <NAVI>[마가리타]<INFO>prt_church,112,119,000,0,</INFO></NAVI>가 나를 만나고 싶대! 프론테라 대성당에서 성가대 지휘자로 일하고 있으니까 시간이 나면 꼭 들러 달라고 하더라."
+			"선샘미!!! <NAVI>[마가리타]<INFO>prt_church,112,119,0,101,0,</INFO></NAVI>가 나를 만나고 싶대! 프론테라 대성당에서 성가대 지휘자로 일하고 있으니까 시간이 나면 꼭 들러 달라고 하더라."
 		},
 		Summary = "성가대 지휘자"
 	},
 	[14692] = {
 		Title = "크리투라 아카데미로",
 		Description = {
-			"선샘미, 솔티의 친구이자 내 친구인 수자가 직업에 대해서 안내해 주고 싶다는데 가보자! <NAVI>[수자]<INFO>iz_ac02,205,41,000,0,</INFO></NAVI>는 크리투라 아카데미 2층에서 전직 안내원으로 일하고 있대."
+			"선샘미, 솔티의 친구이자 내 친구인 수자가 직업에 대해서 안내해 주고 싶다는데 가보자! <NAVI>[수자]<INFO>iz_ac02,205,41,0,101,0,</INFO></NAVI>는 크리투라 아카데미 2층에서 전직 안내원으로 일하고 있대."
 		},
 		Summary = "전직 안내원 수자"
 	},
 	[14693] = {
 		Title = "페이욘으로",
 		Description = {
-			"선샘미, 나는 솔티가 너무 보고 싶다. 솔티는 <NAVI>[페이욘의 주막]<INFO>payon_in01,193,23,000,0,</INFO></NAVI>에 있다고 하니까 우리 얼른 솔티 찾으러 가자. 솔티 보고 싶다."
+			"선샘미, 나는 솔티가 너무 보고 싶다. 솔티는 <NAVI>[페이욘의 주막]<INFO>payon_in01,193,23,0,101,0,</INFO></NAVI>에 있다고 하니까 우리 얼른 솔티 찾으러 가자. 솔티 보고 싶다."
 		},
 		Summary = "솔티는 주막에 있다"
 	},
 	[14694] = {
 		Title = "프론테라 필드로",
 		Description = {
-			"솔티는 내가 코코한테서 도토리를 구해 오라고 <NAVI>[프론테라 남남서서 필드]<INFO>prt_fild10,318,191,000,0,</INFO></NAVI>로 보냈지. 그쪽으로 가보그라."
+			"솔티는 내가 코코한테서 도토리를 구해 오라고 <NAVI>[프론테라 남남서서 필드]<INFO>prt_fild10,318,191,0,101,0,</INFO></NAVI>로 보냈지. 그쪽으로 가보그라."
 		},
 		Summary = "솔티는 프론테라에"
 	},
@@ -36310,161 +37143,161 @@ QuestInfoList = {
 	[14696] = {
 		Title = "냐일굴의 수문장",
 		Description = {
-			"축제의 시작은 돼지 감자 수확이죠! 냐일굴의 수문장이신 <NAVI>[축제 위원장님]<INFO>lasagna,81,201,000,0,</INFO></NAVI>을 찾아가세요!"
+			"축제의 시작은 돼지 감자 수확이죠! 냐일굴의 수문장이신 <NAVI>[축제 위원장님]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>을 찾아가세요!"
 		},
 		Summary = "축제 위원장에게"
 	},
 	[14697] = {
 		Title = "돼지감자 수확",
 		Description = {
-			"<NAVI>[축제 위원장]<INFO>lasagna,81,201,000,0,</INFO></NAVI>인 저에게 냐일굴의 냐일로에게서 돼지 감자 1개를 수확한 뒤 가지고 오십시오."
+			"<NAVI>[축제 위원장]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>인 저에게 냐일굴의 냐일로에게서 돼지 감자 1개를 수확한 뒤 가지고 오십시오."
 		},
 		Summary = "돼지 감자 1개"
 	},
 	[14698] = {
 		Title = "토마토 국수",
 		Description = {
-			"이 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,000,0,</INFO></NAVI>에게 작은 소용돌이를 타고 다니는 가늘고 긴 국수 10개와 돼지 감자 3개를 가지고 오십시오. 즉석에서 삶아 드립니다!"
+			"이 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>에게 작은 소용돌이를 타고 다니는 가늘고 긴 국수 10개와 돼지 감자 3개를 가지고 오십시오. 즉석에서 삶아 드립니다!"
 		},
 		Summary = "가늘고 긴 국수, 돼지 감자"
 	},
 	[14699] = {
 		Title = "이벤트는 1일 1회",
 		Description = {
-			"오늘의 이벤트는 준비중이에요. 새벽 시간이 지나고 저 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,000,0,</INFO></NAVI>를 다시 찾아 오시면 됩니다."
+			"오늘의 이벤트는 준비중이에요. 새벽 시간이 지나고 저 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>를 다시 찾아 오시면 됩니다."
 		},
 		Summary = "초기화 시간 04시"
 	},
 	[14700] = {
 		Title = "하이라이트",
 		Description = {
-			"냐일굴의 냐일로를 잡고 냐일로에게서 돼지 감자를 가지고 저, <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,000,0,</INFO></NAVI>에게 오세요."
+			"냐일굴의 냐일로를 잡고 냐일로에게서 돼지 감자를 가지고 저, <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>에게 오세요."
 		},
 		Summary = "돼지 감자 1개"
 	},
 	[14701] = {
 		Title = "이벤트는 1일 1회",
 		Description = {
-			"오늘의 이벤트는 이미 참여하셨어요. 새벽 시간이 지나고 <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,000,0,</INFO></NAVI>를 찾아 오세요."
+			"오늘의 이벤트는 이미 참여하셨어요. 새벽 시간이 지나고 <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>를 찾아 오세요."
 		},
 		Summary = "초기화 시간 04시"
 	},
 	[14702] = {
 		Title = "수박향 부채",
 		Description = {
-			"수박밭에 묻어 놓은 잘 익은 수박을 깨고 홍보용 부채를 찾으세요! 10개를 모아서 저 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,000,0,</INFO></NAVI>에게 가지고 오시면 됩니다."
+			"수박밭에 묻어 놓은 잘 익은 수박을 깨고 홍보용 부채를 찾으세요! 10개를 모아서 저 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>에게 가지고 오시면 됩니다."
 		},
 		Summary = "홍보용 부채 10개"
 	},
 	[14703] = {
 		Title = "이벤트는 1일 1회",
 		Description = {
-			"오늘의 이벤트는 끝이 났답니다. 새벽 시간이 지나고 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,000,0,</INFO></NAVI>를 찾아 오시면 다시 참여하실 수 있어요."
+			"오늘의 이벤트는 끝이 났답니다. 새벽 시간이 지나고 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>를 찾아 오시면 다시 참여하실 수 있어요."
 		},
 		Summary = "초기화 시간 04시"
 	},
 	[14704] = {
 		Title = "코로나의 반성...?",
 		Description = {
-			"구덩이 속에 사는 바다 지렁이가 가져간 납작하고 둥근 돌을 가져다 주세요. 제 이름은 <NAVI>[코로나]<INFO>lasagna,237,89,000,0,</INFO></NAVI>예요!"
+			"구덩이 속에 사는 바다 지렁이가 가져간 납작하고 둥근 돌을 가져다 주세요. 제 이름은 <NAVI>[코로나]<INFO>lasagna,237,89,0,101,0,</INFO></NAVI>예요!"
 		},
 		Summary = "납작하고 둥근 돌 10개"
 	},
 	[14705] = {
 		Title = "돌을 감정하는 중",
 		Description = {
-			"아직 돌을 감정 중이에요. 새벽 시간이 지나고 다시 찾아 오시겠어요? 제 이름 알죠? <NAVI>[코로나]<INFO>lasagna,237,89,000,0,</INFO></NAVI>예요!"
+			"아직 돌을 감정 중이에요. 새벽 시간이 지나고 다시 찾아 오시겠어요? 제 이름 알죠? <NAVI>[코로나]<INFO>lasagna,237,89,0,101,0,</INFO></NAVI>예요!"
 		},
 		Summary = "초기화 시간 04시"
 	},
 	[14706] = {
 		Title = "토마토 국수 장인",
 		Description = {
-			"여기까지 오셨으니 토마토 국수를 맛보셔야지요. <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,000,0,</INFO></NAVI>를 찾아 가시면 최고의 국수를 맛보실 수 있습니다."
+			"여기까지 오셨으니 토마토 국수를 맛보셔야지요. <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>를 찾아 가시면 최고의 국수를 맛보실 수 있습니다."
 		},
 		Summary = "국수 장인 오르초"
 	},
 	[14707] = {
 		Title = "냐일로",
 		Description = {
-			"돼지 감자는 맛보셨습니까? 냐일로에게서 돼지 감자를 수확해 오는 이벤트도 준비되어 있습니다. <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,000,0,</INFO></NAVI>를 찾아 가십시오."
+			"돼지 감자는 맛보셨습니까? 냐일로에게서 돼지 감자를 수확해 오는 이벤트도 준비되어 있습니다. <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>를 찾아 가십시오."
 		},
 		Summary = "진행요원 도미"
 	},
 	[14708] = {
 		Title = "수박 디저트",
 		Description = {
-			"뜨거운 여름 시원하고 달콤한 디저트가 생각나시지요? <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,000,0,</INFO></NAVI>를 찾아가시면 수박 푸딩을 얻을 수 있는 이벤트를 안내해 줄겁니다."
+			"뜨거운 여름 시원하고 달콤한 디저트가 생각나시지요? <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>를 찾아가시면 수박 푸딩을 얻을 수 있는 이벤트를 안내해 줄겁니다."
 		},
 		Summary = "진행요원 라미"
 	},
 	[14709] = {
 		Title = "낚시터 이벤트",
 		Description = {
-			"바다 낚시 어떠신가요? <NAVI>[낚시터]<INFO>lasagna,237,89,000,0,</INFO></NAVI>에서 이벤트를 즐겨보시는 것도 좋겠지요. 다만, 요즘 낚시터가 시끄럽던데..."
+			"바다 낚시 어떠신가요? <NAVI>[낚시터]<INFO>lasagna,237,89,0,101,0,</INFO></NAVI>에서 이벤트를 즐겨보시는 것도 좋겠지요. 다만, 요즘 낚시터가 시끄럽던데..."
 		},
 		Summary = "낚시터로"
 	},
 	[14710] = {
 		Title = "쿠폰 - 토마토 국수 완료",
 		Description = {
-			"오늘의 국수는 어떠셨습니까? 오늘의 이벤트를 모두 완료하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,000,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
+			"오늘의 국수는 어떠셨습니까? 오늘의 이벤트를 모두 완료하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
 		},
 		Summary = "오르초 확인"
 	},
 	[14711] = {
 		Title = "쿠폰 - 돼지 감자 완료",
 		Description = {
-			"오늘의 돼지 감자는 모두 수확하셨어요! 다른 이벤트 3개까지 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,000,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
+			"오늘의 돼지 감자는 모두 수확하셨어요! 다른 이벤트 3개까지 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
 		},
 		Summary = "도미 확인"
 	},
 	[14712] = {
 		Title = "쿠폰 - 디저트 완료",
 		Description = {
-			"수박 깨기 이벤트는 완료하셨어요. 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,000,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
+			"수박 깨기 이벤트는 완료하셨어요. 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
 		},
 		Summary = "라미 확인"
 	},
 	[14713] = {
 		Title = "쿠폰 - 낚시 완료",
 		Description = {
-			"낚시.. 는 마치셨어요. 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,000,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍으세요."
+			"낚시.. 는 마치셨어요. 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍으세요."
 		},
 		Summary = "코로나 확인"
 	},
 	[14714] = {
 		Title = "도라도의 정보",
 		Description = {
-			"도라도의 정보를 가지고 있는 <NAVI>[사람]<INFO>lasagna,106,85,000,0,</INFO></NAVI>이 우리 누나의 행방을 알고 있을 거에요. 어서 가봐요!"
+			"도라도의 정보를 가지고 있는 <NAVI>[사람]<INFO>lasagna,106,85,0,101,0,</INFO></NAVI>이 우리 누나의 행방을 알고 있을 거에요. 어서 가봐요!"
 		},
 		Summary = "도라도의 정보"
 	},
 	[14715] = {
 		Title = "우리를 괴롭히지 마",
 		Description = {
-			"<NAVI>[라이언]<INFO>lasagna,273,135,000,0,</INFO></NAVI>을 찾아가 봐요. 그리고 더 이상 우리를 괴롭히지 말아요!"
+			"<NAVI>[라이언]<INFO>lasagna,273,135,0,101,0,</INFO></NAVI>을 찾아가 봐요. 그리고 더 이상 우리를 괴롭히지 말아요!"
 		},
 		Summary = "라이언에게"
 	},
 	[14716] = {
 		Title = "전설의 도라도",
 		Description = {
-			"누구든 전설의 도라도로 가고 싶으면 저 <NAVI>[라이언]<INFO>lasagna,273,135,000,0,</INFO></NAVI>을 찾아 오라고 하세요! 얼마든지 길을 알려 드립니다!"
+			"누구든 전설의 도라도로 가고 싶으면 저 <NAVI>[라이언]<INFO>lasagna,273,135,0,101,0,</INFO></NAVI>을 찾아 오라고 하세요! 얼마든지 길을 알려 드립니다!"
 		},
 		Summary = "전설의 도라도를 향해"
 	},
 	[14717] = {
 		Title = "특급선은 1일 1회 운항",
 		Description = {
-			"도라도를 향해 떠나는 <NAVI>[무인 특급선]<INFO>lasagna,271,137,000,0,</INFO></NAVI>은 새벽 시간이 지난 후 다시 운항합니다."
+			"도라도를 향해 떠나는 <NAVI>[무인 특급선]<INFO>lasagna,271,137,0,101,0,</INFO></NAVI>은 새벽 시간이 지난 후 다시 운항합니다."
 		},
 		Summary = "초기화 시간 04시"
 	},
 	[14718] = {
 		Title = "전설의 도라도",
 		Description = {
-			"이번엔 저주를 꼭 풀 수 있길 빌어요... <NAVI>[저에게]<INFO>lasagna,273,135,000,0,</INFO></NAVI> 오는 길을 잊으시면 안돼요. 정말 감사합니다."
+			"이번엔 저주를 꼭 풀 수 있길 빌어요... <NAVI>[저에게]<INFO>lasagna,273,135,0,101,0,</INFO></NAVI> 오는 길을 잊으시면 안돼요. 정말 감사합니다."
 		},
 		Summary = "전설의 도라도를 향해"
 	},
@@ -36719,6 +37552,302 @@ QuestInfoList = {
 			"Alphabet card exchange is once a day. Okay? So please comeback after dawn! - Twinkle"
 		},
 		Summary = "Waiting time"
+	},
+	[14958] = {
+		Title = "냐일굴의 수문장",
+		Description = {
+			"<NAVI>[축제 위원장님]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>을 찾아가셔서 냐일굴로 어서 떠나 보세요!"
+		},
+		Summary = "축제 위원장에게"
+	},
+	[14959] = {
+		Title = "축제의 시작",
+		Description = {
+			"맛있는 국수를 만들기 위한 재료인 가늘고 긴 국수, 나비 국수와 돼지 감자를 1개씩 가지고 오십시오. - <NAVI>[축제 위원장님]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "돼지 감자, 국수 재료"
+	},
+	[14960] = {
+		Title = "국수 말이",
+		Description = {
+			"국수 축제에 오셨으면 국수를 맛보셔야지요. <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>를 찾아 가시면 최고의 국수를 맛보실 수 있습니다."
+		},
+		Summary = "국수 장인 오르초"
+	},
+	[14961] = {
+		Title = "수박 디저트",
+		Description = {
+			"뜨거운 여름 시원하고 달콤한 디저트가 생각나시지요? <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>를 찾아가시면 수박 푸딩을 얻을 수 있는 이벤트를 안내해 줄겁니다."
+		},
+		Summary = "진행요원 라미"
+	},
+	[14962] = {
+		Title = "불량 국수 사냥",
+		Description = {
+			"불량 국수에 대해 들어 보신적 있으십니까? <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>를 찾아가서 불량 국수 사냥에 대해 안내 받으십시오."
+		},
+		Summary = "진행요원 도미"
+	},
+	[14963] = {
+		Title = "시원한 아이스크림",
+		Description = {
+			"여름에는 역시 달콤하고 시원한 아이스크림이 생각나지요. 올해는 특별히 외부에서 <NAVI>[상인 보라매]<INFO>lasagna,150,97,0,101,0,</INFO></NAVI>님을 초청하여 이곳에서도 아이스크림을 맛보실 수 있습니다."
+		},
+		Summary = "상인 보라매"
+	},
+	[14964] = {
+		Title = "국수의 재료들",
+		Description = {
+			"이 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>에게 작은 소용돌이를 타고 다니는 가늘고 긴 국수 5개와 멋쟁이 별에 붙어서 자라는 나비 국수 5개, 돼지 감자 3개를 가지고 오십시오."
+		},
+		Summary = "돼지 감자, 국수 재료"
+	},
+	[14965] = {
+		Title = "대기: 오늘의 국수",
+		Description = {
+			"오늘의 이벤트는 준비중이에요. 새벽 시간이 지나고 저 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>를 다시 찾아 오시면 됩니다."
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14966] = {
+		Title = "수박향 부채",
+		Description = {
+			"수박밭에 묻어 놓은 잘 익은 수박을 깨고 홍보용 부채를 찾으세요! 10개를 모아서 저 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>에게 가지고 오시면 됩니다."
+		},
+		Summary = "홍보용 부채 10개"
+	},
+	[14967] = {
+		Title = "대기: 수박향 부채",
+		Description = {
+			"오늘의 이벤트는 끝이 났답니다. 새벽 시간이 지나고 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>를 찾아 오시면 다시 참여하실 수 있어요."
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14968] = {
+		Title = "불량 국수 사냥",
+		Description = {
+			"불량 국수를 10마리 잡고 질긴 국수 가죽 10개를 가지고 <NAVI>[저에게]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>오세요."
+		},
+		Summary = "질긴 국수 가죽 10개"
+	},
+	[14969] = {
+		Title = "대기: 불량 국수 사냥",
+		Description = {
+			"힘이 센 불량 국수를 잡으시느라 힘을 많이 쓰셨을 텐데 오늘은 이만 쉬시고 새벽 시간이 지난 후 다시 축제를 즐겨 주십시오! - <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14970] = {
+		Title = "시원 달콤 아이스크림",
+		Description = {
+			"작은 소용돌이랑 멋쟁이 별을 5마리씩 잡고 국수 수액 5개만 가져다 줘요. - <NAVI>[상인 보라매]<INFO>lasagna,150,97,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "국수 수액 5개"
+	},
+	[14971] = {
+		Title = "대기: 시원 달콤 아이스크림",
+		Description = {
+			"이벤트에 참가한지 얼마 안됐잖아요? 1일 1회가 원칙이라 지금 와도 할 수 없으니까 좀 쉬다가 다시 와요. 알았죠? - <NAVI>[상인 보라매]<INFO>lasagna,150,97,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14972] = {
+		Title = "쿠폰: 국수 이벤트 완료",
+		Description = {
+			"오늘의 국수는 어떠셨습니까? 오늘의 이벤트를 모두 완료하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!"
+		},
+		Summary = "국수 장인 오르초 확인"
+	},
+	[14973] = {
+		Title = "쿠폰: 수박 디저트 완료",
+		Description = {
+			"수박 깨기 이벤트는 완료하셨어요. 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
+		},
+		Summary = "진행 요원 라미 확인"
+	},
+	[14974] = {
+		Title = "쿠폰: 불량 국수 완료",
+		Description = {
+			"불량 국수를 모두 잡으셨습니다. 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍으세요."
+		},
+		Summary = "진행 요원 도미 확인"
+	},
+	[14975] = {
+		Title = "쿠폰: 아이스크림 완료",
+		Description = {
+			"시원한 아이스크림은 어땠나요? 오늘의 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍으세요."
+		},
+		Summary = "상인 보라매 확인"
+	},
+	[14976] = {
+		Title = "불놓기 행사",
+		Description = {
+			"불놓기에 참여하시려면 불에 잘 타는 몇 가지 물건들이 필요합니다. 질 좋은 나뭇가지 5개와 늙은나무의 뿌리 10개, 불화살 1개를 가지고",
+			"<NAVI>[저에게]<INFO>alberta,138,169,0,101,0</INFO></NAVI> 오십시오."
+		},
+		Summary = "큰 불의 재료"
+	},
+	[14977] = {
+		Title = "마법사 루나",
+		Description = {
+			"이번 불놓기 행사를 위해 게펜 타워에서 파견된 <NAVI>[마법사 루나]<INFO>alberta,134,162,0,101,0</INFO></NAVI>씨를 만나 이야기를 나눠보시겠어요?"
+		},
+		Summary = "루나씨에게"
+	},
+	[14978] = {
+		Title = "배고픈 멧돼지",
+		Description = {
+			"농작물을 망치는 멧돼지를 포획하는데 일손이 많이 필요하다는군요.",
+			"<NAVI>[세레나]<INFO>alberta,152,198,0,101,0</INFO></NAVI>씨를 찾아가 보세요."
+		},
+		Summary = "세레나씨에게"
+	},
+	[14979] = {
+		Title = "추수제 준비",
+		Description = {
+			"축제에 음식은 빠질 수 없죠. 추수제 음식을 준비하시는 <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>님께 가보세요. 맛있는 음식이 많이 있거든요."
+		},
+		Summary = "송화님에게"
+	},
+	[14980] = {
+		Title = "추수제의 의미",
+		Description = {
+			"추수절에는 늘 과일 도시락을 만들어 축제에 참여할 수 없는 사람들에게 나눠주고 있습니다. <NAVI>[과일 도시락]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>을 만드는 곳에 찾아가 보시는 것도 좋겠습니다."
+		},
+		Summary = "도시락 행사장으로"
+	},
+	[14981] = {
+		Title = "부활한 나뭇가지",
+		Description = {
+			"부활한 나뭇가지 10마리를 처치해주시고 질 좋은 나뭇가지도 10개 정도 구해주셨으면 좋겠어요. 제 명예와 목숨이 달린 일이에요! <NAVI>[마법사 루나]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "질 좋은 나뭇가지 10개"
+	},
+	[14982] = {
+		Title = "대기: 부활한 나뭇가지",
+		Description = {
+			"지금은 라나님이 지켜보고 계세요. 새벽 시간이 지난 뒤에 다시 찾아와 주시겠어요? <NAVI>[마법사 루나]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14983] = {
+		Title = "배고픈 멧돼지",
+		Description = {
+			"이미 마을로 내려온 멧돼지들을 안전하게 포획해서 집으로 돌려 보내야 해요. <NAVI>[제]<INFO>alberta,152,198,0,101,0</INFO></NAVI>가 드린 멧돼지 트랩으로 배고픈 멧돼지 10마리를 포획해오세요."
+		},
+		Summary = "포획된 멧돼지 10마리"
+	},
+	[14984] = {
+		Title = "대기: 배고픈 멧돼지",
+		Description = {
+			"지금은 멧돼지 트랩을 손질해야 해요. 새벽 시간이 지난 후에 <NAVI>[저]<INFO>alberta,152,198,0,101,0</INFO></NAVI>에게 다시 찾아 오시곘어요?"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14985] = {
+		Title = "추수제 준비",
+		Description = {
+			"송편의 재료가 똑 떨어졌다는구만. 송편 재료 좀 구해 올라우? 곡식 1개, 꿀 3개, 초록허브 10개면 된다우. <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+		},
+		Summary = "송편의 재료"
+	},
+	[14986] = {
+		Title = "추수제 준비",
+		Description = {
+			"월병의 재료가 똑 떨어졌다는구만. 달과자 재료 좀 구해 올라우? 노란 향신료 1개, 나무조각 3개면 된다우. <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+		},
+		Summary = "월병의 재료"
+	},
+	[14987] = {
+		Title = "추수제 준비",
+		Description = {
+			"칠면조 구이의 재료가 똘 떨어졌다는구만. 칠면조 구이의 재료 좀 구해 올라우? 담백한 소스 1개, 레몬 3개, 당근 10개면 된다우. <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+		},
+		Summary = "칠면조 구이의 재료"
+	},
+	[14988] = {
+		Title = "대기: 추수제 준비",
+		Description = {
+			"지금 음식 준비가 한창이라 줄 수 있는게 없는데. 새벽 시간이 지난 후에 <NAVI>[나]<INFO>alberta,119,193,0,101,0</INFO></NAVI>를 찾아 오면 꼭 줄 테니까."
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14989] = {
+		Title = "추수제의 의미",
+		Description = {
+			"두 집을 화해시킬 방법이 있어요. 추수절이 아니면 못하니까 서둘러 <NAVI>[밭]<INFO>pay_fild03,211,174,0,101,0,</INFO></NAVI>에 가요!"
+		},
+		Summary = "농작물이 있는 곳으로"
+	},
+	[14990] = {
+		Title = "추수제의 의미",
+		Description = {
+			"사과 2개만 가져다 주세요. 딱! 2개만이에요! 코코네 <NAVI>[사과나무]<INFO>pay_fild03,211,179,0,101,0,</INFO></NAVI>에서도 2개 정도는 딸 수 있을 거예요."
+		},
+		Summary = "사과 2개"
+	},
+	[14991] = {
+		Title = "추수제의 의미",
+		Description = {
+			"이 과일 도시락을 <NAVI>[징코네 집]<INFO>alberta,47,118,0,101,0,</INFO></NAVI>에 가져다 주세요. 곧 따라갈게요."
+		},
+		Summary = "징코네 집으로"
+	},
+	[14992] = {
+		Title = "추수제의 의미",
+		Description = {
+			"멧돼지가 나타나 <NAVI>[고구마 밭]<INFO>pay_fild03,211,174,0,101,0,</INFO></NAVI>을 엉망으로 만들고 있어요! 어서 가요!"
+		},
+		Summary = "고구마 밭으로"
+	},
+	[14993] = {
+		Title = "추수제의 의미",
+		Description = {
+			"멧돼지에게 먹일 사과와 고구마 5개씩을 가져다 주세요! - <NAVI>[이아이]<INFO>pay_fild03,211,174,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "멧돼지 먹이 확보"
+	},
+	[14994] = {
+		Title = "과일 도시락 배달",
+		Description = {
+			"사과, 고구마, 맛있는 옥수수 3개씩 가져다 주세요. 맛있는 과일 도시락을 만들 거예요! - <NAVI>[이아이]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "과일 도시락 구성품"
+	},
+	[14995] = {
+		Title = "과일 도시락 배달",
+		Description = {
+			"이 과일 도시락을 <NAVI>[뱃사람]<INFO>alberta,231,117,0,101,0,</INFO></NAVI>에게 가져다 주세요."
+		},
+		Summary = "뱃사람에게"
+	},
+	[14996] = {
+		Title = "과일 도시락 배달",
+		Description = {
+			"이 과일 도시락을 <NAVI>[어르신]<INFO>alberta,108,236,0,101,0,</INFO></NAVI>께 가져다 주세요."
+		},
+		Summary = "노인에게"
+	},
+	[14997] = {
+		Title = "과일 도시락 배달",
+		Description = {
+			"이 과일 도시락을 <NAVI>[타지인]<INFO>alberta,208,50,0,101,0,</INFO></NAVI>에게 배달해 주세요."
+		},
+		Summary = "타지인에게"
+	},
+	[14998] = {
+		Title = "과일 도시락 배달",
+		Description = {
+			"과일 도시락을 모두 전달했으니 <NAVI>[이아이]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "이아이에게"
+	},
+	[14999] = {
+		Title = "대기: 과일 도시락 배달",
+		Description = {
+			"오늘은 피곤하실 테니 새벽이 지난 후에 다시 오세요! - <NAVI>[이아이]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
 	},
 	[15000] = {
 		Title = "Experiencing abnormal statuses",
@@ -37864,7 +38993,7 @@ QuestInfoList = {
 	[16073] = {
 		Title = "Agrboda's Soul",
 		Description = {
-			"You have retrieved all of Agrboda's soul pices. You hear a voice speaking directly to you, ''I'm... leaving my soul with you. Please guide me to the queen of the dead...''"
+			"You have retrieved all of Agrboda's soul pices. You hear a voice speaking directly to you, \"I'm... leaving my soul with you. Please guide me to the queen of the dead...\""
 		},
 		Summary = ""
 	},
@@ -38340,7 +39469,7 @@ QuestInfoList = {
 	[16141] = {
 		Title = "Kiel Hyre Academy",
 		Description = {
-			"The bottom of the vase reads ''The rabbit often observes the door. Open the door.''"
+			"The bottom of the vase reads \"The rabbit often observes the door. Open the door.\""
 		},
 		Summary = ""
 	},
@@ -38934,22 +40063,30 @@ QuestInfoList = {
 	},
 	[16278] = {
 		Title = "큐펫 루나틱과 산책",
-		Description = { "큐펫 루나틱과 산책하기로 하였다." },
+		Description = {
+			"큐펫 루나틱과 산책하기로 하였다."
+		},
 		Summary = "루나틱과 산책"
 	},
 	[16279] = {
 		Title = "큐펫 포링과 산책",
-		Description = { "큐펫 포링과 산책하기로 하였다." },
+		Description = {
+			"큐펫 포링과 산책하기로 하였다."
+		},
 		Summary = "포링과 산책"
 	},
 	[16280] = {
 		Title = "큐펫 새끼 데저트울프와 산책",
-		Description = { "큐펫 새끼 데저트울프와 산책하기로 하였다." },
+		Description = {
+			"큐펫 새끼 데저트울프와 산책하기로 하였다."
+		},
 		Summary = "새끼 데저트울프와 산책"
 	},
 	[16281] = {
 		Title = "큐펫 데비루치와 산책",
-		Description = { "큐펫 데비루치와 산책하기로 하였다." },
+		Description = {
+			"큐펫 데비루치와 산책하기로 하였다."
+		},
 		Summary = "데비루치와 산책"
 	},
 	[16282] = {
@@ -39001,7 +40138,343 @@ QuestInfoList = {
 		},
 		Summary = "학원으로 복귀"
 	},
-	[16289] = { Title = "행복의 큐펫 자판기", Description = { "행복의 큐펫 자판기" }, Summary = "" },
+	[16289] = {
+		Title = "행복의 큐펫 자판기",
+		Description = {
+			"행복의 큐펫 자판기"
+		},
+		Summary = ""
+	},
+	[16331] = {
+		Title = "유월의 스탬프 수첩",
+		Description = {
+			"<NAVI>[아루 희아]<INFO>comodo,204,143,0,101,0</INFO></NAVI>에게 스탬프 수첩을 받았다. 코모도 이곳저곳에서 기다리는 스탬프 스탭을 찾아가 도장을 받아 아루 희아에게 돌아오자."
+		},
+		Summary = "스탬프 수첩 완성"
+	},
+	[16332] = {
+		Title = "유월의 코모도 도장 하나",
+		Description = {
+			"스탬프 수첩에 왼발도장 하나를 찍었다."
+		},
+		Summary = "왼발도장 쾅!"
+	},
+	[16333] = {
+		Title = "유월의 코모도 도장 하나",
+		Description = {
+			"스탬프 수첩에 왼손도장 하나를 찍었다."
+		},
+		Summary = "왼손도장 쾅!"
+	},
+	[16334] = {
+		Title = "유월의 코모도 도장 하나",
+		Description = {
+			"스탬프 수첩에 오른발도장 하나를 찍었다."
+		},
+		Summary = "오른발도장 쾅!"
+	},
+	[16335] = {
+		Title = "유월의 코모도 도장 하나",
+		Description = {
+			"스탬프 수첩에 오른손도장 하나를 찍었다."
+		},
+		Summary = "오른손도장 쾅!"
+	},
+	[16336] = {
+		Title = "유월의 황금 옥수수",
+		Description = {
+			"황금 옥수수가 맛있게 영글 수 있도록, 필드와 던전에서 따끈 임프와 따끈 익스플로전을 각각 3마리 사냥하고 <NAVI>[콘 박사]<INFO>comodo,159,196,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[16337] = {
+		Title = "유월의 황금 옥수수",
+		Description = {
+			"필드와 던전에서 따끈 임프와 따끈 익스플로전을 각각 3마리 사냥하고 <NAVI>[콘 박사]<INFO>comodo,159,196,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[16338] = {
+		Title = "유월의 황금 옥수수-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코모도의 <NAVI>[콘 박사]<INFO>comodo,159,196,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 리셋"
+	},
+	[16339] = {
+		Title = "유월의 화산섬 코로도",
+		Description = {
+			"코로도 길잡이 <NAVI>[파키하]<INFO>comodo,264,123,0,101,0</INFO></NAVI>의 안내를 받아, 이미 코로도에 자리잡은 화속성 몬스터를 혼쭐내 주자."
+		},
+		Summary = "코로도 탐사"
+	},
+	[16340] = {
+		Title = "유월의 화산섬 코로도",
+		Description = {
+			"코로도 길잡이 <NAVI>[파키하]<INFO>comodo,264,123,0,101,0</INFO></NAVI>의 안내를 받아, 이미 코로도에 자리잡은 화속성 몬스터를 혼쭐내 주자."
+		},
+		Summary = "코로도 탐사"
+	},
+	[16341] = {
+		Title = "유월의 화산섬 코로도-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코모도의 <NAVI>[파키하]<INFO>comodo,264,123,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 리셋"
+	},
+	[16342] = {
+		Title = "유월의 건강한 허브",
+		Description = {
+			"<NAVI>[예르바]<INFO>comodo,226,188,0,101,0</INFO></NAVI>의 부탁을 받았다. 필드와 던전에서 마법의 허브를 3뿌리 캐서 예르네에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[16343] = {
+		Title = "유월의 건강한 허브",
+		Description = {
+			"필드와 던전에서 마법의 허브를 3뿌리 캐서 <NAVI>[예르바]<INFO>comodo,226,188,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[16344] = {
+		Title = "유월의 건강한 허브-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코모도의 <NAVI>[예르바]<INFO>comodo,226,188,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 리셋"
+	},
+	[16345] = {
+		Title = "유월의 맛있는 팝콘",
+		Description = {
+			"팝콘 마스터의 팝콘은 미드가르드 제일이다."
+		},
+		Summary = ""
+	},
+	[16346] = {
+		Title = "힘세고 강한 모닥불",
+		Description = {
+			"<NAVI>[힘세고 강한 모닥불]<INFO>comodo,289,176,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 30분동안 공격력이 강해진 듯하다! 30분이 지나면 허브 5잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "30분 후 리셋"
+	},
+	[16347] = {
+		Title = "지혜롭고 강한 모닥불",
+		Description = {
+			"<NAVI>[지혜롭고 강한 모닥불]<INFO>comodo,294,176,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 30분동안 마법 공격력이 강해진 듯하다! 30분이 지나면 허브 5잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "30분 후 리셋"
+	},
+	[16348] = {
+		Title = "날카롭고 강한 모닥불",
+		Description = {
+			"<NAVI>[날카롭고 강한 모닥불]<INFO>comodo,299,176,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 30분동안 공격 속도가 올라간 듯하다! 30분이 지나면 허브 3잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "30분 후 리셋"
+	},
+	[16349] = {
+		Title = "하짓날 낮의 모닥불",
+		Description = {
+			"<NAVI>[하짓날 낮의 모닥불]<INFO>comodo,292,180,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 60분동안 화속성 내성이 강해지고 지속성 몬스터를 더 효과적으로 공격할 수 있게 된 듯하다! 60분이 지나면 허브 15잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "60분 후 리셋"
+	},
+	[16350] = {
+		Title = "하짓날 밤의 모닥불",
+		Description = {
+			"<NAVI>[하짓날 밤의 모닥불]<INFO>comodo,297,180,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 60분동안 무속성 내성이 강해지고 무속성 몬스터를 더 효과적으로 공격할 수 있게 된 듯하다! 60분이 지나면 허브 10잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "60분 후 리셋"
+	},
+	[16351] = {
+		Title = "유월의 이글이글 구슬",
+		Description = {
+			"팝 팝코나이저와 팝 팝코니스트, 두 사람은 이글이글 구슬을 모으기 위해 팝 팝콘 모자에 인챈트를 해 주고 있다."
+		},
+		Summary = "팝 팝콘 모자 인챈트"
+	},
+	[16352] = {
+		Title = "엘레나 볼코바의 부름",
+		Description = {
+			"엘레나 볼코바와 이야기해 보자."
+		},
+		Summary = ""
+	},
+	[16353] = {
+		Title = "금빛의 말썽꾸러기",
+		Description = {
+			"주요 시설 부근에 폭발이 일어났다. 엘레나를 따라가 <NAVI>[상태]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>를 확인하자."
+		},
+		Summary = "엘레나와 대화"
+	},
+	[16354] = {
+		Title = "엘류미나 확보 작전",
+		Description = {
+			"<NAVI>[지역]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>을 소개하고 특수 작전에 돌입한다. 무사히 엘류미나를 확보한 다음 엘레나에게 보고하자."
+		},
+		Summary = "엘류미나 확보"
+	},
+	[16355] = {
+		Title = "수상한 상자",
+		Description = {
+			"상자가 작동되어 버렸다. 생체 배터리를 밟아 제거하며 몬스터를 처치한 뒤 리벨리온과 대화하자."
+		},
+		Summary = "배터리 제거하며 몬스터 처치"
+	},
+	[16356] = {
+		Title = "수상한 상자",
+		Description = {
+			"상자가 작동되어 버렸다. 화학독을 건드리지 않도록 조심하며 몬스터를 처치한 뒤 리벨리온과 대화하자."
+		},
+		Summary = "화학독 주의하며 몬스터 처치"
+	},
+	[16357] = {
+		Title = "엘류미나 확보",
+		Description = {
+			"무사히 일루시온의 과학자를 확보했다. 잠시 휴식을 취한 뒤 <NAVI>[엘레나]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>에게 돌아가 보자."
+		},
+		Summary = "엘레나와 대화"
+	},
+	[16358] = {
+		Title = "순수한 악인",
+		Description = {
+			"포로가 된 일루시온의 과학자를 심문할 예정이다. <NAVI>[막사]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> 쪽으로 가서 심문에 참관하자."
+		},
+		Summary = "고니와 대화"
+	},
+	[16359] = {
+		Title = "순수한 악동",
+		Description = {
+			"<NAVI>[루키]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI>가 심문을 주도하기로 했다. 옆에 서서 힘껏 눈을 부라리자."
+		},
+		Summary = "루키와 대화"
+	},
+	[16360] = {
+		Title = "순수한 사실",
+		Description = {
+			"엘류미나의 증언으로 바르문트 저택에 출입할 방법을 알아냈다. <NAVI>[출입구]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>를 확인하러 가도록 하자."
+		},
+		Summary = "루키와 대화"
+	},
+	[16361] = {
+		Title = "순수한 뒷수습",
+		Description = {
+			"엘레나의 <NAVI>[부하]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>에게 엘류미나 생포 작전 이후, 엘류미나가 뿌려 놓은 몬스터와 함정을 아직 수거하지 못한 이유를 듣자."
+		},
+		Summary = "리벨리온과 대화"
+	},
+	[16362] = {
+		Title = "순수한 뒷수습-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코르의 <NAVI>[리벨리온]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16363] = {
+		Title = "EL1_A17T 처리",
+		Description = {
+			"EL1_A17T을 무사히 처리했다."
+		},
+		Summary = ""
+	},
+	[16364] = {
+		Title = "농장의 일손",
+		Description = {
+			"이번 일로 일손이 부족해진 <NAVI>[농장]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>에서 일손을 좀 보태 달라는 요청이 들어왔다. 밭의 아직 어린 야채를 돌봐 주자."
+		},
+		Summary = "농장 일손 돕기"
+	},
+	[16365] = {
+		Title = "농장의 일손-대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다.",
+			"코르의 <NAVI>[농장 일꾼]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16366] = {
+		Title = "농장의 일손",
+		Description = {
+			"이번 일로 일손이 부족해진 <NAVI>[농장]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>에서 일손을 좀 보태 달라는 요청이 들어왔다. 밭의 아직 어린 야채를 돌봐 주자."
+		},
+		Summary = ""
+	},
+	[16367] = {
+		Title = "아직 어린 포도",
+		Description = {
+			"아직 조그맣고 푸른 <NAVI>[포도]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>가 줄기에 매달려 있다. 진딧물을 잡아 주자."
+		},
+		Summary = ""
+	},
+	[16368] = {
+		Title = "아직 어린 포도",
+		Description = {
+			"아직 조그맣고 푸른 <NAVI>[포도]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>가 줄기에 매달려 있다. 비료를 쳐 주자."
+		},
+		Summary = ""
+	},
+	[16369] = {
+		Title = "아직 어린 포도",
+		Description = {
+			"아직 조그맣고 푸른 <NAVI>[포도]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>가 줄기에 매달려 있다. 잡초를 뽑아 주자."
+		},
+		Summary = ""
+	},
+	[16370] = {
+		Title = "아직 보송한 깍지콩",
+		Description = {
+			"솜털이 보송보송한 <NAVI>[깍지콩]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>은 아직 새끼손톱보다도 작다. 진딧물을 잡아 주자."
+		},
+		Summary = ""
+	},
+	[16371] = {
+		Title = "아직 보송한 깍지콩",
+		Description = {
+			"솜털이 보송보송한 <NAVI>[깍지콩]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>은 아직 새끼손톱보다도 작다. 비료를 쳐 주자."
+		},
+		Summary = ""
+	},
+	[16372] = {
+		Title = "아직 보송한 깍지콩",
+		Description = {
+			"솜털이 보송보송한 <NAVI>[깍지콩]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>은 아직 새끼손톱보다도 작다. 잡초를 뽑아 주자."
+		},
+		Summary = ""
+	},
+	[16373] = {
+		Title = "아직 조그만 호박",
+		Description = {
+			"파랗고 조그만 <NAVI>[호박]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>이 줄기에 대롱대롱 열려 있다. 진딧물을 잡아 주자."
+		},
+		Summary = ""
+	},
+	[16374] = {
+		Title = "아직 조그만 호박",
+		Description = {
+			"파랗고 조그만 <NAVI>[호박]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>이 줄기에 대롱대롱 열려 있다. 비료를 쳐 주자."
+		},
+		Summary = ""
+	},
+	[16375] = {
+		Title = "아직 조그만 호박",
+		Description = {
+			"파랗고 조그만 <NAVI>[호박]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>이 줄기에 대롱대롱 열려 있다. 잡초를 뽑아 주자."
+		},
+		Summary = ""
+	},
+	[16376] = {
+		Title = "EL1_A17T 제압",
+		Description = {
+			"EL1_A17T을 제압하였다."
+		},
+		Summary = ""
+	},
+	[16377] = {
+		Title = "EL1_A17T 제압-대기",
+		Description = {
+			"골치아픈 일을 해결했다. 잠시 쉬도록 하자."
+		},
+		Summary = ""
+	},
 	[17000] = {
 		Title = "Meet with Father Bamph",
 		Description = {
@@ -39127,6 +40600,147 @@ QuestInfoList = {
 			"The shocking news of Tristam III's death should not be taken lightly. You should report this and bring the Research Note to High Priestess Niren."
 		},
 		Summary = "High Priestess Niren"
+	},
+	[17018] = {
+		Title = "환자들의 상태",
+		Description = {
+			"<NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>씨는 카야 토스씨에게 긴히 보고할 일이 있다고 한다."
+		},
+		Summary = "아스씨에게"
+	},
+	[17019] = {
+		Title = "긴박한 상황",
+		Description = {
+			"도주한 연구원의 수색 인력이 더 필요합니다! <NAVI>[왼편]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>에서 다른 수색대와 합류하십시오!"
+		},
+		Summary = "수색 참여"
+	},
+	[17020] = {
+		Title = "조사 재개",
+		Description = {
+			"패트릭 카우프먼씨에 대한 조사를 계속 부탁드리겠습니다. 아마 이곳에서 <NAVI>[일하던 분]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI>들이라면 뭔가 단서를 얻을 수 있을지도 모르겠습니다."
+		},
+		Summary = "일꾼들에게"
+	},
+	[17021] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"아무튼 누굴 찾는다면 연구원들한테 물어야지. 다들 도망가서 남아 있는게 얼마 없을 테지만...",
+			"<NAVI>[보조]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>라면 몇 남아 있으니까 가봐요."
+		},
+		Summary = "연구원에게"
+	},
+	[17022] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"사람을 찾는다면 세탁물을 관리하던 <NAVI>[사람]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>한테 가 봐요. 오래 있었으니까. 발이 무척 넓거든요."
+		},
+		Summary = "세탁물 담당자에게"
+	},
+	[17023] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"뭔가 찾는다면 <NAVI>[소각장]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>에 가 봐요. 거기에서 지금 여기저기 흩어진 자료들을 모아서 분류하는 작업을 한다니까 뭔가 얻을 수 있을지 모르죠."
+		},
+		Summary = "소각장으로"
+	},
+	[17024] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"심하게 오염된 거나 태우지 못하는 것들은 따로 버리는 <NAVI>[폐기장]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>이 따로 있다고 했거든요. 자기들끼리 뭐라고 부르던데.."
+		},
+		Summary = "루두스로"
+	},
+	[17025] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"<NAVI>[어디선가]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI> 말소리가 들린다. 찾아가 보자."
+		},
+		Summary = "소리를 따라"
+	},
+	[17026] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"차라리 쓰레기 더미에서 식별 팔찌를 찾아 봐요. 바닥 어딘가에 떨어져 있을 거예요."
+		},
+		Summary = "실험체용 식별 팔찌"
+	},
+	[17027] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"쓰레기 더미를 조심조심 뒤져 식별 팔찌 몇 개를 찾았지만 카우프먼씨의 것은 없었다. 다른 곳을 찾아 보자."
+		},
+		Summary = "다른 곳을 찾아 보자"
+	},
+	[17028] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"쓰레기 더미를 뒤져 다른 사람들의 식별 팔찌 몇 개를 찾았다. 다른 곳을 살펴 보자."
+		},
+		Summary = "쓰레기 더미 뒤지기"
+	},
+	[17029] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"열심히 뒤져 보았지만 모두 쓰레기였을 뿐이었다. 다른 곳을 살펴 보자."
+		},
+		Summary = "다른 곳을 살펴 보기"
+	},
+	[17030] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"뒤져 보고 또 뒤져 보았지만 건질 것은 없어 보인다. 다른 곳을 살펴 보자."
+		},
+		Summary = "또 다른 쓰레기더미로"
+	},
+	[17031] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"이곳엔 아무것도 없었다. 카우프먼씨의 단서를 찾을 수나 있을까... 다른 곳을 살펴 보자."
+		},
+		Summary = "다른 쓰레미 더미로"
+	},
+	[17032] = {
+		Title = "팩씨를 찾아서",
+		Description = {
+			"쓰레기 더미에 파묻혀 있던 팔찌 하나를 파냈다. 이것을 가지고 <NAVI>[카야]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>씨에게로 돌아 가자."
+		},
+		Summary = "카야 토스씨에게"
+	},
+	[17033] = {
+		Title = "차후의 모든 일 처리는",
+		Description = {
+			"차후의 일처리는 모두 여기 있는 <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>군을 통해서 해주십시오. 수거한 팔찌도 아스군에게 전달하시면 됩니다."
+		},
+		Summary = "아스씨에게"
+	},
+	[17034] = {
+		Title = "루두스로",
+		Description = {
+			"그럼 돌로르라 불리는 실험체 20분들께 안식을 드리고, 실험체용 식별 팔찌 10개를 부탁드립니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
+		},
+		Summary = "실험체용 식별 팔찌 10"
+	},
+	[17035] = {
+		Title = "대기: 루두스로",
+		Description = {
+			"새벽이 지난 후에 다시 뵙겠습니다. 정말로 고생 많으셨습니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[17036] = {
+		Title = "추수제의 의미",
+		Description = {
+			"사과를 땄다"
+		},
+		Summary = "사과 따기"
+	},
+	[17037] = {
+		Title = "대기: 속성 교체",
+		Description = {
+			"하루에 한 번 무료로 시간의 수호자 로브에 부여 된 속성 교체를 할 수 있어요. <NAVI>[속성 부여 담당자]<INFO>prontera,154,279,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
 	},
 	[18001] = {
 		Title = "Delivery for Rooney",
@@ -39775,14 +41389,14 @@ QuestInfoList = {
 	[19105] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"You found a message that reads ^4d4dff''Veggie Lady N9 W3 BINGO.''^000000"
+			"You found a message that reads ^4d4dff\"Veggie Lady N9 W3 BINGO.\"^000000"
 		},
 		Summary = ""
 	},
 	[19106] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"You've received a Cogwheel from Clanux Heffron. Remember that the message you found said ^4d4dff''Veggie Lady N9 W3 BINGO.''^000000"
+			"You've received a Cogwheel from Clanux Heffron. Remember that the message you found said ^4d4dff\"Veggie Lady N9 W3 BINGO.\"^000000"
 		},
 		Summary = ""
 	},
@@ -39831,28 +41445,28 @@ QuestInfoList = {
 	[19113] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"You found something written on the ceiling of the pagoda that says ''This garment is one size fits all.'' Tell Grout'he about the message."
+			"You found something written on the ceiling of the pagoda that says \"This garment is one size fits all.\" Tell Grout'he about the message."
 		},
 		Summary = ""
 	},
 	[19114] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"You found a Pile of stone that says, ''I used to pray for peaceful days here.'' Tell Grout'he about the message."
+			"You found a Pile of stone that says, \"I used to pray for peaceful days here.\" Tell Grout'he about the message."
 		},
 		Summary = ""
 	},
 	[19115] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"You found Dried Fish with a message that says, ''Green Herbs are very useful for getting rid of fish smells.'' Tell Grout'he about the message."
+			"You found Dried Fish with a message that says, \"Green Herbs are very useful for getting rid of fish smells.\" Tell Grout'he about the message."
 		},
 		Summary = ""
 	},
 	[19116] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"You found a Vat with a message, ''What will it be? Wine or Grape Juice? Oh, but I much prefer wine.'' Tell Grout'he about the message."
+			"You found a Vat with a message, \"What will it be? Wine or Grape Juice? Oh, but I much prefer wine.\" Tell Grout'he about the message."
 		},
 		Summary = ""
 	},
@@ -39887,7 +41501,7 @@ QuestInfoList = {
 	[19121] = {
 		Title = "The Eye of Hellion",
 		Description = {
-			"Welshyun asked you to find his student Enoz in the Geffen tower. Make sure that he has the report called ''Monster Life in the Geffen Area.''"
+			"Welshyun asked you to find his student Enoz in the Geffen tower. Make sure that he has the report called \"Monster Life in the Geffen Area.\""
 		},
 		Summary = ""
 	},
@@ -51393,7 +53007,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[62340] = {
-		Title = "Turkey Chef Judgement Day ",
+		Title = "Turkey Chef Judgement Day",
 		Description = {
 			"Talk to the Judges and the Chairman"
 		},
@@ -51804,13 +53418,6 @@ QuestInfoList = {
 			"Access to the lab entrance system is restricted."
 		},
 		Summary = "Waiting time to enter (3days - 72hour)"
-	},
-	[62424] = {
-		Title = "Amatsu - Yellow Plates",
-		Description = {
-			"The Louyang Ambassador has asked you to bring 40 Yellow Plates from the Kapha monsters here in Amatsu."
-		},
-		Summary = ""
 	},
 	[62424] = {
 		Title = "Amatsu - Yellow Plates",
@@ -55438,6 +57045,97 @@ QuestInfoList = {
 		},
 		Summary = ""
 	},
+	[63162] = {
+		Title = "Poring Con",
+		Description = {
+			"Bring a Poring Egg back to the Poring Con Volunteer."
+		},
+		Summary = ""
+	},
+	[63164] = {
+		Title = "Poring Con",
+		Description = {
+			"Bring 15 Apple Juices to the Poring Con Volunteer."
+		},
+		Summary = ""
+	},
+	[63166] = {
+		Title = "Poring Con",
+		Description = {
+			"You completed the Poring Con entrance quest! Keep your badge safe, you'll need it for the con!"
+		},
+		Summary = ""
+	},
+	[63167] = {
+		Title = "Poring Con",
+		Description = {
+			"Help Cosplayer Freya with some much needed cosplay supplies: 30 Fluff, 20 Blue Hair, 20 Yarn, 1 Darkgreen Dyestuffs and 1 Adventurer's Suit."
+		},
+		Summary = ""
+	},
+	[63168] = {
+		Title = "Poring Con",
+		Description = {
+			"Speak to Cosplayer Freya again. She's got some good news!"
+		},
+		Summary = ""
+	},
+	[63170] = {
+		Title = "Poring Con",
+		Description = {
+			"Take some cosplay photos and bring them back to Astra and Jelloshaker."
+		},
+		Summary = ""
+	},
+	[63176] = {
+		Title = "Poring Con",
+		Description = {
+			"Speak to the other convention workers to investigate Campitor's wereabouts."
+		},
+		Summary = ""
+	},
+	[63177] = {
+		Title = "Poring Con",
+		Description = {
+			"Speak to the Monster Cosplayer? She might know where Camp is."
+		},
+		Summary = ""
+	},
+	[63178] = {
+		Title = "Poring Con",
+		Description = {
+			"Campitor went to meet a band in Juno?"
+		},
+		Summary = ""
+	},
+	[63179] = {
+		Title = "Poring Con",
+		Description = {
+			"Campitor might be right outside Juno according to the Band Members."
+		},
+		Summary = ""
+	},
+	[63180] = {
+		Title = "Poring Con",
+		Description = {
+			"Maybe the Poring Con Volunteer at the entrance knows about Camp?"
+		},
+		Summary = ""
+	},
+	[63187] = {
+		Title = "Poring Con - Cosplay Scavenger Hunt",
+		Description = {
+			"There is a 22 hour cooldown on this quest."
+		},
+		Summary = "Come back to hunt for cosplays again later!"
+	},
+	[63188] = {
+		Title = "Poring Con - Help Cosplayer Freya",
+		Description = {
+			"There is a 22 hour cooldown on this quest."
+		},
+		Summary = "Come back to help Freya again!"
+	},
 	[70001] = {
 		Title = "Searching for the Treasure Map",
 		Description = {
@@ -55518,7 +57216,7 @@ QuestInfoList = {
 	[70012] = {
 		Title = "Izlude Irene's Treasure",
 		Description = {
-			"''for the next clue one floor down now you must go. Once you have found it, you may claim Irene's treasure... but to take home the riches your pirate knowledge she will measure.''"
+			"\"for the next clue one floor down now you must go. Once you have found it, you may claim Irene's treasure... but to take home the riches your pirate knowledge she will measure.\""
 		},
 		Summary = "Find Mouth and talk to him."
 	},
@@ -56442,7 +58140,7 @@ QuestInfoList = {
 	[70168] = {
 		Title = "Rune Midgard Exposition: Class quest",
 		Description = {
-			"Find the Spider in Comodo so you can ''steal'' the gems."
+			"Find the Spider in Comodo so you can \"steal\" the gems."
 		},
 		Summary = ""
 	},
@@ -56662,5 +58360,5 @@ QuestInfoList = {
 			"Wait for the timer before purchasing another raffle ticket"
 		},
 		Summary = ""
-	}
+	},
 }

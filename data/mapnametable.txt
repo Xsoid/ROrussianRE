@@ -1,44 +1,45 @@
-// 레벨확장 컨텐츠
+// 2018 Halloween
+1@halo.rsw#Halloween Festival Hall#
 
-// 제로 아마쯔 모모타로
-1@momo.rsw#모모타로 체험관#
+// Zero Amatsu Momotaro
+1@momo.rsw#Momotaro Experience Hall#
 
-// 제로 2nd memorial
-1@ant01.rsw#개미지옥#
-1@izd02.rsw#이즈루드 던전 2층#
-1@tre02.rsw#침몰선#
+// Zero 2nd memorial
+1@ant01.rsw#Ant Hell#
+1@izd02.rsw#Undersea Tunnel B2#
+1@tre02.rsw#Sunken Ship#
 
-//프론테라 지하수로
-1@sewb2.rsw#지하수로#
+// Prontera Sewer
+1@sewb2.rsw#Sewer#
 
-// EDDA 글래스트 헤임의 몰락
-1@gl_prq.rsw#글래스트 헤임의 몰락#
+// EDDA The Fall of Glastheim
+1@gl_prq.rsw#The Fall of Glastheim#
 
-mag_dun03.rsw#유노 노그로드 3층#
-gl_cas01_.rsw#글래스트헤임 성 어비스 1층#
+mag_dun03.rsw#Nogg Road area 3#
+gl_cas01_.rsw#Glast Heim F1#
 
-// 에피소드 17.1 태동, 일루시온 
-1@cor.rsw#코르 메모리얼#
-1@os_a.rsw#오스 점령전#
-1@os_b.rsw#봉쇄된 오스#
-1@rgsr.rsw#레겐쉬름#
-rgsr_in.rsw#레켄베르 부설 연구소#
-pub_cat.rsw#총알 탄 야옹이#
-sp_cor.rsw#특수경계지역 코르#
-sp_os.rsw#특수경계지역 오스#
-sp_rudus.rsw#폐기실험체 유기장 루두스 1층#
-sp_rudus2.rsw#폐기실험체 유기장 루두스 2층#
-sp_rudus3.rsw#폐기실험체 유기장 루두스 3층#
+// Episode 17.1 and illusion 
+1@cor.rsw#Core Memorial#
+1@os_a.rsw#OS preoccupation#
+1@os_b.rsw#Sealed OS#
+1@rgsr.rsw#Regenschirm#
+rgsr_in.rsw#Rekenber Institute#
+pub_cat.rsw#Gun Bullet Cat#
+sp_cor.rsw#Special border Core#
+sp_os.rsw#Special border OS#
+sp_rudus.rsw#Rudus, Experiment Waste Disposal 1F#
+sp_rudus2.rsw#Rudus, Experiment Waste Disposal 2F#
+sp_rudus3.rsw#Rudus, Experiment Waste Disposal 3F#
 
-// 성제 전직
-star_frst.rsw#유성림#
-star_in.rsw#유성림 실내#
+// Star Emperor
+star_frst.rsw#Yu Seong Lim#
+star_in.rsw#Inside Yu Seong Lim#
 
-// 소울리퍼 전직
-1@soul.rsw#영혼의 통로#
+// Soul Reaper
+1@soul.rsw#The passage of Soul#
 
-// 일루전 오브 루안다
-com_d02_i.rsw#북쪽 동굴 루안다#
+// Illusion of Luanda
+com_d02_i.rsw#Luanda, the North Cave#
 
 // Illusion Teddy Bear Nasarin Empire
 ein_d02_i.rsw#Nasarin Empire#
@@ -63,7 +64,7 @@ x_ra.rsw#Rachel - Beyond dimension#
 
 // Noodles Festival July
 lasa_sea.rsw#Cat Tunnel#
-1@drdo.rsw#Dorado snow#
+1@drdo.rsw#Legend of Dorado#
 
 //Old office of Ninja
 que_ng.rsw#Unknown Place#
@@ -71,9 +72,9 @@ que_ng.rsw#Unknown Place#
 //Volcanic island Korodo
 1@crd.rsw#Volcanic island Korodo#
 
-// Illusion turtle island (old archery)
+// Illusion turtle island (Turtle Palace)
 tur_d03_i.rsw#Desolate Village#
-tur_d04_i.rsw#Bleak King's Palace#
+tur_d04_i.rsw#Bleak Turtle Palace#
 
 //Poring Town
 1@begi.rsw#Poring Town#
@@ -192,11 +193,11 @@ verus03.rsw#Verus - Central Plaza#
 
 1@mcd.rsw#Charleston Factory#
 
-//Operations Team Event
+// Operations Team Event
 e_hugel.rsw#Invaded Hugel#
 
-c_tower2_.rsw#Clock Tower 2F#
-c_tower3_.rsw#Clock Tower 3F#
+c_tower2_.rsw#Twisted Clock Tower 2F#
+c_tower3_.rsw#Twisted Clock Tower 3F#
 
 silk_lair.rsw#Python's Lair#
 
@@ -208,7 +209,7 @@ moro_cav.rsw#Fire Cave#
 1@rev.rsw#Morse Cave#
 1@xm_d.rsw#Horror Toy Factory#
 1@eom.rsw#Demon's Shrine#
-1@jtb.rsw#Nightmare Jitterbug#
+1@jtb.rsw#Dream and Shadow#
 
 dali02.rsw#Dimensional Rift#
 1@face.rsw#Faceworm's Nest#
@@ -228,7 +229,7 @@ dali.rsw#Dimensional Rift#
 
 evt_bomb.rsw#Labyrinth Events#
 
-gl_cas02_.rsw#Corridor 2nd Floor#
+gl_cas02_.rsw#Corridor 2F#
 gl_chyard_.rsw#Monastery Cemetery#
 2@gl_k.rsw#Old Glast Heim Chivalry 1F#
 1@gl_k.rsw#Old Glast Heim Chivalry 2F#
@@ -272,14 +273,14 @@ iz_int01.rsw#Intro#
 iz_int02.rsw#Intro#
 iz_int03.rsw#Intro#
 iz_int04.rsw#Intro#
-iz_ac01.rsw#Academy 1st Floor#
-iz_ac02.rsw#Academy 2nd Floor#
+iz_ac01.rsw#Criatura Academy 1F#
+iz_ac02.rsw#Criatura Academy 2F#
 iz_ng01.rsw#Ninja tutorial map#
 treasure_n1.rsw#Izlude wreck B1#
 treasure_n2.rsw#Izlude wreck B2#
 
-moc_prydn1.rsw#Morocc Pyramid B1 - Challenge#
-moc_prydn2.rsw#Morocc Pyramid B2 - Challenge#
+moc_prydn1.rsw#Morocc Pyramid B1 - Nightmare#
+moc_prydn2.rsw#Morocc Pyramid B2 - Nightmare#
 
 eclage.rsw#Eclage, Forestic Village#
 ecl_fild01.rsw#Blooming Flower Land#
@@ -316,19 +317,18 @@ ma_zif08.rsw#Inside of Jeepney#
 ma_zif09.rsw#Inside of Jeepney#
 job_ko.rsw#Hidden Place#
 
-gld_dun01_2.rsw#Baldur Guild Dungeon 2#
-gld_dun02_2.rsw#Luina Guild Dungeon 2#
-gld_dun03_2.rsw#Valkyrie Guild Dungeon 2#
-gld_dun04_2.rsw#Britoniah Guild Dungeon 2#
-gld2_ald.rsw#Al De Baran Guild Dungeon#
-gld2_gef.rsw#Geffen Guild Dungeon#
-gld2_pay.rsw#Payon Guild Dungeon#
-gld2_prt.rsw#Prontera Guild Dungeon#
+gld_dun01_2.rsw#Guild Dungeon Underground F2#
+gld_dun02_2.rsw#Guild Dungeon Underground F2#
+gld_dun03_2.rsw#Guild Dungeon Underground F2#
+gld_dun04_2.rsw#Guild Dungeon Underground F2#
+gld2_ald.rsw#Corridor of the Abyss : Tears of Hero#
+gld2_gef.rsw#Corridor of the Abyss : Dead Man Hill#
+gld2_pay.rsw#Corridor of the Abyss : Ancient Wind#
+gld2_prt.rsw#Corridor of the Abyss : Warrior's Way#
 
 lhz_dun04.rsw#Somatology Laboratory area 4#
 que_lhz.rsw#Lighthalzen Indoor#
 1@lhz.rsw#Lighthalzen Indoor#
-iz_dun05.rsw#Undersea Tunnel F6#
 malangdo.rsw#Malangdo#
 mal_in01.rsw#Malangdo Inside#
 mal_in02.rsw#Inside the Ship#
@@ -362,7 +362,7 @@ bra_in01.rsw#Inside Brasilis#
 bra_fild01.rsw#Brasilis Field#
 bra_dun01.rsw#Beyond the Waterfall#
 bra_dun02.rsw#Beyond the Waterfall#
-moc_para01.rsw#Inside of Paradise Group Building in Morroc#
+moc_para01.rsw#Inside of Morocc Eden Group#
 job3_arch01.rsw#Waiting room for Arch Bishop Job Change#
 job3_arch02.rsw#Odin Temple#
 job3_arch03.rsw#Waiting room for Arch Bishop Job Change#
@@ -384,7 +384,7 @@ nyd_dun02.rsw#Yggdrasil Root area 2#
 moc_fild22b.rsw#Dimensional Gorge#
 mid_camp.rsw#Midgard Expedition Camp#
 mid_campin.rsw#Inside Midgard Expedition Camp#
-manuk.rsw#Manuk#
+manuk.rsw#Manuk Mining Camp#
 man_in01.rsw#Inside Manuk#
 man_fild01.rsw#Manuk Field area 1#
 man_fild02.rsw#Manuk Field area 2#
@@ -452,9 +452,9 @@ schg_cas04.rsw#Hljod Castle#
 schg_cas05.rsw#Skidbladnir Castle#
 sch_gld.rsw#Nidhoggur#
 cave.rsw#Cave Village#
-moc_fild20.rsw#Sograt Desert - Continental Guard Quarantine#
-moc_fild21.rsw#Dimensional Gorge#
-moc_fild22.rsw#Dimensional Gorge#
+moc_fild20.rsw#Sograt Desert - Dimensional Rift#
+moc_fild21.rsw#Sograt Desert - Dimensional Rift#
+moc_fild22.rsw#Sograt Desert - Dimensional Rift#
 bossnia_01.rsw#Bossnia#
 bossnia_02.rsw#Bossnia#
 bossnia_03.rsw#Bossnia#
@@ -549,20 +549,20 @@ que_job01.rsw#Private Pub#
 abyss_01.rsw#Abyss Lakes Underground Cave area 1#
 abyss_02.rsw#Abyss Lakes Underground Cave area 2#
 abyss_03.rsw#Abyss Lakes Underground Cave area 3#
-tha_t01.rsw#Thanatos Tower F1 - Lower Level#
-tha_t02.rsw#Thanatos Tower F2 - Lower Level#
-tha_t03.rsw#Thanatos Tower F3 - Lower Level#
-tha_t04.rsw#Thanatos Tower F4 - Lower Level#
-tha_t05.rsw#Thanatos Tower F5 - Upper Level#
-tha_t06.rsw#Thanatos Tower F6 - Upper Level#
-tha_t07.rsw#Thanatos Tower F7 - Upper Level#
-tha_t08.rsw#Thanatos Tower F8 - Upper Level#
-tha_t09.rsw#Thanatos Tower F9 - Upper Level#
-tha_t10.rsw#Thanatos Tower F10 - Upper Level#
-tha_t11.rsw#Thanatos Tower F11 - Upper Level#
-tha_t12.rsw#Thanatos Tower F12 - Upper Level#
-thana_step.rsw#Thanatos Tower Steps - Upper Level#
-thana_boss.rsw#Thanatos Tower - Boss Area#
+tha_t01.rsw#Thanatos Tower Lower Level - Museum entrance#
+tha_t02.rsw#Thanatos Tower Lower Level - Museum#
+tha_t03.rsw#Thanatos Tower Lower Level - Abandoned Place#
+tha_t04.rsw#Thanatos Tower Lower Level - Abandoned Place#
+tha_t05.rsw#Thanatos Tower Upper Level#
+tha_t06.rsw#Thanatos Tower Upper Level#
+tha_t07.rsw#Thanatos Tower Upper Level - Room of Angel#
+tha_t08.rsw#Thanatos Tower Upper Level - Room of Angel#
+tha_t09.rsw#Thanatos Tower Upper Level - Room of Agony#
+tha_t10.rsw#Thanatos Tower Upper Level - Room of Sorrow#
+tha_t11.rsw#Thanatos Tower Upper Level - Room of Despair#
+tha_t12.rsw#Thanatos Tower Upper Level - Room of Hatred#
+thana_step.rsw#Thanatos Tower Upper Level - Stairs#
+thana_boss.rsw#Thanatos Tower - Unknown Place#
 tha_scene01.rsw#Thanatos Tower Entrance#
 job_soul.rsw#Your Heart#
 job_star.rsw#The Sun, the Moon and the Stars#
@@ -755,7 +755,7 @@ cmd_in02.rsw#Inside Comodo#
 cmd_in01.rsw#Inside Comodo#
 comodo.rsw#Beach town, Comodo#
 beach_dun.rsw#Karu, the West Cave#
-beach_dun2.rsw#Ruande, the North Cave#
+beach_dun2.rsw#Luanda, the North Cave#
 beach_dun3.rsw#Mao, the East Cave#
 cmd_fild01.rsw#Papuchicha Forest#
 cmd_fild02.rsw#Kokomo Beach#
@@ -771,18 +771,18 @@ xmas_dun02.rsw#Toy Monitoring Room#
 xmas_dun01.rsw#Toy Factory Warehouse#
 xmas_fild01.rsw#Lutie Field#
 xmas.rsw#Lutie, the Snow Village#
-mjolnir_01.rsw#Mt.Mjolnir area 1#
-mjolnir_02.rsw#Mt.Mjolnir area 2#
-mjolnir_03.rsw#Mt.Mjolnir area 3#
-mjolnir_04.rsw#Mt.Mjolnir area 4#
-mjolnir_05.rsw#Mt.Mjolnir area 5#
-mjolnir_06.rsw#Mt.Mjolnir area 6#
-mjolnir_07.rsw#Mt.Mjolnir area 7#
-mjolnir_08.rsw#Mt.Mjolnir area 8#
-mjolnir_09.rsw#Mt.Mjolnir area 9#
-mjolnir_10.rsw#Mt.Mjolnir area 10#
-mjolnir_11.rsw#Mt.Mjolnir area 11#
-mjolnir_12.rsw#Mt.Mjolnir area 12#
+mjolnir_01.rsw#Mt.Mjolnir North Area#
+mjolnir_02.rsw#Mt.Mjolnir North Area#
+mjolnir_03.rsw#Mt.Mjolnir North Area#
+mjolnir_04.rsw#Mt.Mjolnir North Area#
+mjolnir_05.rsw#Mt.Mjolnir North Area#
+mjolnir_06.rsw#Mt.Mjolnir South Area#
+mjolnir_07.rsw#Mt.Mjolnir South Area#
+mjolnir_08.rsw#Mt.Mjolnir South Area#
+mjolnir_09.rsw#Mt.Mjolnir South Foothills#
+mjolnir_10.rsw#Mt.Mjolnir South Area#
+mjolnir_11.rsw#Mt.Mjolnir South Area#
+mjolnir_12.rsw#Mt.Mjolnir North Foothills#
 prt_fild00.rsw#Prontera Field area 0#
 prt_fild01.rsw#Prontera Field area 1#
 prt_fild02.rsw#Prontera Field area 2#
@@ -945,7 +945,7 @@ alb_ship.rsw#Alberta Ship#
 alberta.rsw#Alberta#
 alberta_in.rsw#Inside Alberta#
 alb2trea.rsw#Alberta Island#
-aldebaran.rsw#Aldebaran#
+aldebaran.rsw#Border City Aldebaran#
 aldeba_in.rsw#Inside Aldebaran#
 gef_tower.rsw#Geffen Tower#
 geffen.rsw#Geffen#

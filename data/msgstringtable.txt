@@ -582,26 +582,26 @@ You can't use this Skill because you are over your Weight Limit.#
 Nameless#
 Congratulations! %s's rank has gone up to %d.#
 What a pity! %s's rank has gone down to %d.#
-Pet Info#
-Hunger#
-Intimacy#
+Информация об питомце#
+Голод#
+Связь#
 Please avoid opening a chatroom while vending.#
 ea#
 You have knocked down %s.#
 You have been knocked down by %s.#
 Pet food '%s' is not available.#
-Feed Pet#
+Покормить#
 Performance#
-Return to Egg#
-Unequip Accessory#
-Check Pet Status#
-Accessory#
-Equipped#
+Вернуть в яйцо#
+Снять аксессуар#
+Проверить статус#
+Аксессуар#
+Экипирован#
 Pet List#
-Unequipped#
-Are you sure that you want to feed your pet?#
-Only the numbers (0~9) are available.#
-You cannot sell unidentified items.#
+Не экипирован#
+Вы уверены, что хотите покормить своего питомца?#
+Доступны только цифры (0~9).#
+Вы не можете продавать неопознанные предметы.#
 Item at 0 Zeny exists. Do you wish to continue?#
 [New Emotion List]#
 N/A#
@@ -665,15 +665,15 @@ You cannot use this item while sitting.#
 Your use of skills and chat will be blocked for the next %d minutes.#
 Your use of skills and chat have been reinstated.#
 - [Not equipped]#
- Very Hungry#
- Hungry#
- Neutral#
- Satisfied#
- Stuffed#
- Awkward#
- Shy#
- Cordial#
- Loyal#
+ Крайне голоден#
+ Голоден#
+ Нейтрален#
+ Удовлетворен#
+ Сыт#
+ Зол#
+ Застенчив#
+ Дружелюбен#
+ Предан#
 Unknown#
 Your account has play time of %d day %d hour %d minute.#
 Your account is already connected to account server.#
@@ -3455,7 +3455,7 @@ This account has limited in-game access due to a secondary password mis-input. \
 You've entered the wrong password 3 times. Your account will be locked for 24 hours to secure your account.\n To release it go to -> Change personal information -> and enter your secondary password.#
 Officer#
 %dday attendance has been paid.#
-There was an error when loading the data account settings. (Please restart to retry. )#
+При загрузке настроек учетной записи произошла ошибка. (Попробуйте перезагрузить клиент).#
 This skill can only be used when in party.#
 Party recruitment has been canceled.#
 Guild experience can be accumulated up to %d%%.#

@@ -6,13 +6,13 @@
 Кто-то уже авторизован на этой учетной записи.#
 Незарегистрированный логин. Пожалуйста, убедитесь, что у вас есть зарегистрированный аккаунт и вы правильно ввели данные пользователя.#
 Неверный логин или пароль пользователя. Попробуйте еще раз.#
-This ID is expired.#
-Rejected from Server.#
+Срок действия этой учетной записи истек.#
+Не удалось соединиться с сервером.#
 Имя персонажа уже занято.#
 Создание персонажа запрещено.#
 Удаление символов запрещено.#
-Please Enter Room Title.#
-Foul Language Detected.#
+Пожалуйста, введите название чата.#
+Нецензурная лексика.#
 Пожалуйста, введите пароль.#
 Пожалуйста, введите пароль. Пароль должен содержать не менее 4 символов.#
 Ты уверена,что хочешь уйти?#
@@ -21,279 +21,279 @@ Foul Language Detected.#
 Обнаружена Нецензурная Лексика.#
 Имя персонажа должно быть не менее 4 символов.#
 Список команд: /h | /help#
-Effects On#
-Effects Off#
+Эффекты включены#
+Эффекты отключены#
 Громкость звука#
-BGM Volume#
+Громкость фоновой музыки#
 Звуковые эффекты включены#
 Звуковые эффекты отключены#
-Frame Skip On#
-Frame Skip Off#
-BGM On#
-BGM Off#
-/h or /help: Shows this Command Help List#
-/w or /who or /player or /who : wiew current the number of player#
-/music: Turns BGM On or Off#
-/sound: Turns Sound Effects On or Off#
-/effect: Effects On or Off#
-/where: Shows your present location#
-/skip: Turns Frame Skip On or Off#
-/v (0~127): Controls the volume of the Sound Effects#
-/bv (0~127): Controls the volume of the BGM#
-/ex (Character Name): Blocks whispering from the Character#
-/ex: View a list of Characters you have Blocked#
-/in (Character Name): Allows whispering from the Character#
-/inall: Allows whispers from anyone#
-/exall: Blocks whispers from everyone#
-Right click on a character and select [Register as a Friend] to add a person to your Friend List.#
-F12 Brings up a Hotkey Window which allows you to drag and drop Recovery Items, Equipment and Skills into it for faster access.#
-You can't type the same word/phrase more than 3 times.#
-Chat Filter: Yeah, uh, I don't think so buddy...#
-You cannot overlap items on a window.#
-You cannot carry more items because you are overweight.#
-You cannot get the item.#
-The deal has successfully completed.#
-You do not have enough zeny.#
-You are over your Weight Limit.#
-The deal has failed.#
-You've blocked whispers from everyone.#
-You've failed to block all whispers.#
-You've allowed whispers from everyone.#
-You've failed to allow all whispers.#
-You have no Block List.#
-[ Character Block List ]#
-Room has been successfully created.#
-Room Limit Exceeded.#
-Same Room exists.#
-The Room is full.#
-You have been kicked out of this room.#
-The deal has been rejected.#
-You are too far away from the person to trade.#
-The Character is not currently online or does not exist.#
-The person is in another deal.#
-You cannot trade because this character will exceed his weight limit.#
-The deal has been canceled.#
-The deal has successfully completed.#
-The deal has failed.#
-Party has successfully been organized.#
-That Party Name already exists.#
-The Character is already in a party.#
-The Character already joined another party.#
-Request for party rejected.#
-Request for party accepted.#
-Party Capacity exceeded.#
-You left the party.#
-Send to All#
-Send to Party#
-Send transaction request#
-Send party invitation#
-Pri:#
-Pub:#
-Click ''Restart'' to go back to your save point or click ''Exit'' to select another character.#
-Please select a Deal Type.#
- requests a deal.#
- Party has sent you an invitation. Would you like to join?#
-Invalid Command#
-Leave party#
-Expel from party#
-Send Message#
-1:1 Chat#
-Information#
-Party Setup#
-Friend#
+Пропуск кадров включен#
+Пропуск кадров отключен#
+Фоновая музыка включена#
+Фоновая музыка отключена#
+/h или /help: Показывает список команд#
+/w или /who или /player или /who: Показывает количество игроков на сервере#
+/music: Включает или отключает фоновую музыку#
+/sound: Включает или отключает звуковые эффекты#
+/effect: Включает или отключает эффекты#
+/where: Показывает ваше местоположение с координатами на карте#
+/skip: Включает или отключает пропуск кадров#
+/v (0~127): Регулирование громкости звуковых эффектов#
+/bv (0~127): Регулирование громкости фоновой музыки#
+/ex <Имя персонажа>: Запретить персонажу писать вам в приват#
+/ex: Посмотреть список всех персонажей, которых вы заблокировали#
+/in <Имя персонажа>: Разрешить персонажу писать вам в приват#
+/inall: Разрешить всем персонажам писать вам в приват#
+/exall: Запретить всем персонажам писать вам в приват#
+Чтобы добавить персонажа в список ваших друзей, кликните на нем правой кнопкой мыши и выберите "Добавить в друзья".#
+F12 - Вызывает меню 'горячих' клавиш, которое позволяет вам переносить туда предметы или умения для быстрого доступа к ним.#
+Нельзя использовать одно слово/фразу более 3-х раз.#
+Сообщение перехвачено из-за ругательств.#
+Нельзя накладывать друг на друга предметы одного типа в окне.#
+Нельзя взять больше предметов, ваш инвентарь переполнен.#
+Нельзя получить этот предмет.#
+Сделка успешно завершена.#
+Недостаточно денег.#
+Превышен лимит веса.#
+Сделка не удалась.#
+Приваты от всех персонажей заблокированы.#
+Не удалось заблокировать приваты от всех персонажей.#
+Разрешины приваты от всех персонажей.#
+Не удалось разрешить приваты от всех персонажей.#
+Список заблокированных приватов пуст.#
+[ Список заблокированных приватов ]#
+Чат создан.#
+Превышен лимит персонажей в чате.#
+Чат с таким названием уже существует.#
+В чате находится максимально возможное количество персонажей.#
+Вас исключили из чата.#
+Ваша сделка была отклонена.#
+Вы слишком далеко для начала торговли.#
+Персонажа нет в игре или он не существует.#
+Персонаж занят другой сделкой.#
+Персонаж перегружен, вы не можете с ним торговать.#
+Сделка отменена.#
+Сделка успешно завершена.#
+Сделка не удалась.#
+Создание группы прошло успешно.#
+Такое название группы уже существует.#
+Персонаж уже в группе.#
+Персонаж присоединился к другой группе.#
+Запрос о вступлении в группу отклонен.#
+Запрос о вступлении в группу подтвержден.#
+В группе слишком много людей.#
+Вы покинули группу.#
+Общий#
+Группа#
+Отправлен запрос на сделку#
+Пригласить в группу#
+Прив:#
+Общ:#
+Для возврата к месту последнего сохранения нажмите "Вернуться"; для выбора другого персонажа нажмите "Выйти".#
+Выберите тип сделки.#
+ предлагает сделку.#
+ Вы приглашены в группу. Хотите присоединиться?#
+Команды не существует#
+Покинуть группу#
+Исключить из группы#
+Отправить сообщение#
+Приватное сообщение#
+Информация#
+Настройки группы#
+Друзья#
 Группа#
 Снаряжение#
 Характеристики#
 Инвентарь#
-/organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
-If you are the party master, you can invite someone into your party by right-clicking on a Character.#
-Recover#
-Attack#
-Support#
-Entire#
-Weapon#
-Defense#
-Water#
-Earth#
-Fire#
-Wind#
-Please avoid buying 2 of the same items at one time.#
-Please change your desktop Color Depth to 16-bit when running Ragnarok in windowed mode.#
+/organize <Название группы>: Создать группу (без < >).  Используйте "/leave", чтобы выйти из группы.#
+Если вы создатель группы, вы можете приглашать в нее других персонажей, кликнув правой кнопкой по ним.#
+Восстановление#
+Атака#
+Поддержка#
+Полный#
+Оруж.#
+Защ.#
+Вода#
+Земля#
+Огонь#
+Ветер#
+Пожалуйста, избегайте покупки 2 одинаковых предметов одновременно.#
+Пожалуйста, измените качество цветопередачи на 16 бит при игре в оконном режиме.#
 Ожидайте...#
 Ожидайте...#
 Ожидайте...#
 Ожидайте...#
-Create Chat Room#
-Room Setup#
-Kick Character Out#
-Give Master Authority#
-View Information#
-Chat Room#
-Ppl#
-/sit: Sit command. If you are sitting, you will stand instead.#
-/stand: Stand command. If you are standing, you will sit instead.#
-/chat: Creates a Chat Room#
-/q: Leaves a Chat Room#
-/deal ''Character Name'' Requests a deal with a character#
-/organize ''Party Name'' Organizes a party#
-/leave: Leaves a party#
-/expel ''Character Name'' kicks a Character out of your party#
-[Alt] + [End]: Turns HP/SP Bar On or Off#
-[Alt] + [Home]: Turns Ground Cursor On or Off#
-[Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is #
+Создание чата#
+Настройки чата#
+Исключение из чата#
+Передать права мастера#
+Просмотр информации#
+Окно чата#
+Человек(а)#
+/sit: Сесть. Если персонаж сидит, то он встанет.#
+/stand: Встать. Если персонаж стоит, то он сядет.#
+/chat: Создать чат#
+/q: Покинуть чат#
+/deal <Имя персонажа>: Предложить персонажу сделку#
+/organize <Название группы>: Создать группу#
+/leave: Покинуть группу#
+/expel <Имя персонажа>: Исключить персонажа (без < >) из группы#
+[Alt] + [End]: Включить или отключить показ полос HP и SP#
+[Alt] + [Home]: Включить или отключить отображение курсора на земле#
+[Insert]: Сесть/встать (Горячая клавиша для /sit и /stand)#
+Поздравляем! Вы победили MVP!! И вы получаете #
 !!#
-Congratulations! You are the MVP! Your reward EXP Points are #
+Поздравляем! Вы победили MVP!! И вы получаете #
 !!#
-You are the MVP, but you can't take the reward because you are over your weight limit.#
-There is no such character name or the user is offline.#
- doesn't want to receive your messages.#
- is not in the mood to talk with anyone.#
-Killed/Disconnected User.#
-Kill has failed.#
+Вы победили MVP, но вы не можете получить награду, так как у вас перевес.#
+Персонажа с таким именем не найдено.#
+ не хочет получать ваши сообщения.#
+ не настроен разговаривать с кем-либо.#
+Убийство удалось.#
+Убийство не удалось.#
 У тебя %s (%d).#
-[Alt] + [=]: Fix the interval error between letters.#
-[F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
-How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/??,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
-How to Speak to Party: Add '%' in front of every message.(Example: \%Hello\)#
-You haven't learned enough Basic Skills to Trade.#
-You haven't learned enough Basic Skills to use Emotion icons.#
-You haven't learned enough Basic Skills to Sit.#
-You haven't learned enough Basic Skills to create a chat room.#
-You haven't learned enough Basic Skills to Party.#
-You haven't learned enough skills to Shout.#
-You haven't learned enough skills for Pking.#
-Buying Items#
-Item Shop#
-Selling Items#
-Storage#
- is put on.#
- is taken off.#
-To add names on the Whispering List#
-How to Take Screen Shots: Press [Print Screen] or [Scroll Lock]#
-Tip of the Day#
-^3850a0Did you know...?^709fed#
-Display at startup#
-/tip: Opens ''Tip of the Day''#
-There are %d Players Currently Connected.#
-(%s) has entered.#
-(%s) has left.#
-(%s) was kicked out.#
- %d ea.#
-%s: %d ea.#
-%s %s: %d ea.#
-Available Items to sell#
-Shop Items#
-Unknown Area#
-Your Client language doesn't match the Server language.#
-Please move your equipment to the inventory. And close the equipment window.#
-This server provides English Text Characters Only.#
-This is not implemented yet.#
-No Whisper List.#
-: Whispering Blocked.#
-: Whispering Block has failed.#
-: Whispering Block has failed. Block List is full.#
-: Whispering accepted.#
-: Command has failed.#
-: Command has failed. Block List is full.#
-You cannot put a space at the beginning or end of a name.#
-Private#
-Public#
+[Alt] + [=]: Исправить ошибку с интервалом между буквами.#
+[F10]: Изменить размер чата / [Alt] + [F10]: Включить или отключить окно чата#
+Как писать в приват: Введите имя персонажа слева в окне чата и напечатайте сообщение справа. Клавиша Tab поможет перемещаться между этими окнами.#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/??,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/okГорячие клавиши для эмоций Alt + (1~9) Ctrl + (-=\\)#
+Как говорить в группу : Добавьте "%" перед каждым сообщением или нажмите [CTRL] + [ENTER] после написания сообщения.#
+Вы пока не умеете торговать.#
+Вы пока не умеете использовать эмоции.#
+Вы пока не умеете сидеть.#
+Вы пока не умеете создавать чат.#
+Вы пока не умеете создавать группу.#
+Вы пока не умеете кричать.#
+Вы пока не можете участвовать в убийстве других персонажей.#
+Купить вещи#
+Магазин#
+Продать вещи#
+Инвентарь#
+ используется.#
+ не используется.#
+Чтобы добавить имя в список приватов#
+Чтобы сделать скриншот, нажмите [Print Screen] или [Scroll Lock]#
+Совет дня#
+^3850a0Вы знаете, что..?^709fed#
+Открыт при запуске#
+/tip: Показывать <Совет дня>#
+%d персонажей в игре.#
+(%s) зашел.#
+(%s) вышел.#
+(%s) был исключен.#
+ %d ед.#
+%s: %d ед.#
+%s %s: %d.#
+Вещи, доступные для продажи#
+Вещи на продажу#
+Неизвестная зона#
+Язык вашего клиента не соответствует языку сервера.#
+Нельзя выкидывать предметы при открытом окне снаряжения.#
+В этой версии игры используется русский язык.#
+Дополнительная информация недоступна.#
+Нет списка приватов.#
+: Приват заблокирован.#
+: Блокировка привата не удалась.#
+: Блокировка привата не удалась. Список заблокированных переполнен.#
+: Приват разблокирован.#
+: Команда недоступна.#
+: Команда недоступна. Список заблокированных переполнен.#
+Вы не можете ставить пробел до или после имени.#
+Приватный#
+Общий#
 Недостаточно SP#
 Недостаточно HP#
 Навык не сработал.#
 Украсть не удалось.#
-Trade#
-Envenom skill has failed.#
-You cannot use this ID on this server.#
+Сделка#
+Отравление не удалось.#
+Вы не можете использовать этот ID на этом сервере.#
 Скорость увеличилась.#
 Скорость уменьшилась.#
-/memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
-Random Area#
-Select an Area to Warp#
-Skill Level is not high enough#
-There are no memorized locations (Memo Points).#
-You haven't learned Warp skill.#
-Current location is saved as a Memo Point for Warp Skill.#
-Cancel#
-There is a Delay after using a Skill.#
-You can't have this item because you will exceed the weight limit.#
-Out of the maximum capacity#
-Cart Items#
-Take off Cart#
-Opening a stall#
-Please Name your Shop.#
-My Shop#
-Merchant Shop#
-Buying Items#
-%s Purchase Failed %s#
-Out of Stock#
-%s %d sold.#
-Available Items for Vending#
-Навык не сработал, потому что вам не хватает зени.#
-Select a Target.#
-/pk on: Turns PK On. /pk off: Turns PK Off.#
-Shop#
-Cart Items [Alt+W]#
-Basic Information#
-The skill cannot be used with this weapon.#
-Buying %s has been failed. Out of Stock. Current Stock %d.#
-You've been disconnected due to a time gap between you and the server.#
-Please equip the proper ammunition first.#
-You can't attack or use skills because you've exceeded the Weight Limit.#
-You can't use skills because you've exceeded the Weight Limit.#
-Ammunition has been equipped.#
-Red Gemstone required.#
-Blue Gemstone required.#
-Strength#
-Agility#
-Vitality#
-Intelligence#
-Dexterity#
-Luck#
-Physical Attack#
-Physical Defense#
-Accuracy Rate#
-Critical Attack Rate#
-Assigned Guild#
-Status Points to allocate#
-Magical Attack#
-Magical Defense#
-Flee Rate#
-Attack Speed#
-Server is jammed due to over population. Please try again shortly.#
+/memo: Запомнить место для умения Портал.#
+Случайное место#
+Выберите зону для телепортации#
+Недостаточный уровень умения#
+Нет списка запомненных мест для умения Портал.#
+Вы еще не выучили умение Портал.#
+Место запомнено.#
+Отмена#
+Задержка после использования умения.#
+Вы не можете взять эту вещь, т.к. у вас перевес.#
+Превышен лимит вместимости#
+Предметы#
+Отказаться от телеги#
+Открыть магазин#
+Пожалуйста, назовите ваш магазин.#
+Магазин#
+Магазин торговца#
+Купить#
+%s Покупка не удалась %s#
+Все продано#
+%s %d продано.#
+Вещи на продажу#
+Навык не сработал, потому что вам не хватает зеней#
+Выбрать цель.#
+/pk on: Включает режим PvP.  /pk off: Отключает режим PvP.#
+Магазин#
+Чтобы увидеть вещи в телеге, нажмите [Alt] + [W]#
+Базовая информация#
+Вы не можете использовать это умение с этим оружием.#
+Покупка %s не удалась в связи с нехваткой товара. Осталось %d.#
+Вас отсоединило от сервера из-за задержки сигнала между сервером и клиентом.#
+Снаряды не экипированы.#
+Вы не можете атаковать или использовать умения, потому что у вас перевес.#
+Вы не можете использовать умения, потому что у вас перевес.#
+Снаряды экипированы.#
+Требуется Красный драгоценный камень (Red Gemstone).#
+Требуется Синий драгоценный камень (Blue Gemstone).#
+Сила#
+Ловкость#
+Живучесть#
+Интеллект#
+Сноровка#
+Удача#
+Атака#
+Защита#
+Точность#
+Шанс критического удара#
+Гильдия#
+Очки для улучшения параметров#
+Магическая атака#
+Магическая защита#
+Уворот#
+Скорость атаки#
+Сервер переполнен.#
 Опции игры#
-Account ID blocked by the Game Master Team.#
-Incorrect User ID or Password. Please try again.#
-Choose Hairstyle#
-ATK#
-DEF#
-Attack Snap On#
-Attack Snap Off#
-Skill Snap On#
-Skill Snap Off#
-/snap: Turns snap On | Off for fights, /skillsnap: Turns snap On | Off for skills. /itemsnap: Turns snap On | Off for items on the grounds.#
-Item Snap On#
-Item Snap Off#
-Snap#
-You cannot carry more than 30,000 of one kind of item.#
-You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
-You cannot use an NPC shop while in a trade.#
-Name#
-Дерево Навыков#
+В настоящий момент логин не доступен. Пожалуйста повторите попытку позже.#
+Неверный логин или пароль. Пожалуйста введите данные повторно.#
+Выберите прическу#
+Атака#
+Защ.#
+Автонаведение атаки включено#
+Автонаведение атаки отключено#
+Автонаведение умений включено#
+Автонаведение умений отключено#
+/snap: Включает или отключает автонаведение для атаки.  /skillsnap: Включает или отключает автонаведение для умений.  /itemsnap: Включает или отключает автонаведение для предметов на земле.#
+Автонаведение предметов включено#
+Автонаведение предметов отключено#
+Фокус#
+Вы не можете положить более 30,000 предметов одного типа.#
+Вы не можете удалить персонажа выше 30 уровня. Если вы все же хотите сделать это, свяжитесь с игровым мастером в игре или по почте.#
+Во время торговли вы не можете использовать магазины NPC.#
+Знак#
+Навыки#
 Очки Навыков: %d#
 Навык не сработал.#
-Passive#
-Each Take #
-Even Share#
-Each Take#
-Party Share#
-Party Setup#
-How to share EXP#
-How to share Items#
-Only the Party Leader can change this setting.#
-Toggle Item Amount.#
+Пассивный#
+Индивидуально #
+На группу#
+Убивший монстра#
+Любой в группе#
+Настройки группы#
+Распределение опыта#
+Поднятие предметов#
+Только создатель группы может изменить настройки.#
+Не уточнять количество.#
 Character will be deleted after ^ff0000%d^000000 seconds. Press Cancel to quit.#
 You cannot trade more than 10 types of items per trade.#
 You are underaged.#
@@ -592,7 +592,7 @@ You have been knocked down by %s.#
 Pet food '%s' is not available.#
 Покормить#
 Performance#
-Вернуть в яйцо#
+Вернуть в Яйцо#
 Снять аксессуар#
 Проверить статус#
 Аксессуар#
@@ -792,7 +792,7 @@ Dear angel, can you hear my voice?#
 I am#
 Super Novice~#
 Help me out~ Please~ T_T#
- wishes to adopt you. Do you accept?#
+ хочет добавить тебя в друзья. Вы согласны?#
 Z ~ > keys allow you to use skills assigned on shortcut window 1. On | Off#
 Press the space bar to Chat when in Battle mode [/battlemode | /bm].#
 'Either there's no Game Guard installed on the program or Game Guard is cracked. Please, try to reinstall Game Guard from its setup file.'#
@@ -1547,7 +1547,7 @@ Do you want to cancel the admission application?#
 After %s go to the Battle field. Make sure you're in stable condition. (Trading and teleportation are disabled)#
 Formal Name#
 Do you really want to go back to your savepoint?#
-Party member search#
+Поиск членов партии#
 Message option is off the search party members.#
 10 seconds delay of party support is in effect#
 Party leader is '%s'.#
@@ -1616,11 +1616,11 @@ You dropped %s (%d).#
  acquired.#
  has lost.#
 From [%s], '%d' coins were stolen.#
-Battle message#
-Party member's battle message#
-Experience message#
+Сообщения о ходе боя#
+Боевые сообщения членов группы#
+Показывать полученый опыт#
 Party member's experience message#
-Quest message#
+Квестовые сообщения#
 Battlefield message#
 #
 casts [%s] skill.#
@@ -3071,7 +3071,7 @@ SP#
 Lv#
 Lv#
 Exp#
-all on#
+включить всё#
 Play Replay Flie#
 P#
 Total#

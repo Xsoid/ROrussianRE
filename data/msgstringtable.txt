@@ -2613,7 +2613,7 @@ Internet cafe Gold mileage information#
 Нельзя удалить письмо с вложением.#
 Вы больше не можете отправить Зени.#
 Налог: %s Зени#
-The recipient's name does not exist.#
+Получатель не существует.#
 Опыт : %.1f%% ( рейты %.1f%% премиум %.1f%% + %s %.1f%%)#
 Вещи  : %.1f%% ( рейты %.1f%% премиум %.1f%% + %s %.1f%%)#
 Смерть : %.1f%% ( рейты %.1f%% премиум %.1f%% + %s %.1f%%)#
@@ -2695,9 +2695,9 @@ Please empty at least 5 amount of possession in item window.#
 E X P : %.1f%% ( basic 100.0%% Internet cafe %.1f%% + %s %.1f%% )#
 DROP  : %.1f%% ( basic 100.0%% Internet cafe %.1f%% + %s %.1f%% )#
 DEATH : %.1f%% ( basic 100.0%% Internet cafe %.1f%% + %s %.1f%% )#
-The number of items that can be attached is exceeded.#
+Превышено максимальное количество вложений.#
 Уведомлять о покупке#
-Unable to attach the items.#
+Предмет запрещен к пересылке по почте.#
 Because you cannot win a slam room and turn the roulette of the next higher step.#
 Ответить#
 Прочитать#
@@ -2890,9 +2890,9 @@ Range#
 You use the left mouse button to specify the role#
 You use the left mouse button to specify the range#
 Not a valid range, please press Enter#
-E X P : %.1f%% ( basic %.1f%% %s %.1f%%)#
-DROP  : %.1f%% ( basic %.1f%% %s %.1f%%)#
-DEATH : %.1f%% ( basic %.1f%% %s %.1f%%)#
+ОПЫТ : %.1f%% ( basic %.1f%% %s %.1f%%)#
+ДРОП  : %.1f%% ( basic %.1f%% %s %.1f%%)#
+СМЕРТЬ : %.1f%% ( basic %.1f%% %s %.1f%%)#
 The role name will be sent: %s #
 Synthesis of the required materials#
 Insufficient synthesis materials#
@@ -3068,27 +3068,27 @@ Yes#
 No#
 HP#
 SP#
-Lv#
-Lv#
-Exp#
-включить всё#
-Play Replay Flie#
-P#
-Total#
-Basicinfo#
-Equip#
-Item#
-Skill#
-Guild#
-Party#
-Chatting#
-Shortcut#
-Status#
-ALL#
-User Defined File Name#
-Repeated File Check#
+Ур.#
+Ур.#
+Опыт#
+ все вкл.#
+Включить повтор#
+3076#
+Итого#
+Баз. инфо#
+Снаряж.#
+Предметы#
+Умения#
+Гильдия#
+Группа#
+Чат#
+Быстр. доступ#
+Статус#
+Все#
+Свое название файла#
+Проверка файла#
 вкл#
-<Basic Skin>#
+<Базовый>#
 Выбрать скин#
 Unable to delete lottery ticket#
 /achievement#
@@ -3532,3 +3532,8 @@ Lack of energy sphere.#
 Contains skill (%s) that can't be learned.#
 /frame#
 їюЖщ єн·ОЕ· №ЯµїИД Б¦ЗСЅГ°Ј і»їЎ »зїл°ЎґЙЗС ЅєЕіАФґПґЩ.#
+3535#
+ОПЫТ   : %.1f%% ( Базовый 100.0%% %s %.1f%%)#
+ДРОП   : %.1f%% ( Базовый 100.0%% %s %.1f%%)#
+СМЕРТЬ : %.1f%% ( Базовый 100.0%% %s %.1f%%)#
+Недопустимые символы в имени персонажа.#

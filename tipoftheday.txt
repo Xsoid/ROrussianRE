@@ -1,8 +1,8 @@
-/savechat  :  save the contents of the chat window
+/savechat : сохраняет чат в текстовый файл.
 #
-Hold the ctrl key and press the * key to toggle the minimap between opaque and semi-transparent 
+Вы можете делать мини-карту прозрачной или непрозрачной, нажав ctrl+[*]
 #
-Hold the shift key and drag with the right mouse button to adjust the viewing angle. To restore the original angle, hold the shift key and double-click the right mouse button 
+Вы можете вращать камеру, зажимая правую кнопку мыши или клавишу shift. Двойное нажатие правой кнопки мыши возвращает первоначальный вид.
 #
 Hold the ctrl key and drag with the right mouse button to zoom in and out. To restore the original zoom, hold the ctrl key and double click the right mouse button. The mouse wheel can also be used to zoom in and out
 #
@@ -110,7 +110,7 @@ The game window can be moved when playing in windowed mode. Hold [Alt] + [Space]
 #
 Items found on monsters are unidentified; use magnifying glasses bought from tool shops to identify and verify the effects and usage of items
 #
-If Hunters want to use the Trap series of skills, they must have theЎmBooby TrapЎnitem on them
+If Hunters want to use the Trap series of skills, they must have themBooby Trapnitem on them
 #
 One Emperium is required to make a guild (union); the command is /GUILD [guild name] , the name cannot contain special characters or spaces. Alt + G opens the guild window
 #

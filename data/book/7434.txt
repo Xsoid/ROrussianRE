@@ -1,65 +1,62 @@
 %faf0e6
-^000088Produce special potions to enhance
-resistance to elemental properties.^000000
+^000088Изготовление элементальных зелий^000000
 
 
-----------------Preface--------------------
-You can temporarily increase resistance to the
-four basic elements, Fire, Water, Wind, and Earth
-properties, by using catalyzers to produce potions
-that will provide protection for each element. I write
-this book on property resistance with the wish that
-my principles and knowledge of the four basic
-elements will help future Alchemists.
+----------------Предисловие---------------
+Вы можете временно увеличивать устойчивость к четырем основным стихиям - Огню, Воде,
+Ветру и Земле - путем использования катализаторов, благодаря которым получается
+зелье, защищающее от того или иного. элемента. Я написал эту книгу в надежде, что мои
+знания четырех стихий помогут будущим алхимикам.
 ------------------------------------------
 
 
-What is a ^ff0000property resistance potion^000000?
+Описание:
+Защитное зелье временно повышает вашу сопротивляемость к одному из элементов, однако
+на время действия зелья снижается сопротивляемость к противоположной стихии.
+Например, зелья огня помогают противостоять Огню, но они также снижают вашу
+способность противостоять Воде.
 
 
-Property resistance potions temporarily increase
-resistance to one element, but also reduce resistance
-to that element's opposing element. For example, fireproof
-potions can reduce damage from the Fire property, but they
-also increase damage from the Water property.
+^0000ffЗелье Огня^000000: временно повышает устойчивость к Огню.
+
+Ингредиенты: ^4b00822 Воротника ящерицы, 1 Пустая бутылка, 1 Красный драгоценный камень^000000
+
+Указания:
+1) Поместите воротники и красный камень в медицинскую ступу.
+2) Используйте умение [Изготовить Зелье], тогда от камня пойдет реакция на другие
+ингредиенты.
+3) Перелейте раствор в пустую бутылку.
 
 
-^0000ffFireproof Potion^000000: Enhances Fire property resistance.
-Required Materials: ^4b008222 Frills,
-1 Red Gemstone, 1 Empty potion bottle^000000
-Process: Place the frills and a red gemstone into
-a medicine bowl. Use the Prepare Potion skill so
-that the gemstone will begin to catalyze the other
-ingredients, and then pour the solution into an
-empty potion bottle.
+^800000Зелье Воды^000000: временно повышает устойчивость к Воде.
 
-^800000Coldproof Potion^000000: Enhances Water property resistance.
-Required Materials: ^4b00823 Heart of Mermaids,
-1 Blue Gemstone, 1 Empty Potion Bottle^000000
-Process: Place the hearts of mermaid and blue
-gemstone into a medicine bowl. Use the Prepare
-Potion skill so that the gemstone will begin to catalyze
-the other ingredients, and then pour the solution
-into an empty potion bottle.
+Ингредиенты: ^4b00823 Сердца русалок, 1 Пустая бутылка, 1 Синий драгоценный камень^000000
+
+Указания:
+1) Поместите сердца русалок и синий камень в медицинскую ступу.
+2) Используйте умение [Изготовить Зелье], тогда от камня пойдет реакция на другие
+ингредиенты.
+3) Перелейте раствор в пустую бутылку.
 
 
+^008040Зелье Ветра^000000: временно повышает устойчивость к Ветру.
 
-^008040Thunderproof Potion^000000: Enhances Wind property resistance.
-Required Materials: ^4b00823 Moth Dust,
-1 Blue Gemstone, 1 Empty Potion Bottle^000000
-Process: Place the moth dust and blue gemstone
-into a medicine bowl. Use the Prepare Potion skill
-so that the gemstone will begin to catalyze the
-other ingredients, and then pour the solution
-into an empty potion bottle.
+Ингредиенты: ^4b00823 Пыльцы мотылька, 1 Пустая бутылка, 1 Синий драгоценный камень^000000
 
-
+Указания:
+1) Поместите пыльцу мотылька и синий камень в медицинскую ступу.
+2) Используйте умение [Изготовить Зелье], тогда от камня пойдет реакция на другие
+ингредиенты.
+3) Перелейте раствор в пустую бутылку.
 
 
-^ff8040Earthproof Potion^000000: Enhances Earth property resistance.
-Required Materials: ^4b00822 Large Jellopies,
-1 Yellow Gemstone, 1 Empty potion bottle^000000
-Process: Place the large jellopies and yellow gemstone
-into a medicine bowl. Use the Prepare Potion skill so that
-the gemstone will begin to catalyze the other ingredients,
-and then pour the solution into an empty potion bottle.
+^ff8040Зелье Земли^000000: временно повышает устойчивость к Земле.
+
+Ингредиенты: ^4b00822 Больших желлопи, 1 Пустая бутылка, 1 Желтый драгоценный камень^000000
+
+Указания:
+1) Поместите большие желлопи и желтый камень в медицинскую ступу.
+2) Используйте умение [Изготовить Зелье], тогда от камня пойдет реакция на другие
+ингредиенты.
+3) Перелейте раствор в пустую бутылку.
+

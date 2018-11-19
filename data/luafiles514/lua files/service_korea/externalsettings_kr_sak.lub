@@ -1,9 +1,9 @@
 MaxLevelTable = {
 	BaseLevel = 99,
-	BaseLevel3rd = 175,
+	BaseLevel3rd = 185,
 	BaseLevelExtend2 = 160,
 	BaseLevelUpperJob = 175,
-	BaseLevelHomun = 175,
+	BaseLevelHomun = 185,
 	BaseLevelDoram = 175,
 	JobLevelNovice = 10,
 	JobLevelSuperNovice = 99,
@@ -14,33 +14,29 @@ MaxLevelTable = {
 	JobLevelUpperJob = 60,
 	JobLevelDoram = 50
 }
-MakeableRace = { Doram = true }
-Url = { TwitterUrl = "" }
-AccountLinkedUserDataUrl = {
-	Save = "",
-	Load = ""
+MakeableRace = {Doram = true}
+Url = {
+	TwitterUrl = "http://112.175.128.140:3000/"
 }
-AdventurerAgencyDataUrl = {
-	Add = "",
-	Delete = "",
-	PrevPage = "",
-	NextPage = ""
+AccountLinkedUserDataUrl = {
+	Save = "http://112.175.128.140:3000/userconfig/save",
+	Load = "http://112.175.128.140:3000/userconfig/load"
 }
 TwitterDataUrl = {
-	Auth = "",
-	Upload = ""
+	Auth = "http://112.175.128.140:3000/twitter/user-auth",
+	Upload = "http://112.175.128.140:3000/twitter/upload"
 }
 LEVELAURA = {}
-LEVELAURA["EF_NONE"] = -1
-LEVELAURA["EF_LEVEL99"] = 200
-LEVELAURA["EF_LEVEL99_ORB1"] = 976
-LEVELAURA["EF_LEVEL99_ORB2"] = 977
-LEVELAURA["EF_LEVEL150"] = 978
-LEVELAURA["EF_LEVEL150_SUB"] = 979
-LEVELAURA["EF_LEVEL160"] = 1022
-LEVELAURA["EF_LEVEL160_SUB"] = 1023
-LEVELAURA["EF_LEVEL185"] = 1226
-LEVELAURA["EF_LEVEL185_SUB"] = 1227
+LEVELAURA.EF_NONE = -1
+LEVELAURA.EF_LEVEL99 = 200
+LEVELAURA.EF_LEVEL99_ORB1 = 976
+LEVELAURA.EF_LEVEL99_ORB2 = 977
+LEVELAURA.EF_LEVEL150 = 978
+LEVELAURA.EF_LEVEL150_SUB = 979
+LEVELAURA.EF_LEVEL160 = 1022
+LEVELAURA.EF_LEVEL160_SUB = 1023
+LEVELAURA.EF_LEVEL185 = 1226
+LEVELAURA.EF_LEVEL185_SUB = 1227
 Level99AuraTable = {
 	Default99LvAura = LEVELAURA.EF_LEVEL99,
 	Default99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB1,
@@ -62,7 +58,6 @@ MaxLevelAuraTable = {
 	HomunMaxLvAura = LEVELAURA.EF_LEVEL160,
 	HomunMaxLvAura_sub = LEVELAURA.EF_LEVEL160_SUB
 }
-
 function GetTableIntValueForC(tableName, keyName)
 	local t = _G[tableName]
 	if nil == t then
@@ -75,7 +70,6 @@ function GetTableIntValueForC(tableName, keyName)
 		return intValue
 	end
 end
-
 function GetTableStringValueForC(tableName, keyName)
 	local t = _G[tableName]
 	if nil == t then
@@ -88,7 +82,6 @@ function GetTableStringValueForC(tableName, keyName)
 		return stringValue
 	end
 end
-
 function GetTableBoolValueForC(tableName, keyName)
 	local t = _G[tableName]
 	if nil == t then

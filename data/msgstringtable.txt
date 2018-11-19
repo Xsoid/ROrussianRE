@@ -3060,7 +3060,7 @@ Participate in role#
 2nd prize#
 3rd prize#
 Purchase reward items#
-^1a1a1a1 ^b%d ^/b Lottery will spend \n^4435b2%d gold coin^1a1a1a\nBuy it?#
+^1a1a1a1 ^b%d ^/b Lottery will spend \n^4435b2%d zeny^1a1a1a\nBuy it?#
 Lottery purchase success#
 Insufficient gold coin to purchase lottery#
 Maximum ammount of purchase is 1000#
@@ -3101,7 +3101,7 @@ Purchase gold coin#
 Refund amount: %d Zeny\r\nRefund reason: Server failed to draw lottery#
 Добавить мини-окно#
 Убрать мини-окно#
-Lottery draw is over, please confirm the prize if you win.#
+Lottery drawing is over, please verify if you've won the prize.#
 %d month %d day#
 До следующего уровня#
 Завершено#
@@ -3531,9 +3531,38 @@ No equipped weapon.#
 Lack of energy sphere.#
 Contains skill (%s) that can't be learned.#
 /frame#
-їюЖщ єн·ОЕ· №ЯµїИД Б¦ЗСЅГ°Ј і»їЎ »зїл°ЎґЙЗС ЅєЕіАФґПґЩ.#
-3535#
+After Weapon Blocking is triggered, possible skills are available for use for limited duration.#
+The username or password is incorrect.#
 ОПЫТ   : %.1f%% ( Базовый 100.0%% %s %.1f%%)#
 ДРОП   : %.1f%% ( Базовый 100.0%% %s %.1f%%)#
 СМЕРТЬ : %.1f%% ( Базовый 100.0%% %s %.1f%%)#
 Недопустимые символы в имени персонажа.#
+you must have an AccessTicket to login#
+Loading Guild Storage.#
+NOW LOADING..#
+Delete#
+Reply#
+Send#
+Validate name#
+Notice#
+General#
+Return#
+
+Search#
+Failed to feed the pet. Pet in a state that can't be fed.#
+Failed to feed the homunculus. Homunculus in a state that can't be fed.#
+money#
+%s %d ea#
+Exchange failed.#
+Exchange successfuly completed.#
+Not enough items to exchange.#
+The item has been sold and out of stock.#
+KO'ed#
+PvP#
+Expand item possession#
+Do you want to expand the maximum number of item by using ^0000ff%s^000000? \nIt will expand from (^0000ff%d^000000) to (^0000ff%d^000000).\n^ff0000 Expanded item possession limit can't be reversed.^000000#
+Failed to expand the maximum number of item.#
+To expand the number of items, please close other windows.#
+Failed to expand the maximum number of items, insufficient required item.#
+You can no longer expand the maximum number of item.#
+You have successfully expanded the number of item.#

@@ -6167,7 +6167,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.TF_PICKSTONE] = {
 		"TF_PICKSTONE",
-		SkillName = "Собирание камней",
+		SkillName = "Сбор камней",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = { 2 },
@@ -11727,7 +11727,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_ADJUSTMENT] = {
 		"GS_ADJUSTMENT",
-		SkillName = "Ужас стрелка",
+		SkillName = "Регулировка",
 		MaxLv = 1,
 		SpAmount = { 15 },
 		bSeperateLv = false,
@@ -11738,7 +11738,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_INCREASING] = {
 		"GS_INCREASING",
-		SkillName = "Повышение меткости",
+		SkillName = "На взводе",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -11771,7 +11771,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_SINGLEACTION] = {
 		"GS_SINGLEACTION",
-		SkillName = "Тир",
+		SkillName = "Предварительный взвод",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -11787,7 +11787,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_TRACKING] = {
 		"GS_TRACKING",
-		SkillName = "Контрольный выстрел",
+		SkillName = "Выслеживание",
 		MaxLv = 10,
 		SpAmount = { 15, 20, 25, 30, 35, 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -11809,7 +11809,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_PIERCINGSHOT] = {
 		"GS_PIERCINGSHOT",
-		SkillName = "Пронзающий выстрел",
+		SkillName = "Проникающий выстрел",
 		MaxLv = 5,
 		SpAmount = { 11, 12, 13, 14, 15 },
 		bSeperateLv = true,
@@ -11820,7 +11820,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_RAPIDSHOWER] = {
 		"GS_RAPIDSHOWER",
-		SkillName = "Быстрый выстрел",
+		SkillName = "Внезапный обстрел",
 		MaxLv = 10,
 		SpAmount = { 22, 24, 26, 28, 30, 32, 34, 36, 38, 40 },
 		bSeperateLv = true,
@@ -11842,7 +11842,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_GATLINGFEVER] = {
 		"GS_GATLINGFEVER",
-		SkillName = "Пулеметная лихорадка",
+		SkillName = "Пулемётная лихорадка",
 		MaxLv = 10,
 		SpAmount = { 30, 32, 34, 36, 38, 40, 42, 44, 46, 48 },
 		bSeperateLv = true,
@@ -11865,7 +11865,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_FULLBUSTER] = {
 		"GS_FULLBUSTER",
-		SkillName = "Полный отрыв",
+		SkillName = "Полный отрыв",-- Опустошить магазин
 		MaxLv = 10,
 		SpAmount = { 20, 25, 30, 35, 40, 45, 50, 55, 60, 65 },
 		bSeperateLv = true,
@@ -11876,7 +11876,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.GS_SPREADATTACK] = {
 		"GS_SPREADATTACK",
-		SkillName = "Мульти-выстрел",
+		SkillName = "Разрывной выстрел",
 		MaxLv = 10,
 		SpAmount = { 13, 16, 19, 22, 25, 28, 31, 34, 37, 40 },
 		bSeperateLv = true,
@@ -11920,7 +11920,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.RL_RICHS_COIN] = {
 		"RL_RICHS_COIN",
-		SkillName = "Гроши богача",
+		SkillName = "Монета богачей",-- Гроши богача
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11943,7 +11943,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.RL_QD_SHOT] = {
 		"RL_QD_SHOT",
-		SkillName = "Быстрый выстрел",
+		SkillName = "Быстрая стрельба",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -12076,7 +12076,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.RL_BANISHING_BUSTER] = {
 		"RL_BANISHING_BUSTER",
-		SkillName = "Ускоритель изгнания",
+		SkillName = "Охота за привидениями",
 		MaxLv = 5,
 		SpAmount = { 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -12087,7 +12087,7 @@ SKILL_INFO_LIST = {--новые умения мобов из эп 17.1
 	},
 	[SKID.RL_S_STORM] = {
 		"RL_S_STORM",
-		SkillName = "Уничтожающий шторм",
+		SkillName = "Осколочный шторм",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = true,

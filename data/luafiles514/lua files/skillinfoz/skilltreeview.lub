@@ -1163,13 +1163,13 @@ SKILL_TREEVIEW_FOR_JOB = {
 		[32] = SKID.SP_SOULEXPLOSION
 	}
 }
-JobSkillTab.ChangeSkillTabName(JOBID.JT_NOVICE, "Novice-1st", "2nd", "3rd")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_NINJA, "Novice-1st Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_GUNSLINGER, "Novice-1st Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_SUPERNOVICE, "Novice-1st Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_TAEKWON, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_LINKER, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR2, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER, "Summoner")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER_B, "Summoner")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_NOVICE, "Н - 1", " 2 ", " 3 ")-- пробелы для выравнивания размера
+JobSkillTab.ChangeSkillTabName(JOBID.JT_NINJA, "Н - 1о", " 2о ")-- особая
+JobSkillTab.ChangeSkillTabName(JOBID.JT_GUNSLINGER, "Н - 1о", " 2о ")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_SUPERNOVICE, "Н - 1о", " 2о ")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_TAEKWON, "Н - 1о", " 2о ", " 3о ")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR, "Н - 1о", " 2о ", " 3о ")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_LINKER, "Н - 1о", " 2о ", " 3о ")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR2, "Н - 1о", " 2о ", " 3о ")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER, "Дорам")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER_B, "Дорам")

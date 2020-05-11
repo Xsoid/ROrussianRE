@@ -1,6 +1,7 @@
 function GetOngoingQuestInfoByID(questID)
 	return GetOngoingSimpleView(questID), QuestInfoList[questID].Title, QuestInfoList[questID].IconName, QuestInfoList[questID].Summary, QuestInfoList[questID].NpcSpr, QuestInfoList[questID].NpcNavi, QuestInfoList[questID].RewardEXP, QuestInfoList[questID].RewardJEXP, QuestInfoList[questID].NpcPosX, QuestInfoList[questID].NpcPosY
 end
+
 function GetOngoingDescription(questID)
 	local desc = QuestInfoList[questID].Description
 	if nil == desc then
@@ -10,6 +11,7 @@ function GetOngoingDescription(questID)
 		AddOngoingDescription(questID, v)
 	end
 end
+
 function GetOngoingRewardInfo(questID)
 	local reward = QuestInfoList[questID].RewardItemList
 	if nil == reward then
@@ -19,6 +21,7 @@ function GetOngoingRewardInfo(questID)
 		AddOngoingRewardInfo(questID, v.ItemID, v.ItemNum)
 	end
 end
+
 function RecommendedQuestInfoLoad()
 	for questID, table in pairs(RecommendedQuestInfoList) do
 		if nil == table.Title then
@@ -63,6 +66,7 @@ function RecommendedQuestInfoLoad()
 		end
 	end
 end
+
 function RecommendedQuestActiveLoad()
 	if nil == RecommendedActiveList then
 		return
@@ -71,6 +75,7 @@ function RecommendedQuestActiveLoad()
 		SetRecommendedQuestActive(questID)
 	end
 end
+
 function GetOngoingSimpleView(in_questID)
 	if nil == OngoingSimpleViewList then
 		return true

@@ -13,6 +13,7 @@ function GetInheritJob(job)
 	return i
 end
 All_NeedSkillList = {}
+
 function CheckNeedSkillList(skillInfo, skillDepth)
 	if All_NeedSkillList ~= nil and skillInfo ~= nil then
 		local depth = 0
@@ -37,6 +38,7 @@ function CheckNeedSkillList(skillInfo, skillDepth)
 	end
 	return false
 end
+
 function SetNeedSkillList(SKID, depth)
 	local skillInfo = SKILL_INFO_LIST[SKID]
 	if skillInfo ~= nill then
@@ -74,6 +76,7 @@ function SetNeedSkillList(SKID, depth)
 		end
 	end
 end
+
 function GetSkillInfo(SKID)
 	All_NeedSkillList = nil
 	All_NeedSkillList = {}
@@ -91,6 +94,7 @@ function GetSkillInfo(SKID)
 	end
 	return "", "", -1, -1
 end
+
 function AddNeedSkillList(SKID)
 	if All_NeedSkillList ~= nil then
 		local depth = 0
@@ -109,6 +113,7 @@ function AddNeedSkillList(SKID)
 		end
 	end
 end
+
 function InitSkillTreeView(jobID, arrayNum)
 	local skillList = SKILL_TREEVIEW_FOR_JOB[jobID]
 	if skillList ~= nil then
@@ -128,6 +133,7 @@ function InitSkillTreeView(jobID, arrayNum)
 		end
 	end
 end
+
 function GetSkillIdName(SkillID)
 	local obj = SKILL_INFO_LIST[SkillID]
 	if obj ~= nil then
@@ -138,6 +144,7 @@ function GetSkillIdName(SkillID)
 	end
 	return ""
 end
+
 function GetSkillName(SkillID)
 	local obj = SKILL_INFO_LIST[SkillID]
 	if obj ~= nil then
@@ -148,6 +155,7 @@ function GetSkillName(SkillID)
 	end
 	return ""
 end
+
 function IsLevelUseSkill(SkillID)
 	local skillInfo = SKILL_INFO_LIST[SkillID]
 	local rst
@@ -163,6 +171,7 @@ function IsLevelUseSkill(SkillID)
 	end
 	return false
 end
+
 function GetLevelUseSpAmount(SkillID, idx)
 	local obj = SKILL_INFO_LIST[SkillID]
 	if obj ~= nil then
@@ -176,6 +185,7 @@ function GetLevelUseSpAmount(SkillID, idx)
 	end
 	return 0
 end
+
 function GetSkillDescript(JobID, SKID, bChangeColor)
 	local descript = ""
 	local obj = SKILL_DESCRIPT[SKID]
@@ -212,6 +222,7 @@ function GetSkillDescript(JobID, SKID, bChangeColor)
 	end
 	return descript
 end
+
 function TestFile(saveFileName)
 	saveFile = io.open(saveFileName, "w")
 	if saveFile ~= nil and All_NeedSkillList ~= nil then
@@ -229,6 +240,7 @@ function TestFile(saveFileName)
 	end
 	io.close(saveFile)
 end
+
 function GetSkillAttackRange(in_SKID, in_Level, in_curMaxLv)
 	local attackRange = 1
 	local attackRangeOfMaxLv = 0
@@ -256,6 +268,7 @@ function GetSkillAttackRange(in_SKID, in_Level, in_curMaxLv)
 	end
 	return 1, attackRangeOfMaxLv
 end
+
 function GetSkillScale(in_SKID, in_Level)
 	local obj = SKILL_INFO_LIST[in_SKID]
 	local x = 0
@@ -278,6 +291,7 @@ function GetSkillScale(in_SKID, in_Level)
 	end
 	return x, y
 end
+
 JobSkillTab = {}
 function JobSkillTab.ChangeSkillTabName(in_job, in_1sttab, in_2ndtab, in_3rdtab)
 	local tbl = {
@@ -288,6 +302,7 @@ function JobSkillTab.ChangeSkillTabName(in_job, in_1sttab, in_2ndtab, in_3rdtab)
 	}
 	JobSkillTab[#JobSkillTab + 1] = tbl
 end
+
 function JobSkillTab_GetTabName(in_job)
 	if nil == JobSkillTab then
 		return nil

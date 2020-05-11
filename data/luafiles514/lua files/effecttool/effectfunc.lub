@@ -20,6 +20,7 @@ function ReadEmitterInfoz(tablename)
 		end
 	end
 end
+
 function ReadMagicFloorInfoz(tablename)
 	local t = _G[tablename]
 	if t ~= nil then
@@ -55,6 +56,7 @@ function ReadMagicFloorInfoz(tablename)
 		end
 	end
 end
+
 function ReadEvilsPawInfoz(tablename)
 	local t = _G[tablename]
 	if t ~= nil then
@@ -66,6 +68,7 @@ function ReadEvilsPawInfoz(tablename)
 		end
 	end
 end
+
 function ReadAnimatedEmitterInfoz(tablename)
 	local t = _G[tablename]
 	if t ~= nil then
@@ -88,6 +91,7 @@ function ReadAnimatedEmitterInfoz(tablename)
 		end
 	end
 end
+
 function ReadEmitterInfoz_ver_1_0(tablename)
 	local t = _G[tablename]
 	local version = _G[tablename .. "_version"]
@@ -113,6 +117,7 @@ function ReadEmitterInfoz_ver_1_0(tablename)
 		end
 	end
 end
+
 function ReadEffectInfoz(tablename)
 	local t = _G[tablename]
 	if t ~= nil then

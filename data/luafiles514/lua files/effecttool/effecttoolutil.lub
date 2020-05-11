@@ -42,6 +42,7 @@ MSG_SET_HEIGHT19 = 40
 MSG_SET_HEIGHT20 = 41
 MSG_SET_SIZE2 = 42
 MSG_SET_ZENABLE = 43
+
 function IsOpenedEmitterInfoFiles(InfoTableName)
 	local EmitterInfoTable = _G[InfoTableName]
 	if EmitterInfoTable ~= nil then
@@ -49,6 +50,7 @@ function IsOpenedEmitterInfoFiles(InfoTableName)
 	end
 	return false
 end
+
 function ReadTable(InfoTableName, effectId)
 	local t = _G[InfoTableName]
 	for i = 0, table.getn(t) do
@@ -56,6 +58,7 @@ function ReadTable(InfoTableName, effectId)
 	end
 	ReadEmitterInfoz(InfoTableName)
 end
+
 function ReadEmitterInfoz(InfoTableName)
 	local EmitterInfoTable = _G[InfoTableName]
 	local version = _G[InfoTableName .. "_version"]
@@ -81,6 +84,7 @@ function ReadEmitterInfoz(InfoTableName)
 		end
 	end
 end
+
 function IsOpenedEffectFiles(InfoTableName)
 	local EffectInfoTable = _G[InfoTableName]
 	if EffectInfoTable ~= nil then
@@ -88,6 +92,7 @@ function IsOpenedEffectFiles(InfoTableName)
 	end
 	return false
 end
+
 function ReadOtherTable(InfoTableName)
 	local t = _G[InfoTableName]
 	for i = 0, table.getn(t) do
@@ -95,6 +100,7 @@ function ReadOtherTable(InfoTableName)
 	end
 	ReadEffectInfoz(InfoTableName)
 end
+
 function ReadEffectInfoz(InfoTableName)
 	local EffectInfoTable = _G[InfoTableName]
 	if EffectInfoTable ~= nil then

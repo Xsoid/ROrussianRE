@@ -3547,7 +3547,6 @@ Validate name#
 Notice#
 General#
 Return#
-
 Search#
 Failed to feed the pet. Pet in a state that can't be fed.#
 Failed to feed the homunculus. Homunculus in a state that can't be fed.#
@@ -3566,3 +3565,12 @@ To expand the number of items, please close other windows.#
 Failed to expand the maximum number of items, insufficient required item.#
 You can no longer expand the maximum number of item.#
 You have successfully expanded the number of item.#
+It is not possible to purchase as it will exceeds the possession limit.#
+You can only buy one item at a time.#
+Star Emperor#
+Soul Reaper#
+The settings are stored on the server on normal exit.#
+Capture Monster#
+message#
+TITLE#
+Expand damage mark#
